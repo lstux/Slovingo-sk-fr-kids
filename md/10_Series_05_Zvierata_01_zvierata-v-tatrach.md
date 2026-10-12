@@ -84,11 +84,11 @@
 > Ty si zajačica = toi, tu es une hase
 > Katka je svišť = Katka est une marmotte
 
-! Maťo je medveď. Je veľký a silný.
-> Maťo est un ours. Il est grand et fort.
+! Maťo je medveď. Je veľký a veselý.
+> Maťo est un ours. Il est grand et joyeux.
 > Maťo je medveď = Maťo est un ours
 > Je = il est
-> veľký a silný = grand et fort
+> veľký a veselý = grand et joyeux
 
 ---
 

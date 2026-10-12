@@ -131,46 +131,46 @@
       ]
     },
     {
-      "id": "listen-m-j-brat-je-siln",
+      "id": "listen-m-j-brat-je-vesel",
       "type": "listen",
-      "l1": "Mon frère est fort.",
-      "l2": "Môj brat je silný.",
+      "l1": "Mon frère est joyeux.",
+      "l2": "Môj brat je veselý.",
       "choices_l1": [
-        "Ma sœur est forte.",
+        "Ma sœur est joyeuse.",
         "Mon frère est petit.",
-        "Mon papa est fort."
+        "Mon papa est joyeux."
       ]
     },
     {
-      "id": "listen-moja-sestra-je-mal",
+      "id": "listen-m-j-brat-je-mal",
       "type": "listen",
-      "l1": "Ma sœur est petite.",
-      "l2": "Moja sestra je malá.",
+      "l1": "Mon frère est petit.",
+      "l2": "Môj brat je malý.",
       "choices_l1": [
-        "Mon frère est petit.",
-        "Ma sœur est grande.",
-        "Ma maman est petite."
+        "Ma sœur est petite.",
+        "Mon frère est grand.",
+        "Mon papa est petit."
       ]
     },
     {
-      "id": "listen-moja-mama-je-vesel-a-mil",
+      "id": "listen-m-j-tato-je-vesel-a-mil",
       "type": "listen",
-      "l1": "Ma maman est joyeuse et gentille.",
-      "l2": "Moja mama je veselá a milá.",
+      "l1": "Mon papa est joyeux et gentil.",
+      "l2": "Môj tato je veselý a milý.",
       "choices_l1": [
-        "Mon papa est joyeux et gentil.",
-        "Ma maman est petite et gentille.",
-        "Ma maman est joyeuse et forte."
+        "Ma maman est joyeuse et gentille.",
+        "Mon papa est petit et gentil.",
+        "Mon papa est joyeux et fort."
       ]
     },
     {
-      "id": "listen-m-j-tato-je-ve-k",
+      "id": "listen-moja-sestra-je-ve-k",
       "type": "listen",
-      "l1": "Mon papa est grand.",
-      "l2": "Môj tato je veľký.",
+      "l1": "Ma sœur est grande.",
+      "l2": "Moja sestra je veľká.",
       "choices_l1": [
         "Ma maman est grande.",
-        "Mon papa est petit.",
+        "Ma sœur est petite.",
         "Mon frère est grand."
       ]
     },
@@ -208,65 +208,65 @@
       ]
     },
     {
-      "id": "blank-m-j-brat-je-siln",
+      "id": "blank-m-j-brat-je-vesel",
       "type": "fill-blank",
-      "l1": "Mon frère est fort.",
-      "l2": "Môj brat je silný.",
-      "missing_l1": "fort",
-      "missing_l2": "silný",
+      "l1": "Mon frère est joyeux.",
+      "l2": "Môj brat je veselý.",
+      "missing_l1": "joyeux",
+      "missing_l2": "veselý",
       "blank_index_l1": 3,
       "blank_index_l2": 3,
       "choices_l1": [
         "petit",
-        "joyeux",
+        "fort",
         "gentil"
       ],
       "choices_l2": [
         "malý",
-        "veselý",
+        "silný",
         "milý"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-moja-sestra-je-mal",
+      "id": "blank-moja-sestra-je-siln",
       "type": "fill-blank",
-      "l1": "Ma sœur est petite.",
-      "l2": "Moja sestra je malá.",
-      "missing_l1": "petite",
-      "missing_l2": "malá",
+      "l1": "Ma sœur est forte.",
+      "l2": "Moja sestra je silná.",
+      "missing_l1": "forte",
+      "missing_l2": "silná",
       "blank_index_l1": 3,
       "blank_index_l2": 3,
       "choices_l1": [
-        "forte",
+        "petite",
         "grande",
         "joyeuse"
       ],
       "choices_l2": [
-        "silná",
+        "malá",
         "veľká",
         "veselá"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-moja-mama-je-vesel",
+      "id": "blank-moja-mama-je-siln",
       "type": "fill-blank",
-      "l1": "Ma maman est joyeuse.",
-      "l2": "Moja mama je veselá.",
-      "missing_l1": "joyeuse",
-      "missing_l2": "veselá",
+      "l1": "Ma maman est forte.",
+      "l2": "Moja mama je silná.",
+      "missing_l1": "forte",
+      "missing_l2": "silná",
       "blank_index_l1": 3,
       "blank_index_l2": 3,
       "choices_l1": [
         "gentille",
         "petite",
-        "forte"
+        "joyeuse"
       ],
       "choices_l2": [
         "milá",
         "malá",
-        "silná"
+        "veselá"
       ],
       "show_translation": true
     },
@@ -292,35 +292,35 @@
       "show_translation": true
     },
     {
-      "id": "order-m-j-brat-je-siln",
+      "id": "order-m-j-brat-je-vesel",
       "type": "order",
-      "l1": "Mon frère est fort.",
-      "l2": "Môj brat je silný.",
+      "l1": "Mon frère est joyeux.",
+      "l2": "Môj brat je veselý.",
       "tokens_l1": [
         "Mon frère",
         "est",
-        "fort."
+        "joyeux."
       ],
       "tokens_l2": [
         "Môj brat",
         "je",
-        "silný."
+        "veselý."
       ]
     },
     {
-      "id": "order-moja-sestra-je-mal",
+      "id": "order-moja-sestra-je-ve-k",
       "type": "order",
-      "l1": "Ma sœur est petite.",
-      "l2": "Moja sestra je malá.",
+      "l1": "Ma sœur est grande.",
+      "l2": "Moja sestra je veľká.",
       "tokens_l1": [
         "Ma sœur",
         "est",
-        "petite."
+        "grande."
       ],
       "tokens_l2": [
         "Moja sestra",
         "je",
-        "malá."
+        "veľká."
       ]
     },
     {
@@ -340,19 +340,19 @@
       ]
     },
     {
-      "id": "order-moja-babka-je-mil",
+      "id": "order-moja-babka-je-siln",
       "type": "order",
-      "l1": "Ma grand-mère est gentille.",
-      "l2": "Moja babka je milá.",
+      "l1": "Ma grand-mère est forte.",
+      "l2": "Moja babka je silná.",
       "tokens_l1": [
         "Ma grand-mère",
         "est",
-        "gentille."
+        "forte."
       ],
       "tokens_l2": [
         "Moja babka",
         "je",
-        "milá."
+        "silná."
       ]
     },
     {

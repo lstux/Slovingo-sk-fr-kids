@@ -117,14 +117,14 @@
       ]
     },
     {
-      "id": "listen-moja-sestra-je-mal-a-vesel",
+      "id": "listen-moja-sestra-je-ve-k-a-siln",
       "type": "listen",
-      "l1": "Ma sœur est petite et joyeuse.",
-      "l2": "Moja sestra je malá a veselá.",
+      "l1": "Ma sœur est grande et forte.",
+      "l2": "Moja sestra je veľká a silná.",
       "choices_l1": [
-        "Ma sœur est grande et joyeuse.",
-        "Ma maman est petite et joyeuse.",
-        "Ma sœur est petite et gentille."
+        "Ma sœur est petite et forte.",
+        "Ma maman est grande et forte.",
+        "Ma sœur est grande et joyeuse."
       ]
     },
     {
@@ -161,14 +161,14 @@
       ]
     },
     {
-      "id": "listen-no-m-j-tato-je-ve-k-a-siln",
+      "id": "listen-no-m-j-tato-je-vesel-a-mil",
       "type": "listen",
-      "l1": "Oui ! Mon papa est grand et fort.",
-      "l2": "Áno! Môj tato je veľký a silný.",
+      "l1": "Oui ! Mon papa est joyeux et gentil.",
+      "l2": "Áno! Môj tato je veselý a milý.",
       "choices_l1": [
-        "Non ! Mon papa est grand et fort.",
-        "Oui ! Mon papa est petit et fort.",
-        "Oui ! Mon frère est grand et fort."
+        "Non ! Mon papa est joyeux et gentil.",
+        "Oui ! Mon papa est petit et gentil.",
+        "Oui ! Mon frère est joyeux et gentil."
       ]
     },
     {
@@ -193,22 +193,22 @@
       "show_translation": true
     },
     {
-      "id": "blank-moja-sestra-je-mal-a-vesel",
+      "id": "blank-moja-sestra-je-ve-k-a-siln",
       "type": "fill-blank",
-      "l1": "Ma sœur est petite et joyeuse.",
-      "l2": "Moja sestra je malá a veselá.",
-      "missing_l1": "petite",
-      "missing_l2": "malá",
+      "l1": "Ma sœur est grande et forte.",
+      "l2": "Moja sestra je veľká a silná.",
+      "missing_l1": "grande",
+      "missing_l2": "veľká",
       "blank_index_l1": 3,
       "blank_index_l2": 3,
       "choices_l1": [
-        "grande",
-        "forte",
+        "petite",
+        "joyeuse",
         "gentille"
       ],
       "choices_l2": [
-        "veľká",
-        "silná",
+        "malá",
+        "veselá",
         "milá"
       ],
       "show_translation": true
@@ -269,21 +269,21 @@
       ]
     },
     {
-      "id": "order-no-m-j-tato-je-ve-k-a-siln",
+      "id": "order-no-m-j-tato-je-vesel-a-mil",
       "type": "order",
-      "l1": "Oui ! Mon papa est grand et fort.",
-      "l2": "Áno! Môj tato je veľký a silný.",
+      "l1": "Oui ! Mon papa est joyeux et gentil.",
+      "l2": "Áno! Môj tato je veselý a milý.",
       "tokens_l1": [
         "Oui !",
         "Mon papa",
         "est",
-        "grand et fort."
+        "joyeux et gentil."
       ],
       "tokens_l2": [
         "Áno!",
         "Môj tato",
         "je",
-        "veľký a silný."
+        "veselý a milý."
       ]
     },
     {

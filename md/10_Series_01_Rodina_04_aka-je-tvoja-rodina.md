@@ -34,10 +34,10 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| môj brat je silný | mon frère est fort |
-| môj tato je veselý | mon papa est joyeux |
+| môj brat je veselý | mon frère est joyeux |
+| môj tato je milý | mon papa est gentil |
 | moja sestra je silná | ma sœur est forte |
-| moja mama je veselá | ma maman est joyeuse |
+| moja mama je veľká | ma maman est grande |
 
 ### Poser la question : aký ou aká ?
 
@@ -52,43 +52,43 @@
 
 ## Des phrases
 
-! Môj brat je silný.
-> Mon frère est fort.
+! Môj brat je veselý.
+> Mon frère est joyeux.
 > Môj brat = mon frère
 > je = est
-> silný = fort
+> veselý = joyeux
 
-! Moja mama je veselá.
-> Ma maman est joyeuse.
+! Moja mama je silná.
+> Ma maman est forte.
 > Moja mama = ma maman
 > je = est
-> veselá = joyeuse
+> silná = forte
 
-! Moja sestra je malá.
-> Ma sœur est petite.
-> Moja sestra = ma sœur
+! Môj brat je malý.
+> Mon frère est petit.
+> Môj brat = mon frère
 > je = est
-> malá = petite
+> malý = petit
 
-! Moja mama je veselá a milá.
-> Ma maman est joyeuse et gentille.
-> Moja mama = ma maman
-> je = est
-> veselá = joyeuse
-> a = et
-> milá = gentille
-
-! Môj tato je veľký.
-> Mon papa est grand.
+! Môj tato je veselý a milý.
+> Mon papa est joyeux et gentil.
 > Môj tato = mon papa
 > je = est
-> veľký = grand
+> veselý = joyeux
+> a = et
+> milý = gentil
 
-! Moja babka je milá.
-> Ma grand-mère est gentille.
+! Moja sestra je veľká.
+> Ma sœur est grande.
+> Moja sestra = ma sœur
+> je = est
+> veľká = grande
+
+! Moja babka je silná.
+> Ma grand-mère est forte.
 > Moja babka = ma grand-mère
 > je = est
-> milá = gentille
+> silná = forte
 
 ! Aká je tvoja babka?
 > Comment est ta grand-mère ?
@@ -160,9 +160,9 @@
 > veľmi = très
 > rýchla = rapide
 
-! Môj brat je veľmi veľký.
-> Mon frère est très grand.
-> Môj brat = mon frère
+! Môj tato je veľmi malý.
+> Mon papa est très petit.
+> Môj tato = mon papa
 > je = est
 > veľmi = très
-> veľký = grand
+> malý = petit

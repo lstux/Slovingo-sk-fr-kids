@@ -158,13 +158,13 @@
       ]
     },
     {
-      "id": "listen-to-je-moja-teta-je-vesela-a-rychla",
+      "id": "listen-to-je-moja-teta-je-siln-a-r-chla",
       "type": "listen",
-      "l1": "C'est ma tante. Elle est joyeuse et rapide.",
-      "l2": "To je moja teta. Je veselá a rýchla.",
+      "l1": "C'est ma tante. Elle est forte et rapide.",
+      "l2": "To je moja teta. Je silná a rýchla.",
       "choices_l1": [
-        "C'est ma tante. Elle est joyeuse et forte.",
-        "C'est ma sœur. Elle est joyeuse et rapide.",
+        "C'est ma tante. Elle est forte et joyeuse.",
+        "C'est ma sœur. Elle est forte et rapide.",
         "C'est ma tante. Elle est petite et rapide."
       ]
     },
@@ -180,25 +180,25 @@
       ]
     },
     {
-      "id": "listen-ma-devat-rokov-je-velky-a-silny",
+      "id": "listen-m-dev-rokov-je-ve-k-a-vesel",
       "type": "listen",
-      "l1": "Il a neuf ans. Il est grand et fort !",
-      "l2": "Má deväť rokov. Je veľký a silný!",
+      "l1": "Il a neuf ans. Il est grand et joyeux !",
+      "l2": "Má deväť rokov. Je veľký a veselý!",
       "choices_l1": [
-        "Il a huit ans. Il est grand et fort !",
-        "Il a neuf ans. Il est petit et fort !",
+        "Il a huit ans. Il est grand et joyeux !",
+        "Il a neuf ans. Il est petit et joyeux !",
         "Il a neuf ans. Il est grand et rapide !"
       ]
     },
     {
-      "id": "listen-a-moja-susedka-je-mala-a-velmi-mila",
+      "id": "listen-a-moja-susedka-je-siln-a-ve-mi-r-chla",
       "type": "listen",
-      "l1": "Et ma voisine est petite et très gentille.",
-      "l2": "A moja susedka je malá a veľmi milá.",
+      "l1": "Et ma voisine est forte et très rapide.",
+      "l2": "A moja susedka je silná a veľmi rýchla.",
       "choices_l1": [
-        "Et mon voisin est petit et très gentil.",
-        "Et ma voisine est petite et très joyeuse.",
-        "Et ma copine est petite et très gentille."
+        "Et mon voisin est fort et très rapide.",
+        "Et ma voisine est forte et très joyeuse.",
+        "Et ma copine est forte et très rapide."
       ]
     },
     {
@@ -224,10 +224,10 @@
       ]
     },
     {
-      "id": "blank-ma-devat-rokov-je-velky-a-silny",
+      "id": "blank-m-dev-rokov-je-ve-k-a-vesel",
       "type": "fill-blank",
-      "l1": "Il a neuf ans. Il est grand et fort !",
-      "l2": "Má deväť rokov. Je veľký a silný!",
+      "l1": "Il a neuf ans. Il est grand et joyeux !",
+      "l2": "Má deväť rokov. Je veľký a veselý!",
       "missing_l1": "grand",
       "missing_l2": "veľký",
       "blank_index_l1": 6,
@@ -235,20 +235,20 @@
       "choices_l1": [
         "petit",
         "âgé",
-        "joyeux"
+        "fort"
       ],
       "choices_l2": [
         "malý",
         "starý",
-        "veselý"
+        "silný"
       ],
       "show_translation": true
     },
     {
-      "id": "blank-a-moja-susedka-je-mala-a-velmi-mila",
+      "id": "blank-a-moja-susedka-je-siln-a-ve-mi-r-chla",
       "type": "fill-blank",
-      "l1": "Et ma voisine est petite et très gentille.",
-      "l2": "A moja susedka je malá a veľmi milá.",
+      "l1": "Et ma voisine est forte et très rapide.",
+      "l2": "A moja susedka je silná a veľmi rýchla.",
       "missing_l1": "voisine",
       "missing_l2": "susedka",
       "blank_index_l1": 2,
@@ -328,23 +328,23 @@
       ]
     },
     {
-      "id": "order-a-moja-susedka-je-mala-a-velmi-mila",
+      "id": "order-a-moja-susedka-je-siln-a-ve-mi-r-chla",
       "type": "order",
-      "l1": "Et ma voisine est petite et très gentille.",
-      "l2": "A moja susedka je malá a veľmi milá.",
+      "l1": "Et ma voisine est forte et très rapide.",
+      "l2": "A moja susedka je silná a veľmi rýchla.",
       "tokens_l1": [
         "Et",
         "ma voisine",
-        "est petite",
+        "est forte",
         "et",
-        "très gentille."
+        "très rapide."
       ],
       "tokens_l2": [
         "A",
         "moja susedka",
-        "je malá",
+        "je silná",
         "a",
-        "veľmi milá."
+        "veľmi rýchla."
       ]
     },
     {
