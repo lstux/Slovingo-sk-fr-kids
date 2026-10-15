@@ -96,28 +96,28 @@
 > Aká je = comment est
 > tvoja sestra = ta sœur
 
-! 🦊 Moja sestra je malá a veselá.
-> Ma sœur est petite et joyeuse.
+! 🦊 Moja sestra je veľká a silná.
+> Ma sœur est grande et forte.
 > Moja sestra = ma sœur
 > je = est
-> malá a veselá = petite et joyeuse
+> veľká a silná = grande et forte
 
-! 🐻 Aký je tvoj tato? Je veľký?
-> Comment est ton papa ? Il est grand ?
+! 🐻 Aký je tvoj tato? Je veselý?
+> Comment est ton papa ? Il est joyeux ?
 > Aký je = comment est
 > tvoj tato = ton papa
-> Je veľký = il est grand
+> Je veselý = il est joyeux
 
-! 🦊 Áno! Môj tato je veľký a silný.
-> Oui ! Mon papa est grand et fort.
+! 🦊 Áno! Môj tato je veselý a milý.
+> Oui ! Mon papa est joyeux et gentil.
 > Áno = oui
 > Môj tato = mon papa
 > je = est
-> veľký a silný = grand et fort
+> veselý a milý = joyeux et gentil
 
-! 🐰 Babka Zuzana je veľmi milá!
-> Babka Zuzana est très gentille !
-> je veľmi milá = est très gentille
+! 🐰 Babka Zuzana je veľmi veselá!
+> Babka Zuzana est très joyeuse !
+> je veľmi veselá = est très joyeuse
 
 ! 🐑 Ďakujem, Andrea!
 > Merci, Andrea !
@@ -135,11 +135,11 @@
 
 ## Encore quelques phrases
 
-! Moja babka je veľmi milá.
-> Ma grand-mère est très gentille.
+! Moja babka je veľmi veselá.
+> Ma grand-mère est très joyeuse.
 > Moja babka = ma grand-mère
 > je = est
-> veľmi milá = très gentille
+> veľmi veselá = très joyeuse
 
 ! Ona nemá brata, ale má sestru.
 > Elle n'a pas de frère, mais elle a une sœur.

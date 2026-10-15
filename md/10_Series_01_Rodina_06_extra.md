@@ -75,11 +75,11 @@
 > A = et
 > kto je to = qui est-ce
 
-! 🦊 To je moja teta. Je veselá a rýchla.
-> C'est ma tante. Elle est joyeuse et rapide.
+! 🦊 To je moja teta. Je silná a rýchla.
+> C'est ma tante. Elle est forte et rapide.
 > To je moja teta = c'est ma tante
 > Je = elle est
-> veselá a rýchla = joyeuse et rapide
+> silná a rýchla = forte et rapide
 
 ! 🐻 Máš sestru?
 > Tu as une sœur ?
@@ -116,11 +116,11 @@
 > Koľko rokov má = quel âge a
 > Maťo = Maťo
 
-! 🐹 Má deväť rokov. Je veľký a silný!
-> Il a neuf ans. Il est grand et fort !
+! 🐹 Má deväť rokov. Je veľký a veselý!
+> Il a neuf ans. Il est grand et joyeux !
 > Má deväť rokov = il a neuf ans
 > Je = il est
-> veľký a silný = grand et fort
+> veľký a veselý = grand et joyeux
 
 ---
 
@@ -140,12 +140,12 @@
 > ale = mais
 > veľmi veselý = très joyeux
 
-! 🐰 A moja susedka je malá a veľmi milá.
-> Et ma voisine est petite et très gentille.
+! 🐰 A moja susedka je silná a veľmi rýchla.
+> Et ma voisine est forte et très rapide.
 > A = et
 > moja susedka = ma voisine
-> je malá = est petite
-> veľmi milá = très gentille
+> je silná = est forte
+> veľmi rýchla = très rapide
 
 ---
 
