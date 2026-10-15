@@ -189,6 +189,7 @@
     "backup_export": "📥 Exporter les réglages et la progression (JSON)",
     "backup_import": "📤 Importer une sauvegarde (JSON)"
   },
+  "greeting": {"t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !"},
   "cheers": {
     "perfect": [
       {"t": "Výborne!", "n": "Excellent !"},
