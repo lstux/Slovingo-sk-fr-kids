@@ -248,25 +248,336 @@
       ]
     },
     {
-      "id": "listen-ty-si-mil-l-ka",
-      "type": "listen",
-      "l1": "Tu es un gentil renard !",
-      "l2": "Ty si milá líška!",
+      "id": "qcm-nekrmte",
+      "type": "qcm",
+      "l1": "ne nourrissez pas",
+      "l2": "nekrmte",
       "choices_l1": [
-        "Tu es une gentille hase !",
-        "Je suis un gentil renard !",
-        "Tu es un gentil ours !"
+        "il ou elle va",
+        "le thé, la tisane",
+        "je bois de l'eau"
+      ],
+      "choices_l2": [
+        "zajac",
+        "nechutí mi",
+        "ešte"
       ]
     },
     {
-      "id": "listen-akujem-ty-si-mil-zaja-ica",
-      "type": "listen",
-      "l1": "Merci ! Tu es une gentille hase !",
-      "l2": "Ďakujem! Ty si milá zajačica!",
+      "id": "blank-dobre-p-n-orol",
+      "type": "fill-blank",
+      "l1": "D'accord, Monsieur Orol !",
+      "l2": "Dobre, pán Orol!",
+      "missing_l1": "Monsieur",
+      "missing_l2": "Orol",
+      "blank_index_l1": 1,
+      "blank_index_l2": 2,
       "choices_l1": [
-        "Merci ! Tu es un gentil renard !",
-        "Salut ! Tu es une gentille hase !",
-        "Merci ! Je suis une gentille hase !"
+        "il",
+        "chamois",
+        "enfants"
+      ],
+      "choices_l2": [
+        "veľmi",
+        "po",
+        "prečo"
+      ]
+    },
+    {
+      "id": "blank-nie-nie-nekrmte-zvierat",
+      "type": "fill-blank",
+      "l1": "Non, non ! Ne nourrissez pas les animaux !",
+      "l2": "Nie, nie! Nekrmte zvieratá!",
+      "missing_l1": "pas",
+      "missing_l2": "nie",
+      "blank_index_l1": 5,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "là-bas",
+        "pourquoi",
+        "regarde"
+      ],
+      "choices_l2": [
+        "med",
+        "zvieratá",
+        "chodníku"
+      ]
+    },
+    {
+      "id": "blank-idem-po-chodn-ku",
+      "type": "fill-blank",
+      "l1": "Je marche sur le sentier.",
+      "l2": "Idem po chodníku.",
+      "missing_l1": "le",
+      "missing_l2": "po",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "maťo",
+        "sur",
+        "plaît"
+      ],
+      "choices_l2": [
+        "rýchly",
+        "nora",
+        "chodníku"
+      ]
+    },
+    {
+      "id": "blank-pre-o-tu-je-nora",
+      "type": "fill-blank",
+      "l1": "Pourquoi ? Ici, il y a un terrier !",
+      "l2": "Prečo? Tu je nora!",
+      "missing_l1": "a",
+      "missing_l2": "je",
+      "blank_index_l1": 5,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "y",
+        "maťo",
+        "au"
+      ],
+      "choices_l2": [
+        "dobre",
+        "pán",
+        "veľmi"
+      ]
+    },
+    {
+      "id": "blank-nekrmte-zvierat-pros-m",
+      "type": "fill-blank",
+      "l1": "Ne nourrissez pas les animaux, s'il vous plaît !",
+      "l2": "Nekrmte zvieratá, prosím!",
+      "missing_l1": "pas",
+      "missing_l2": "prosím",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "je",
+        "animaux",
+        "ne"
+      ],
+      "choices_l2": [
+        "hniezdo",
+        "zvieratá",
+        "to"
+      ]
+    },
+    {
+      "id": "listen-ahoj",
+      "type": "listen",
+      "l1": "Salut !",
+      "l2": "Ahoj!",
+      "choices_l1": [
+        "Oui, s'il te plaît.",
+        "Andrea va en ville.",
+        "Où vas-tu ?"
+      ]
+    },
+    {
+      "id": "listen-dobre-p-n-orol",
+      "type": "listen",
+      "l1": "D'accord, Monsieur Orol !",
+      "l2": "Dobre, pán Orol!",
+      "choices_l1": [
+        "Je vais à la boulangerie.",
+        "C'est un chamois.",
+        "Voici un écureuil."
+      ]
+    },
+    {
+      "id": "listen-nie-nie-nekrmte-zvierat",
+      "type": "listen",
+      "l1": "Non, non ! Ne nourrissez pas les animaux !",
+      "l2": "Nie, nie! Nekrmte zvieratá!",
+      "choices_l1": [
+        "Je voudrais du pain. Combien ça coûte ?",
+        "Waouh ! Tu gagnes ! Bien joué !",
+        "Je m'appelle Maťo. Comment ça va ?"
+      ]
+    },
+    {
+      "id": "listen-idem-po-chodn-ku",
+      "type": "listen",
+      "l1": "Je marche sur le sentier.",
+      "l2": "Idem po chodníku.",
+      "choices_l1": [
+        "J'ai un frère.",
+        "Merci, Maťo !",
+        "Oui ! Les baies sont sucrées !"
+      ]
+    },
+    {
+      "id": "listen-pre-o-tu-je-nora",
+      "type": "listen",
+      "l1": "Pourquoi ? Ici, il y a un terrier !",
+      "l2": "Prečo? Tu je nora!",
+      "choices_l1": [
+        "Je ne te vois pas. Où es-tu ?",
+        "Attends ! Moi aussi, j'y vais !",
+        "Sur la table, il y a quatre jouets."
+      ]
+    },
+    {
+      "id": "listen-nekrmte-zvierat-pros-m",
+      "type": "listen",
+      "l1": "Ne nourrissez pas les animaux, s'il vous plaît !",
+      "l2": "Nekrmte zvieratá, prosím!",
+      "choices_l1": [
+        "Ça y est, je viens chercher !",
+        "Le miel coûte cinq euros. C'est cher !",
+        "Viens ici ! Regarde, c'est la boulangerie !"
+      ]
+    },
+    {
+      "id": "order-dobre-p-n-orol",
+      "type": "order",
+      "l1": "D'accord, Monsieur Orol !",
+      "l2": "Dobre, pán Orol!",
+      "tokens_l1": [
+        "D'accord,",
+        "Monsieur",
+        "Orol",
+        "!",
+        "Je",
+        "marche",
+        "sur",
+        "le",
+        "sentier."
+      ],
+      "tokens_l2": [
+        "Dobre,",
+        "pán",
+        "Orol!",
+        "Idem",
+        "po",
+        "chodníku."
+      ]
+    },
+    {
+      "id": "order-nie-nie-nekrmte-zvierat",
+      "type": "order",
+      "l1": "Non, non ! Ne nourrissez pas les animaux !",
+      "l2": "Nie, nie! Nekrmte zvieratá!",
+      "tokens_l1": [
+        "Non,",
+        "non",
+        "!",
+        "Ne",
+        "nourrissez",
+        "pas",
+        "les",
+        "animaux",
+        "!",
+        "D'accord,",
+        "Monsieur",
+        "Orol",
+        "!"
+      ],
+      "tokens_l2": [
+        "Nie,",
+        "nie!",
+        "Nekrmte",
+        "zvieratá!",
+        "Dobre,",
+        "pán",
+        "Orol!"
+      ]
+    },
+    {
+      "id": "order-idem-po-chodn-ku",
+      "type": "order",
+      "l1": "Je marche sur le sentier.",
+      "l2": "Idem po chodníku.",
+      "tokens_l1": [
+        "Je",
+        "marche",
+        "sur",
+        "le",
+        "sentier.",
+        "Pourquoi",
+        "?",
+        "Ici,",
+        "il",
+        "y",
+        "a",
+        "un",
+        "terrier",
+        "!"
+      ],
+      "tokens_l2": [
+        "Idem",
+        "po",
+        "chodníku.",
+        "Prečo?",
+        "Tu",
+        "je",
+        "nora!"
+      ]
+    },
+    {
+      "id": "order-pre-o-tu-je-nora",
+      "type": "order",
+      "l1": "Pourquoi ? Ici, il y a un terrier !",
+      "l2": "Prečo? Tu je nora!",
+      "tokens_l1": [
+        "Pourquoi",
+        "?",
+        "Ici,",
+        "il",
+        "y",
+        "a",
+        "un",
+        "terrier",
+        "!",
+        "Les",
+        "enfants,",
+        "restez",
+        "sur",
+        "le",
+        "sentier,",
+        "s'il",
+        "vous",
+        "plaît."
+      ],
+      "tokens_l2": [
+        "Prečo?",
+        "Tu",
+        "je",
+        "nora!",
+        "Deti,",
+        "choďte",
+        "po",
+        "chodníku,",
+        "prosím."
+      ]
+    },
+    {
+      "id": "order-nekrmte-zvierat-pros-m",
+      "type": "order",
+      "l1": "Ne nourrissez pas les animaux, s'il vous plaît !",
+      "l2": "Nekrmte zvieratá, prosím!",
+      "tokens_l1": [
+        "Ne",
+        "nourrissez",
+        "pas",
+        "les",
+        "animaux,",
+        "s'il",
+        "vous",
+        "plaît",
+        "!",
+        "C'est",
+        "Maťo",
+        "!"
+      ],
+      "tokens_l2": [
+        "Nekrmte",
+        "zvieratá,",
+        "prosím!",
+        "To",
+        "je",
+        "Maťo!"
       ]
     }
   ]
