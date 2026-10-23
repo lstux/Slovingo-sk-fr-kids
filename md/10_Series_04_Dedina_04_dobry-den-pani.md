@@ -1,6 +1,6 @@
 # Série Dedina (4/5) — Dobrý deň, pani Ježková!
 
-@ TODO_img/commercante-herisson.jpg | TODO : choisir une image (petit magasin de village, comptoir en bois, ambiance chaleureuse) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Hedgehog_in_grass.jpg?width=800 | Petit magasin de village, comptoir en bois, ambiance chaleureuse (photo : Mikejamesshaw, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:C'est la première fois que tu parles à un adulte que tu ne connais pas : la commerçante du village. En slovaque, on change quelques mots pour être poli.}}
 

@@ -1,6 +1,6 @@
 # Série Doma (1/5) — Kde bývaš?
 
-@ TODO_img/entree-terrier.jpg | TODO : choisir une image (entrée d'un terrier de marmotte dans l'herbe, Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_marmot_%28Marmota_marmota%29_in_the_mountains_at_the_entrance_to_its_burrow.JPG?width=800 | Entrée d'un terrier de marmotte dans l'herbe, Tatras (photo : trldp, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans les Tatras, chacun a sa maison : un terrier, une tanière, un nid… Aujourd'hui, tu apprends à dire où tu habites.}}
 

@@ -1,6 +1,6 @@
 # Série Hry (5/5) — Skrývačka na lúke
 
-@ TODO_img/prairie-fleurie.jpg | TODO : choisir une image (prairie de montagne fleurie avec un petit arbre) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Chleb_%E2%80%93_flowering_meadow_below_the_summit_in_June.jpg?width=800 | Prairie de montagne fleurie avec un petit arbre (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Une belle partie de cache-cache dans une prairie des Tatras avec Andrea, Katka et Maťo. Pour la première fois, tu vas jouer avec tout ce que tu as appris !}}
 

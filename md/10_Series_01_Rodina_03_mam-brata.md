@@ -1,6 +1,6 @@
 # Série Rodina (3/5) — Mám brata
 
-@ TODO_img/marmotte-sentinelle.jpg | TODO : choisir une image (marmotte debout qui guette devant son terrier) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/M.marmota_latirostris_in_Ve%C4%BEk%C3%A1_Studen%C3%A1_dolina_2.jpg?width=800 | Marmotte debout qui guette devant son terrier (photo : Krzysztof Górecki, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Qui est dans ta famille ? Aujourd'hui, tu apprends à dire ce que tu as, et ce que tu n'as pas.}}
 

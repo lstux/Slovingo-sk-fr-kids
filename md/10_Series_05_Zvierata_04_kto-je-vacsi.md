@@ -1,6 +1,6 @@
 # Série Zvieratá (4/5) — Kto je väčší?
 
-@ TODO_img/ours-marmotte.jpg | TODO : choisir une image (comparaison de taille : ours et marmotte, dessin ou montage) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bear_%2828392685756%29.jpg?width=800 | Comparaison de taille : ours et marmotte, dessin ou montage (photo : Susanne Nilsson, CC BY-SA 2.0, Wikimedia Commons)
 
 {{fr:Qui est le plus grand ? Le plus rapide ? Aujourd'hui, tu apprends à comparer.}}
 

@@ -1,6 +1,6 @@
 # Jedlo (extra) — Všetko o jedle
 
-@ TODO_img/table-repas-montagne.jpg | TODO : choisir une image (grande table de repas à la chata) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Sery_g%C3%B3ralskie.jpg?width=800 | Grande table de repas à la chata (photo : Pawel Swiegoda (Paberu), CC BY-SA 2.5, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Jedlo, et on mélange les mots dans de petites scènes !}}
 

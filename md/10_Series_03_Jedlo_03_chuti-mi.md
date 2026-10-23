@@ -1,6 +1,6 @@
 # Série Jedlo (3/5) — Chutí mi!
 
-@ TODO_img/myrtilles.jpg | TODO : choisir une image (myrtilles ou framboises sauvages en montagne) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_bilberries_picked_in_Tuntorp_4.jpg?width=800 | Myrtilles ou framboises sauvages en montagne (photo : W.carter, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:C'est bon, ou pas bon ? Aujourd'hui, tu apprends à dire ce que tu aimes manger et à décrire un goût.}}
 

@@ -1,6 +1,6 @@
 # Série Rodina (2/5) — Koľko máš rokov?
 
-@ TODO_img/anniversaire-montagne.jpg | TODO : choisir une image (gâteau d'anniversaire avec des bougies, ou jeunes animaux en fête) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Red_fox_kits_%2840215214874%29.jpg?width=800 | Gâteau d'anniversaire avec des bougies, ou jeunes animaux en fête (photo : USFWS Headquarters, Public domain, Wikimedia Commons)
 
 {{fr:Quel âge as-tu ? Aujourd'hui, tu apprends à dire ton âge et celui des autres.}}
 

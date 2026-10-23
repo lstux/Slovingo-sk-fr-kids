@@ -1,6 +1,6 @@
 # Série Jedlo (5/5) — Halušky u babky
 
-@ TODO_img/halusky-bryndza.jpg | TODO : choisir une image (halušky avec de la bryndza, plat traditionnel slovaque) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg?width=800 | Halušky avec de la bryndza, plat traditionnel slovaque (photo : Gregory finster, CC0, Wikimedia Commons)
 
 {{fr:C'est l'heure du déjeuner chez Babka Zuzana ! Au menu : le plat le plus célèbre de Slovaquie. Mais attention, ce fromage-là, c'est une histoire de famille…}}
 

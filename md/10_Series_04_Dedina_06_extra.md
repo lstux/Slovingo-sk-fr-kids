@@ -1,6 +1,6 @@
 # Dedina (extra) — Všetko o dedine
 
-@ TODO_img/panorama-village.jpg | TODO : choisir une image (panorama d'un village au pied des Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Belianske_Tatry_oct_2022.jpg?width=800 | Panorama d'un village au pied des Tatras (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Dedina, et on mélange les mots dans de petites scènes !}}
 

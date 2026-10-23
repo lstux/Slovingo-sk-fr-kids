@@ -1,6 +1,6 @@
 # Série Rodina (1/5) — Moja rodina
 
-@ TODO_img/famille-marmottes.jpg | TODO : choisir une image (une famille de marmottes devant leur terrier) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Alpenmurmeltier_2.jpg?width=800 | Une famille de marmottes devant leur terrier (photo : Bernard Landgraf, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans les Tatras, tout le monde a une famille ! Aujourd'hui, tu apprends à dire « voici ma maman », « voici mon frère »…}}
 

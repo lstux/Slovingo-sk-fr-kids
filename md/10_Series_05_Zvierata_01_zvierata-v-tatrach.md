@@ -1,6 +1,6 @@
 # Série Zvieratá (1/5) — Zvieratá v Tatrách
 
-@ TODO_img/animaux-tatry.jpg | TODO : choisir une image (collage ou panorama : marmotte, chamois, ours, aigle des Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/20181006_Lis_rudy_Tatrza%C5%84ski_Park_Narodowy_1437_7472_DxO.jpg?width=800 | Collage ou panorama : marmotte, chamois, ours, aigle des Tatras (photo : Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Les Tatras sont la maison de beaucoup d'animaux. Aujourd'hui, tu apprends leurs noms, et à dire qui est quoi !}}
 

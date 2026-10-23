@@ -1,6 +1,6 @@
 # Rodina (extra) — Všetko o rodine
 
-@ TODO_img/famille-tatry.jpg | TODO : choisir une image (famille d'animaux dans les Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Mlade_lisice_u_rupi.jpg?width=800 | Famille d'animaux dans les Tatras (photo : Divlja Srbija, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Rodina, et on mélange les mots dans de petites scènes !}}
 

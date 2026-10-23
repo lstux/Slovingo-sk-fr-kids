@@ -1,6 +1,6 @@
 # Série Dedina (1/5) — Idem do dediny
 
-@ TODO_img/village-tatry.jpg | TODO : choisir une image (village de montagne aux maisons en bois, au pied des Tatras) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Zdiar_2_Tatry.jpg?width=800 | Village de montagne aux maisons en bois, au pied des Tatras (photo : Ing.Mgr.Jozef Kotulič, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:Au pied des montagnes, il y a un village avec un magasin et une boulangerie. Aujourd'hui, tu apprends à dire où tu vas.}}
 

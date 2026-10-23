@@ -1,6 +1,6 @@
 # Zvieratá (extra) — Všetko o zvieratách
 
-@ TODO_img/panorama-faune.jpg | TODO : choisir une image (vallée des Tatras avec des animaux) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Ko%C5%9Bcieliski_Potok_Dolina_Ko%C5%9Bcieliska_2023-08-22_03.jpg?width=800 | Vallée des Tatras avec des animaux (photo : Agnieszka Kwiecień, Nova, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Zvieratá, et on mélange les mots dans de petites scènes !}}
 

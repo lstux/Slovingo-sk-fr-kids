@@ -1,6 +1,6 @@
 # Série Rodina (4/5) — Aká je tvoja rodina?
 
-@ TODO_img/ours-brun-tatry.jpg | TODO : choisir une image (ours brun dans une forêt de montagne, vu de loin) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Eurasian_brown_bear_%28Ursus_arctos_arctos%29_mother_and_cub.jpg?width=800 | Ours brun dans une forêt de montagne, vu de loin (photo : Charles J. Sharp, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Comment sont les gens de ta famille ? Gentils, joyeux, forts, petits… Aujourd'hui, tu apprends à les décrire.}}
 

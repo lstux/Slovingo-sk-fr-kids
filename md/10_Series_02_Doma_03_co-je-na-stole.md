@@ -1,6 +1,6 @@
 # Série Doma (3/5) — Čo je na stole?
 
-@ TODO_img/table-livre-lampe.jpg | TODO : choisir une image (table en bois avec un livre et une lampe) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Lamp_at_Dubay_Creek%2C_Al_Seef.jpg?width=800 | Table en bois avec un livre et une lampe (photo : KpokeJlJla, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Qu'est-ce qu'il y a sur la table ? Aujourd'hui, tu apprends à dire ce qui est où.}}
 

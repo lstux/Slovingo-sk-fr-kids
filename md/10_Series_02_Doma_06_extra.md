@@ -1,6 +1,6 @@
 # Doma (extra) — Všetko o domove
 
-@ TODO_img/panorama-terriers.jpg | TODO : choisir une image (prairie de montagne avec plusieurs terriers) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Belianske_Tatry.jpg?width=800 | Prairie de montagne avec plusieurs terriers (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Doma, et on mélange les mots dans de petites scènes !}}
 

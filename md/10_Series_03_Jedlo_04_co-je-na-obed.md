@@ -1,6 +1,6 @@
 # Série Jedlo (4/5) — Čo je na obed?
 
-@ TODO_img/soupe-fumante.jpg | TODO : choisir une image (bol de soupe fumante avec du pain) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/DFC_3982_A_steaming_bowl_of_homemade_vegetable_soup_garnished_with_chopped_parsley_served_with_a_slice_of_rustic_brown_bread.jpg?width=800 | Bol de soupe fumante avec du pain (photo : PattayaPatrol, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Petit-déjeuner, déjeuner, dîner : aujourd'hui, tu apprends à parler de tes repas.}}
 

@@ -1,6 +1,6 @@
 # Série Doma (2/5) — Kde je posteľ?
 
-@ TODO_img/interieur-chalet.jpg | TODO : choisir une image (intérieur douillet d'une chaumière ou d'une chata de montagne) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Koliba_%C5%BDerucha%2C_Tatransk%C3%A1_%C5%A0trba%2C_%C5%A0trba%2C_okres_Poprad%2C_Pre%C5%A1ovsk%C3%BD_kraj_01.jpg?width=800 | Intérieur douillet d'une chaumière ou d'une chata de montagne (photo : Fry72 (Karel Frydrýšek), CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Une maison, c'est des pièces et des meubles. Aujourd'hui, tu apprends à demander où est quelque chose, et à répondre.}}
 

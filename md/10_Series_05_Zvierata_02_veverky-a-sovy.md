@@ -1,6 +1,6 @@
 # Série Zvieratá (2/5) — Dve veveričky, tri sovy
 
-@ TODO_img/ecureuil-chouette.jpg | TODO : choisir une image (écureuils dans un arbre, chouette) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Squirrel_posing.jpg?width=800 | Écureuils dans un arbre, chouette (photo : Peter Trimming, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Un animal, c'est facile. Mais deux écureuils, trois chouettes, quatre renards ? Aujourd'hui, tu apprends à compter les animaux.}}
 

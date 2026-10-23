@@ -1,6 +1,6 @@
 # Série Hry (4/5) — Vyhrávam!
 
-@ TODO_img/joie-jeu.jpg | TODO : choisir une image (enfants qui rient pendant un jeu) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/%D0%98%D0%B3%D1%80%D1%8B_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%B0%D0%BF%D0%BE%D1%87%D0%BD%D1%8B%D1%85_%D1%81%D1%83%D1%80%D0%BA%D0%BE%D0%B2.jpg?width=800 | Enfants qui rient pendant un jeu (photo : NadezhdaKhaustova, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Gagner, perdre, rire, recommencer : aujourd'hui, tu apprends à réagir pendant le jeu, et à bien perdre aussi !}}
 

@@ -1,6 +1,6 @@
 # Série Zvieratá (5/5) — Strážca parku
 
-@ TODO_img/aigle-royal.jpg | TODO : choisir une image (aigle royal en vol au-dessus des montagnes) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Chrysaetos_La_Ca%C3%B1ada_20120114_1.jpg?width=800 | Aigle royal en vol au-dessus des montagnes (photo : Juan lacruz, CC BY 3.0, Wikimedia Commons)
 
 {{fr:Tu te promènes avec Andrea, Katka et Maťo, quand tu croises le gardien du parc national : Pán Orol, un aigle. Il t'explique deux règles très importantes pour protéger la nature.}}
 

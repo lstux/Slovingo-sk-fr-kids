@@ -1,6 +1,6 @@
 # Série Doma (5/5) — Návšteva
 
-@ TODO_img/visite-terrier.jpg | TODO : choisir une image (jeunes animaux devant l'entrée d'un terrier, ambiance chaleureuse) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_Marmot_Family.jpg?width=800 | Jeunes animaux devant l'entrée d'un terrier, ambiance chaleureuse (photo : EpsilonEridani, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Katka t'invite chez elle, dans son terrier. Maťo et Andrea sont là aussi. Tu vas visiter, poser des questions et raconter où tu habites !}}
 

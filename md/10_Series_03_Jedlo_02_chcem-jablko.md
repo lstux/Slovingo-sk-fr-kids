@@ -1,6 +1,6 @@
 # Série Jedlo (2/5) — Chcem jablko
 
-@ TODO_img/fruits-miel-noix.jpg | TODO : choisir une image (pomme, poire, carotte, pot de miel, noix) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/DFC_2197_A_colorful_assortment_of_fresh_fruits_and_vegetables_-_apples_mango_dragon_fruit_kiwis_limes_bananas_and_more_-_arranged_on_a_wooden_crate.jpg?width=800 | Pomme, poire, carotte, pot de miel, noix (photo : PattayaPatrol, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Chacun a ses goûts : les lièvres aiment les carottes, les ours adorent le miel… Aujourd'hui, tu apprends à dire ce que tu veux.}}
 

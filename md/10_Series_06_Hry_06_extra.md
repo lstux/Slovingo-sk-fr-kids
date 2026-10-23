@@ -1,6 +1,6 @@
 # Hry (extra) — Všetko o hrách
 
-@ TODO_img/panorama-jeux.jpg | TODO : choisir une image (grande prairie des Tatras, enfants qui jouent au loin) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Belianske_Tatry.jpg?width=800 | Grande prairie des Tatras, enfants qui jouent au loin (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Hry, et on mélange les mots dans de petites scènes !}}
 

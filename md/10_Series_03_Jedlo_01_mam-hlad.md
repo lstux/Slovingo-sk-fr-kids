@@ -1,6 +1,6 @@
 # Série Jedlo (1/5) — Mám hlad!
 
-@ TODO_img/pique-nique-montagne.jpg | TODO : choisir une image (pique-nique en montagne : pain, eau, pommes sur un tissu) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Picnic_basket_01.jpg?width=800 | Pique-nique en montagne : pain, eau, pommes sur un tissu (photo : Jeremy Noble, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Les balades en montagne, ça creuse ! Aujourd'hui, tu apprends à dire que tu as faim ou soif, et ce que tu manges et bois.}}
 

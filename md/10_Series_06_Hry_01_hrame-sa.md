@@ -1,6 +1,6 @@
 # Série Hry (1/5) — Hráme sa!
 
-@ TODO_img/jeu-prairie.jpg | TODO : choisir une image (enfants qui jouent dans une prairie de montagne) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Young_Foxes_%2850015799956%29.jpg?width=800 | Enfants qui jouent dans une prairie de montagne (photo : Zebralongwing, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Après les balades, on joue ! Aujourd'hui, tu apprends à proposer un jeu et à dire quel jeu tu veux.}}
 

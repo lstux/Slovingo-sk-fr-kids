@@ -1,6 +1,6 @@
 # Série Zvieratá (3/5) — Aké je zviera?
 
-@ TODO_img/chamois-tatry.jpg | TODO : choisir une image (chamois des Tatras sur un rocher) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Rupicapra_rupicapra_-_Jah%C5%88aci_%C5%A1t%C3%ADt.jpg?width=800 | Chamois des Tatras sur un rocher (photo : Marcin Białek, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Comment est un ours ? Et un lièvre ? Aujourd'hui, tu apprends à décrire les animaux et leurs petites particularités.}}
 

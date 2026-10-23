@@ -1,6 +1,6 @@
 # Série Doma (4/5) — Sú tu dve stoličky
 
-@ TODO_img/chaises-table.jpg | TODO : choisir une image (plusieurs chaises autour d'une table) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Wooden_table_and_chairs_on_a_balcony_over_the_Mekong_at_sunrise_in_Don_Det_Si_Phan_Don_Laos.jpg?width=800 | Plusieurs chaises autour d'une table (photo : Basile Morin, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Une chaise, c'est facile. Mais deux, trois, quatre chaises ? Aujourd'hui, tu apprends à parler de plusieurs choses à la fois.}}
 

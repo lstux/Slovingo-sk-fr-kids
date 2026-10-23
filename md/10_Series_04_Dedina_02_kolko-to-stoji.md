@@ -1,6 +1,6 @@
 # Série Dedina (2/5) — Koľko to stojí?
 
-@ TODO_img/pieces-euro.jpg | TODO : choisir une image (pièces d'euro sur un comptoir de petit magasin) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovak_euro_coins.jpg?width=800 | Pièces d'euro sur un comptoir de petit magasin (photo : Wizzard, Public domain, Wikimedia Commons)
 
 {{fr:Au magasin, il faut demander le prix et dire ce que tu veux. Aujourd'hui, tu apprends à faire tes courses.}}
 

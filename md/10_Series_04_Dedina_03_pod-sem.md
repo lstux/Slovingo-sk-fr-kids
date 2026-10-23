@@ -1,6 +1,6 @@
 # Série Dedina (3/5) — Poď sem!
 
-@ TODO_img/ruelle-village.jpg | TODO : choisir une image (ruelle de village de montagne avec des enfants qui courent) sur Wikimedia Commons
+@ https://commons.wikimedia.org/wiki/Special:FilePath/01_005a_%C5%BDdiar%2C_Blockhaus.jpg?width=800 | Ruelle de village de montagne avec des enfants qui courent (photo : Falk2, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans le village, on se dit : « viens ! », « regarde ! », « attends ! ». Aujourd'hui, tu apprends à donner de petits ordres gentils à tes amis.}}
 
