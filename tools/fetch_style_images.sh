@@ -25,7 +25,7 @@ set -euo pipefail
 
 WIDTH="${WIDTH:-1200}"
 QUALITY="${QUALITY:-82}"
-UA="Zajka-style-images/1.0 (https://github.com/lstux/Slovingo-sk-fr-children)"
+UA="Zajko-style-images/1.0 (https://github.com/lstux/Slovingo-sk-fr-children)"
 COMMONS="https://commons.wikimedia.org"
 
 # clé de thème | nom du fichier Commons (codé comme dans l'adresse de la page)
@@ -121,7 +121,7 @@ for entry in "${IMAGES[@]}"; do
     continue
   fi
 
-  tmp="$(mktemp "${TMPDIR:-/tmp}/zajka-style-${key}.XXXXXX")"
+  tmp="$(mktemp "${TMPDIR:-/tmp}/zajko-style-${key}.XXXXXX")"
   echo "↓ $key : $name"
   if ! curl -fsSL --retry 3 -A "$UA" -o "$tmp" "$COMMONS/wiki/Special:FilePath/$name"; then
     echo "  ✗ téléchargement impossible pour « $key »" >&2

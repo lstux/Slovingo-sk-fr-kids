@@ -1,4 +1,4 @@
-# Illustrations de Zajka (Slovingo sk-fr enfants)
+# Illustrations de Zajko (Slovingo sk-fr enfants)
 
 Document de travail pour choisir les images du cours : celles qui sont déjà retenues, des pistes pour les autres fiches, et les images des **styles** (les bandeaux de thème).
 
