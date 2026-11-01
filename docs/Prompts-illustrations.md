@@ -6,7 +6,7 @@ Une illustration par série, pour la **fiche 05** (le dialogue, le moment fort),
 
 ## Méthode
 
-1. **Planche des héros** : dans Gemini, joindre `esp32/zajko-quest/art/characters/fox-reference.png`, puis `andrea-reference.png`, puis `docs/illustrations/planche-heros.jpg` (tous trois dans le repo friends), et coller le prompt « Planche des héros ». Garder la meilleure : `docs/illustrations/planche-heros.jpg` (dans ce repo, ✅ faite le 1er novembre). Même chose pour « Planche des seconds rôles ».
+1. **Planche des héros** : dans Gemini, joindre `esp32/zajko-quest/art/characters/fox-reference.png`, puis `andrea-reference.png`, puis `docs/illustrations/planche-heros.jpg` (tous trois dans le repo friends), et coller le prompt « Planche des héros ». Garder la meilleure : `docs/illustrations/planche-heros.jpg` (dans ce repo, ✅ faite le 1er novembre). Même chose pour « Planche des seconds rôles » (✅ faite le 1er novembre : `docs/illustrations/planche-seconds-roles.jpg`, refaite à partir de celle de friends, dans le style des héros kids).
 2. **Chaque scène** : nouvelle conversation, joindre **la planche des héros** (et celle des seconds rôles si la scène en contient un) + **la photo de référence** du lieu (lien Commons donné : télécharger l'image depuis la page), coller le prompt de la scène. Chaque prompt est complet : rien d'autre à ajouter.
 3. Si un personnage dérive (couleurs, vêtements, taille), le redemander dans la même conversation : « Keep the characters exactly as in the attached model sheet. »
 4. **Format** : paysage 16/9. Déposer l'image dans `img/illus_<NN>_<lieu>.jpg` (le nom est donné pour chaque scène). Je la réduis à 1280 px de large et l'intègre.
