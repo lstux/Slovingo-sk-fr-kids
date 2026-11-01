@@ -1,6 +1,6 @@
 # Série Rodina (5/5) — U babky
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/SZA%C5%81ASY_NA_POLANIE_PODK%C3%93LNA_W_JURGOWIE%2C_fot._M._Klag_%28MIK%2C_2001%29_%283508450272%29.jpg?width=800 | Pâturage de montagne avec des moutons, Tatras (photo : mik Krakow, CC BY-SA 2.0, Wikimedia Commons)
+@ img/illus_01_rodina.jpg | Babka Zuzana accueille le renard devant sa cabane, avec Andrea, Katka et Maťo
 
 {{fr:Andrea t'emmène sur les hauts pâturages, chez Babka Zuzana, la grand-mère de Katka et Maťo. Tu vas rencontrer toute la famille !}}
 
@@ -126,6 +126,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/SZA%C5%81ASY_NA_POLANIE_PODK%C3%93LNA_W_JURGOWIE%2C_fot._M._Klag_%28MIK%2C_2001%29_%283508450272%29.jpg?width=800 | Pâturage de montagne avec des moutons, Tatras (photo : mik Krakow, CC BY-SA 2.0, Wikimedia Commons)
 
 {{fr:Sur les hauts pâturages slovaques, il y a des bergeries de montagne : les}} {{salaše}}{{fr:. Les bergers y font du fromage de brebis !}} 🧀
 
