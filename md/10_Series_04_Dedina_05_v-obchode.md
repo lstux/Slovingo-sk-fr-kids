@@ -1,6 +1,6 @@
 # Série Dedina (5/5) — V obchode
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Ve%C4%BEk%C3%A9_Ra%C5%A1kovce_grocery_shop_and_village_pub_%28June_2006%29.jpg?width=800 | Vitrine d'un petit magasin de village (photo : ZemplinTemplar, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_04_dedina.jpg | Au magasin du village : Pani Ježková sert le renard, Andrea et Katka
 
 {{fr:Tu vas au village avec Andrea et Katka. Au magasin, il y a Pani Ježková, une dame hérisson très gentille. C'est le moment de faire de vrais achats, avec du « vous » !}}
 
@@ -129,6 +129,8 @@ Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Ve%C4%BEk%C3%A9_Ra%C5%A1kovce_grocery_shop_and_village_pub_%28June_2006%29.jpg?width=800 | Vitrine d'un petit magasin de village (photo : ZemplinTemplar, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans un magasin, on dit}} {{Dobrý deň}} {{fr:en entrant et}} {{dovidenia}} {{fr:en sortant. Ça paraît petit, mais les commerçants adorent ça !}} 💛
 

@@ -76,6 +76,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | 04_Dedina_02_kolko-to-stoji | [Slovak euro coins.jpg](https://commons.wikimedia.org/wiki/File:Slovak_euro_coins.jpg) | Wizzard | Public domain |
 | 04_Dedina_04_dobry-den-pani | [Hedgehog in grass.jpg](https://commons.wikimedia.org/wiki/File:Hedgehog_in_grass.jpg) | Mikejamesshaw | CC BY-SA 4.0 |
 | 04_Dedina_05_v-obchode | [Veľké Raškovce grocery shop and village pub (June 2006).jpg](https://commons.wikimedia.org/wiki/File:Ve%C4%BEk%C3%A9_Ra%C5%A1kovce_grocery_shop_and_village_pub_(June_2006).jpg) | ZemplinTemplar | CC BY-SA 4.0 |
+| 04_Dedina_05_v-obchode (illustration IA) | `img/illus_04_dedina.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026, inspirée de la photo ci-dessus de ZemplinTemplar (Wikimedia Commons) | CC BY-SA 4.0 (par prudence, comme œuvre dérivée) |
 | 04_Dedina_06_extra | [Belianske Tatry oct 2022.jpg](https://commons.wikimedia.org/wiki/File:Belianske_Tatry_oct_2022.jpg) | Michalsmr | CC BY-SA 4.0 |
 | 05_Zvierata_01_zvierata-v-tatrach | [20181006 Lis rudy Tatrzański Park Narodowy 1437 7472 DxO.jpg](https://commons.wikimedia.org/wiki/File:20181006_Lis_rudy_Tatrza%C5%84ski_Park_Narodowy_1437_7472_DxO.jpg) | Jakub Hałun | CC BY-SA 4.0 |
 | 05_Zvierata_02_veverky-a-sovy | [Squirrel posing.jpg](https://commons.wikimedia.org/wiki/File:Squirrel_posing.jpg) | Peter Trimming | CC BY 2.0 |
