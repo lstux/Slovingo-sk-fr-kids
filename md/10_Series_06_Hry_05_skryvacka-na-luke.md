@@ -1,6 +1,6 @@
 # Série Hry (5/5) — Skrývačka na lúke
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Chleb_%E2%80%93_flowering_meadow_below_the_summit_in_June.jpg?width=800 | Prairie de montagne fleurie avec un petit arbre (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_06_hry.jpg | Cache-cache dans la prairie : Andrea compte, Maťo se cache derrière le rocher, Katka derrière le buisson (illustration IA)
 
 {{fr:Une belle partie de cache-cache dans une prairie des Tatras avec Andrea, Katka et Maťo. Pour la première fois, tu vas jouer avec tout ce que tu as appris !}}
 
@@ -133,6 +133,8 @@ Les personnages :
 {{fr:Bravo ! Tu viens de finir le premier niveau du cours : tu sais te présenter, parler de ta famille, de ta maison, de ce que tu manges, aller au village, parler des animaux, et jouer. Pas mal, pour quelqu'un qui est arrivé dans les Tatras il y a si peu de temps !}} 🎉
 
 {{fr:Et pour fêter ça, on dit}} {{Dobrá hra}} {{fr:à tout le monde, même à ceux qui ont perdu !}}
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Chleb_%E2%80%93_flowering_meadow_below_the_summit_in_June.jpg?width=800 | Prairie de montagne fleurie avec un petit arbre (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
 
 ---
 

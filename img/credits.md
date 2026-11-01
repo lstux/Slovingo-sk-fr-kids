@@ -84,6 +84,7 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 | 05_Zvierata_04_kto-je-vacsi | [Bear (28392685756).jpg](https://commons.wikimedia.org/wiki/File:Bear_(28392685756).jpg) | Susanne Nilsson | CC BY-SA 2.0 |
 | 05_Zvierata_05_strazca-parku | [Chrysaetos La Cañada 20120114 1.jpg](https://commons.wikimedia.org/wiki/File:Chrysaetos_La_Ca%C3%B1ada_20120114_1.jpg) | Juan lacruz | CC BY 3.0 |
 | 05_Zvierata_05_strazca-parku (illustration IA) | `img/illus_05_zvierata.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026 (sans photo de référence jointe) | — |
+| 06_Hry_05_skryvacka-na-luke (illustration IA) | `img/illus_06_hry.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026 (sans photo de référence jointe) | — |
 | 05_Zvierata_06_extra | [Kościeliski Potok Dolina Kościeliska 2023-08-22 03.jpg](https://commons.wikimedia.org/wiki/File:Ko%C5%9Bcieliski_Potok_Dolina_Ko%C5%9Bcieliska_2023-08-22_03.jpg) | Agnieszka Kwiecień, Nova | CC BY-SA 4.0 |
 | 06_Hry_01_hrame-sa | [Young Foxes (50015799956).jpg](https://commons.wikimedia.org/wiki/File:Young_Foxes_(50015799956).jpg) | Zebralongwing | CC BY 2.0 |
 | 06_Hry_06_extra | [Belianske Tatry.jpg](https://commons.wikimedia.org/wiki/File:Belianske_Tatry.jpg) | Michalsmr | CC BY-SA 4.0 |
