@@ -59,7 +59,20 @@
     "zvierata": "Zvieratá",
     "hry": "Hry"
   },
+  "story": {
+    "title": "L'histoire en entier",
+    "subtitle": "Celý príbeh",
+    "intro": "Tous les dialogues du cours, les uns après les autres, avec leurs traductions. Touche une bulle pour écouter, et le bouton « Écouter » pour lire un chapitre en entier !",
+    "user_name": "Eric",
+    "headings": ["Le dialogue", "Scène *"],
+    "chapter_label": "Kapitola",
+    "show_translations": "Afficher les traductions",
+    "hide_translations": "Masquer les traductions",
+    "translations_default": true,
+    "back": "Retour au cours"
+  },
   "ui": {
+    "read_story": "📖 Lire toute l'histoire",
     "home": "Carte",
     "exercises": "Exercices",
     "sheet": "Fiche",

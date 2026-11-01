@@ -2,6 +2,8 @@
 
 🌐 **Le cours en ligne : [lstux.github.io/Slovingo-sk-fr-kids](https://lstux.github.io/Slovingo-sk-fr-kids/)**
 
+📖 **Tous les dialogues, à lire et à écouter d'une traite : [histoire.html](https://lstux.github.io/Slovingo-sk-fr-kids/histoire.html)** (avec les traductions).
+
 **Apprendre le slovaque en s'amusant — pour les enfants de 8 à 12 ans**
 
 Un cours de slovaque pour enfants francophones, construit sur le framework [Slovingo](https://github.com/lstux/Slovingo). C'est la version « enfants » du cours adulte [Slovingo-sk-fr](https://github.com/lstux/Slovingo-sk-fr), et la cousine du cours d'allemand [Slovingo-de-fr](https://github.com/lstux/Slovingo-de-fr), dont il reprend l'approche.
