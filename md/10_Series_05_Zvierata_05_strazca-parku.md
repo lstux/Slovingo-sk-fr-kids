@@ -1,6 +1,6 @@
 # Série Zvieratá (5/5) — Strážca parku
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Chrysaetos_La_Ca%C3%B1ada_20120114_1.jpg?width=800 | Aigle royal en vol au-dessus des montagnes (photo : Juan lacruz, CC BY 3.0, Wikimedia Commons)
+@ img/illus_05_zvierata.jpg | Pán Orol, le gardien du parc, explique aux enfants pourquoi on reste sur le sentier
 
 {{fr:Tu te promènes avec Andrea, Katka et Maťo, quand tu croises le gardien du parc national : Pán Orol, un aigle. Il t'explique deux règles très importantes pour protéger la nature.}}
 
@@ -117,6 +117,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Chrysaetos_La_Ca%C3%B1ada_20120114_1.jpg?width=800 | Aigle royal en vol au-dessus des montagnes (photo : Juan lacruz, CC BY 3.0, Wikimedia Commons)
 
 {{fr:Les deux règles de Monsieur Orol, à retenir pour toutes tes balades en montagne :}}
 
