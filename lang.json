@@ -69,6 +69,8 @@
     "settings": "Paramètres",
     "voice": "Voix",
     "voice_automatic": "Automatique",
+    "voice_other": "Autres voix",
+    "change_course": "Changer de cours",
     "playback_speed": "Vitesse de lecture",
     "playback_speed_native": "Vitesse de lecture",
     "slow_playback_speed": "Lecture lente",
