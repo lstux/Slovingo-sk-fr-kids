@@ -31,6 +31,7 @@
     "css_class": "col-native"
   },
   "site": {
+    "status": "review",
     "title": "Zajko - apprends le Slovaque",
     "short_name": "Zajko",
     "description": "Apprends le slovaque en t'amusant — fiches, dialogues",
