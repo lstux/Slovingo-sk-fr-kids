@@ -15,6 +15,7 @@
   },
   "target_lang": {
     "code": "sk",
+    "group_label": "Slovaque - Slovenčina",
     "name": "slovaque",
     "tts_code": "sk-SK",
     "flag": "🇸🇰",
@@ -33,6 +34,9 @@
     "title": "Zajko - apprends le Slovaque",
     "short_name": "Zajko",
     "description": "Apprends le slovaque en t'amusant — fiches, dialogues",
+    "cover": "img/illus_00_couverture.jpg",
+    "pitch": "Dans les Tatras, un renard fait la connaissance d'Andrea la hase et de leurs amis. Salutations, famille, repas, village, animaux, jeux : on apprend les premiers mots de slovaque en s'amusant.",
+    "audience": "8-12 ans",
     "theme_color": "#0b4ea2",
     "icon_style": "kids",
     "storage_prefix": "sk-fr-kids",
