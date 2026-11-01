@@ -1,6 +1,6 @@
 # Série Jedlo (5/5) — Halušky u babky
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg?width=800 | Halušky avec de la bryndza, plat traditionnel slovaque (photo : Gregory finster, CC0, Wikimedia Commons)
+@ img/illus_03_jedlo.jpg | À table chez Babka Zuzana : des halušky pour tout le monde, et des baies pour le renard
 
 {{fr:C'est l'heure du déjeuner chez Babka Zuzana ! Au menu : le plat le plus célèbre de Slovaquie. Mais attention, ce fromage-là, c'est une histoire de famille…}}
 
@@ -114,6 +114,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg?width=800 | Halušky avec de la bryndza, plat traditionnel slovaque (photo : Gregory finster, CC0, Wikimedia Commons)
 
 {{fr:Les}} {{bryndzové halušky}} {{fr:sont le plat national de la Slovaquie : des petites pâtes de pomme de terre avec un fromage fait surtout de lait de brebis, et souvent des petits morceaux de lard grillé.}} 🇸🇰
 
