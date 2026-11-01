@@ -115,7 +115,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bryndzov%C3%A9_halu%C5%A1ky_so_slaninou.jpg?width=800 | Halušky avec de la bryndza, plat traditionnel slovaque (photo : Gregory finster, CC0, Wikimedia Commons)
+@ img/Bryndzové_halušky_so_slaninou.jpg | Halušky avec de la bryndza, plat traditionnel slovaque (photo : Gregory finster, CC0, Wikimedia Commons)
 
 {{fr:Les}} {{bryndzové halušky}} {{fr:sont le plat national de la Slovaquie : des petites pâtes de pomme de terre avec un fromage fait surtout de lait de brebis, et souvent des petits morceaux de lard grillé.}} 🇸🇰
 

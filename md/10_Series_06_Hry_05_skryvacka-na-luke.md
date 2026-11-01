@@ -134,7 +134,7 @@ Les personnages :
 
 {{fr:Et pour fêter ça, on dit}} {{Dobrá hra}} {{fr:à tout le monde, même à ceux qui ont perdu !}}
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Chleb_%E2%80%93_flowering_meadow_below_the_summit_in_June.jpg?width=800 | Prairie de montagne fleurie avec un petit arbre (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Chleb_–_flowering_meadow_below_the_summit_in_June.jpg | Prairie de montagne fleurie avec un petit arbre (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
 
 ---
 

@@ -8,7 +8,7 @@
 
 [ASK_USER_NAME]
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/European_red_fox_(Vulpes_vulpes).jpg | Le renard roux : c'est toi, dans cette aventure !
+@ img/European_red_fox_(Vulpes_vulpes).jpg | Le renard roux : c'est toi, dans cette aventure !
 
 ---
 

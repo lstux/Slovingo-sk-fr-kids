@@ -1,6 +1,6 @@
 # Série Zvieratá (4/5) — Kto je väčší?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Bear_%2828392685756%29.jpg?width=800 | Comparaison de taille : ours et marmotte, dessin ou montage (photo : Susanne Nilsson, CC BY-SA 2.0, Wikimedia Commons)
+@ img/Bear_(28392685756).jpg | Comparaison de taille : ours et marmotte, dessin ou montage (photo : Susanne Nilsson, CC BY-SA 2.0, Wikimedia Commons)
 
 {{fr:Qui est le plus grand ? Le plus rapide ? Aujourd'hui, tu apprends à comparer.}}
 

@@ -1,6 +1,6 @@
 # Introduction (2/5) — Où parle-t-on slovaque ?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Vysok%C3%A9_Tatry_panorama.jpg | Les Tatras, les plus hautes montagnes de Slovaquie
+@ img/Vysoké_Tatry_panorama.jpg | Les Tatras, les plus hautes montagnes de Slovaquie
 
 {{fr:Le slovaque se parle surtout en Slovaquie, un pays au cœur de l'Europe. Il a cinq voisins : la Pologne, la Tchéquie, l'Autriche, la Hongrie et l'Ukraine.}}
 

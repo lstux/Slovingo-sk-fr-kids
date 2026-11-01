@@ -1,6 +1,6 @@
 # Série Hry (2/5) — Môžem sa hrať?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Slovak_hiking_signpost_-_intersection_just_above_Tery%27s_Hut_in_High_tatras.jpg?width=800 | Panneau de sentier de montagne (photo : User: (WT-shared) Scharla at wts wikivoyage, Public domain, Wikimedia Commons)
+@ img/Slovak_hiking_signpost_-_intersection_just_above_Tery's_Hut_in_High_tatras.jpg | Panneau de sentier de montagne (photo : User: (WT-shared) Scharla at wts wikivoyage, Public domain, Wikimedia Commons)
 
 {{fr:Peut-on jouer ici ? Peut-on y aller ? Aujourd'hui, tu apprends à demander la permission, et à dire oui ou non.}}
 

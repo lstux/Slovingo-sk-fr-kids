@@ -1,6 +1,6 @@
 # Série Hry (1/5) — Hráme sa!
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Young_Foxes_%2850015799956%29.jpg?width=800 | Enfants qui jouent dans une prairie de montagne (photo : Zebralongwing, CC BY 2.0, Wikimedia Commons)
+@ img/Young_Foxes_(50015799956).jpg | Enfants qui jouent dans une prairie de montagne (photo : Zebralongwing, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Après les balades, on joue ! Aujourd'hui, tu apprends à proposer un jeu et à dire quel jeu tu veux.}}
 

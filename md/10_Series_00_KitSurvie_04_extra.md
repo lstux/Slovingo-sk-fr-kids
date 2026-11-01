@@ -1,6 +1,6 @@
 # Kit de Survie (extra) — Všetko dokopy
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Nov%C3%A9_%C5%A0trbsk%C3%A9_pleso_25_Slovakia_1.jpg | Le Nové Štrbské Pleso, un lac de montagne dans les Tatras
+@ img/Nové_Štrbské_pleso_25_Slovakia_1.jpg | Le Nové Štrbské Pleso, un lac de montagne dans les Tatras
 
 {{fr:Pas de mot nouveau ici. On réunit tout le Kit de Survie, et on mélange les mots dans de petites scènes !}}
 

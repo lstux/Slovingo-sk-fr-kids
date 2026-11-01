@@ -118,7 +118,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Chrysaetos_La_Ca%C3%B1ada_20120114_1.jpg?width=800 | Aigle royal en vol au-dessus des montagnes (photo : Juan lacruz, CC BY 3.0, Wikimedia Commons)
+@ img/Chrysaetos_La_Cañada_20120114_1.jpg | Aigle royal en vol au-dessus des montagnes (photo : Juan lacruz, CC BY 3.0, Wikimedia Commons)
 
 {{fr:Les deux règles de Monsieur Orol, à retenir pour toutes tes balades en montagne :}}
 

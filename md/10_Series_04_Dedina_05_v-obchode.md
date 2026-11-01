@@ -130,7 +130,7 @@ Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Ve%C4%BEk%C3%A9_Ra%C5%A1kovce_grocery_shop_and_village_pub_%28June_2006%29.jpg?width=800 | Vitrine d'un petit magasin de village (photo : ZemplinTemplar, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Veľké_Raškovce_grocery_shop_and_village_pub_(June_2006).jpg | Vitrine d'un petit magasin de village (photo : ZemplinTemplar, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans un magasin, on dit}} {{Dobrý deň}} {{fr:en entrant et}} {{dovidenia}} {{fr:en sortant. Ça paraît petit, mais les commerçants adorent ça !}} 💛
 

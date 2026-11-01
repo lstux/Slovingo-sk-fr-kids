@@ -83,7 +83,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/20170401_kozica_Ko%C5%84czysty_Wierch_5522.jpg | Un chamois des Tatras (photo : Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons)
+@ img/20170401_kozica_Kończysty_Wierch_5522.jpg | Un chamois des Tatras (photo : Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Quand tu ne comprends pas, tu as une phrase de secours. Personne ne t'en voudra : c'est normal quand on apprend !}} → {{Nerozumiem}}
 
