@@ -1,6 +1,6 @@
 # Série Doma (5/5) — Návšteva
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_Marmot_Family.jpg?width=800 | Jeunes animaux devant l'entrée d'un terrier, ambiance chaleureuse (photo : EpsilonEridani, CC BY-SA 4.0, Wikimedia Commons)
+@ img/illus_02_doma.jpg | Katka invite ses amis à visiter son terrier
 
 {{fr:Katka t'invite chez elle, dans son terrier. Maťo et Andrea sont là aussi. Tu vas visiter, poser des questions et raconter où tu habites !}}
 
@@ -121,6 +121,8 @@
 ---
 
 ## 🇸🇰 Coin slovaque
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/Alpine_Marmot_Family.jpg?width=800 | Jeunes animaux devant l'entrée d'un terrier, ambiance chaleureuse (photo : EpsilonEridani, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Quand quelqu'un t'invite chez lui, n'oublie pas de dire merci pour l'invitation, comme tu viens de le faire. Et si tu croises un vrai terrier en montagne : on regarde de loin, sans faire de bruit !}} 💛
 
