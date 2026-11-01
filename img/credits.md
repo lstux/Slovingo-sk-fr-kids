@@ -10,17 +10,17 @@ Une fois les images des fiches téléchargées dans `img/` (`src/fetch_images.py
 
 | Fiche | Fichier Commons | Auteur | Licence |
 |---|---|---|---|
-| Intro 01 · Couverture (illustration IA) | `img/illus_00_couverture.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026, d'après une photo des Hautes Tatras ([Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg), auteur à compléter) | à compléter (sous CC BY-SA si la photo l'est) |
-| Intro 01 · Comment ça marche (le renard, photo dans le corps de la fiche) | [European red fox (Vulpes vulpes).jpg](https://commons.wikimedia.org/wiki/File:European_red_fox_(Vulpes_vulpes).jpg) | à compléter | à compléter |
-| Intro 02 · Le pays (les Tatras) | [Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg) | à compléter | à compléter |
-| Intro 03 · La langue (Andrea, la hase) | [European Hare(js)02.jpg](https://commons.wikimedia.org/wiki/File:European_Hare(js)02.jpg) | à compléter | à compléter |
-| Intro 04 · Prononciation (la marmotte) | [M. marmota latirostris in front of the burrow (Tatra).jpg](https://commons.wikimedia.org/wiki/File:M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg) | à compléter | à compléter |
-| Intro 05 · Comptage (les moutons) | [Amoo click.jpg](https://commons.wikimedia.org/wiki/File:Amoo_click.jpg) | à compléter | à compléter |
-| Kit 01 · Salutations (le sentier) | [Biele pleso, NPR Belianske Tatry 727.jpg](https://commons.wikimedia.org/wiki/File:Biele_pleso,_NPR_Belianske_Tatry_727.jpg) | à compléter | à compléter |
-| Kit 02 · Politesse (Babka Zuzana, les prés fleuris) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | à compléter | à compléter |
+| Intro 01 · Couverture (illustration IA) | `img/illus_00_couverture.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026, d'après une photo des Hautes Tatras ([Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg), Midnight Runner) | CC BY-SA 4.0 (œuvre dérivée, même licence) |
+| Intro 01 · Comment ça marche (le renard, photo dans le corps de la fiche) | [European red fox (Vulpes vulpes).jpg](https://commons.wikimedia.org/wiki/File:European_red_fox_(Vulpes_vulpes).jpg) | Harley Kingston | CC BY 2.0 |
+| Intro 02 · Le pays (les Tatras) | [Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg) | Midnight Runner | CC BY-SA 4.0 |
+| Intro 03 · La langue (Andrea, la hase) | [European Hare(js)02.jpg](https://commons.wikimedia.org/wiki/File:European_Hare(js)02.jpg) | Jerzystrzelecki | CC BY 3.0 |
+| Intro 04 · Prononciation (la marmotte) | [M. marmota latirostris in front of the burrow (Tatra).jpg](https://commons.wikimedia.org/wiki/File:M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg) | Tomasz Zwijacz Kozica | CC BY-SA 3.0 |
+| Intro 05 · Comptage (les moutons) | [Amoo click.jpg](https://commons.wikimedia.org/wiki/File:Amoo_click.jpg) | Amoo khan | CC BY-SA 4.0 |
+| Kit 01 · Salutations (le sentier) | [Biele pleso, NPR Belianske Tatry 727.jpg](https://commons.wikimedia.org/wiki/File:Biele_pleso,_NPR_Belianske_Tatry_727.jpg) | Katarína Senajová | CC BY-SA 4.0 |
+| Kit 02 · Politesse (Babka Zuzana, les prés fleuris) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | Jozef Kotulič | CC BY-SA 4.0 |
 | Kit 03 · Coin slovaque (le chamois) | [20170401 kozica Kończysty Wierch 5522.jpg](https://commons.wikimedia.org/wiki/File:20170401_kozica_Ko%C5%84czysty_Wierch_5522.jpg) | Jakub Hałun | CC BY-SA 4.0 |
 | Kit 03 · Dialogue (illustration IA) | `img/illus_00_kit.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026, d'après la photo ci-dessus de Jakub Hałun (Wikimedia Commons) | CC BY-SA 4.0 (œuvre dérivée) |
-| Kit 04 · Extra (le lac) | [Nové Štrbské pleso 25 Slovakia 1.jpg](https://commons.wikimedia.org/wiki/File:Nov%C3%A9_%C5%A0trbsk%C3%A9_pleso_25_Slovakia_1.jpg) | à compléter | à compléter |
+| Kit 04 · Extra (le lac) | [Nové Štrbské pleso 25 Slovakia 1.jpg](https://commons.wikimedia.org/wiki/File:Nov%C3%A9_%C5%A0trbsk%C3%A9_pleso_25_Slovakia_1.jpg) | Jozef Kotulič | CC BY-SA 4.0 |
 
 ## Images de style (bandeaux de thème)
 
@@ -30,14 +30,14 @@ Pour remplir les colonnes auteur et licence : `./tools/fetch_style_images.sh --c
 
 | Thème (utilisé pour) | Fichier Commons | Auteur | Licence |
 |---|---|---|---|
-| `default` (Intro, hors séries) | [On the way to Biele pleso - panoramio (2).jpg](https://commons.wikimedia.org/wiki/File:On_the_way_to_Biele_pleso_-_panoramio_(2).jpg) | à compléter | à compléter |
-| `basics` (Kit de survie) | [Belianske Tatry oct 2022.jpg](https://commons.wikimedia.org/wiki/File:Belianske_Tatry_oct_2022.jpg) | à compléter | à compléter |
-| `family` (Rodina) | [Marmota marmota in Vanoise National Park 2023 (1).jpg](https://commons.wikimedia.org/wiki/File:Marmota_marmota_in_Vanoise_National_Park_2023_(1).jpg) (Alpes françaises, pas Tatras) | à compléter | à compléter |
-| `house` (Doma) | [Tanap schronisko Zamkovskiego 2.jpg](https://commons.wikimedia.org/wiki/File:Tanap_schronisko_Zamkovskiego_2.jpg) | à compléter | à compléter |
-| `food` (Jedlo) | [Bohemian waxwing tosses a mountain ash berry (50829531677).jpg](https://commons.wikimedia.org/wiki/File:Bohemian_waxwing_tosses_a_mountain_ash_berry_(50829531677).jpg) | à compléter | à compléter |
-| `city` (Dedina) | [Banská Štiavnica, 2018 (20).jpg](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica,_2018_(20).jpg) | à compléter | à compléter |
-| `animals` (Zvieratá) | [Gämse In Der Hohen Tatra (224466327).jpeg](https://commons.wikimedia.org/wiki/File:G%C3%A4mse_In_Der_Hohen_Tatra_(224466327).jpeg) | à compléter | à compléter |
-| `games` (Hry) | [Lupina mnoholistá (Lupinus polyphyllus) - Cesta slobody.jpg](https://commons.wikimedia.org/wiki/File:Lupina_mnoholist%C3%A1_(Lupinus_polyphyllus)_-_Cesta_slobody.jpg) | à compléter | à compléter |
+| `default` (Intro, hors séries) | [On the way to Biele pleso - panoramio (2).jpg](https://commons.wikimedia.org/wiki/File:On_the_way_to_Biele_pleso_-_panoramio_(2).jpg) | Melinda Kiss | CC BY-SA 3.0 |
+| `basics` (Kit de survie) | [Belianske Tatry oct 2022.jpg](https://commons.wikimedia.org/wiki/File:Belianske_Tatry_oct_2022.jpg) | Michalsmr | CC BY-SA 4.0 |
+| `family` (Rodina) | [Marmota marmota in Vanoise National Park 2023 (1).jpg](https://commons.wikimedia.org/wiki/File:Marmota_marmota_in_Vanoise_National_Park_2023_(1).jpg) (Alpes françaises, pas Tatras) | Ibex73 | CC BY 4.0 |
+| `house` (Doma) | [Tanap schronisko Zamkovskiego 2.jpg](https://commons.wikimedia.org/wiki/File:Tanap_schronisko_Zamkovskiego_2.jpg) | Andrzej Otrębski | CC BY-SA 4.0 |
+| `food` (Jedlo) | [Bohemian waxwing tosses a mountain ash berry (50829531677).jpg](https://commons.wikimedia.org/wiki/File:Bohemian_waxwing_tosses_a_mountain_ash_berry_(50829531677).jpg) | USFWSAlaska | Public domain |
+| `city` (Dedina) | [Banská Štiavnica, 2018 (20).jpg](https://commons.wikimedia.org/wiki/File:Bansk%C3%A1_%C5%A0tiavnica,_2018_(20).jpg) | Draceane | CC BY-SA 4.0 |
+| `animals` (Zvieratá) | [Gämse In Der Hohen Tatra (224466327).jpeg](https://commons.wikimedia.org/wiki/File:G%C3%A4mse_In_Der_Hohen_Tatra_(224466327).jpeg) | Sebastian Porzelle | CC BY 3.0 |
+| `games` (Hry) | [Lupina mnoholistá (Lupinus polyphyllus) - Cesta slobody.jpg](https://commons.wikimedia.org/wiki/File:Lupina_mnoholist%C3%A1_(Lupinus_polyphyllus)_-_Cesta_slobody.jpg) | Midnight Runner | CC BY-SA 4.0 |
 
 ## En réserve (pas encore utilisées)
 
