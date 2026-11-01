@@ -1,12 +1,14 @@
 # Introduction (1/5) — Comment ça marche ?
 
-@ https://commons.wikimedia.org/wiki/Special:FilePath/European_red_fox_(Vulpes_vulpes).jpg | Le renard roux : c'est toi, dans cette aventure !
+@ img/illus_00_couverture.jpg | Toi, Andrea, Maťo et Katka dans les Tatras : l'aventure commence !
 
 ## Salut ! Comment tu t'appelles ?
 
 👋 {{fr:Bienvenue dans les Tatras, les montagnes de Slovaquie ! Tu y arrives pour la première fois, et tu vas apprendre le slovaque avec tes nouveaux voisins : des animaux, comme toi ! Écris ton prénom ici.}}
 
 [ASK_USER_NAME]
+
+@ https://commons.wikimedia.org/wiki/Special:FilePath/European_red_fox_(Vulpes_vulpes).jpg | Le renard roux : c'est toi, dans cette aventure !
 
 ---
 

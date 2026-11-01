@@ -10,7 +10,8 @@ Une fois les images des fiches téléchargées dans `img/` (`src/fetch_images.py
 
 | Fiche | Fichier Commons | Auteur | Licence |
 |---|---|---|---|
-| Intro 01 · Comment ça marche (le renard) | [European red fox (Vulpes vulpes).jpg](https://commons.wikimedia.org/wiki/File:European_red_fox_(Vulpes_vulpes).jpg) | à compléter | à compléter |
+| Intro 01 · Couverture (illustration IA) | `img/illus_00_couverture.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026, d'après une photo des Hautes Tatras ([Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg), auteur à compléter) | à compléter (sous CC BY-SA si la photo l'est) |
+| Intro 01 · Comment ça marche (le renard, photo dans le corps de la fiche) | [European red fox (Vulpes vulpes).jpg](https://commons.wikimedia.org/wiki/File:European_red_fox_(Vulpes_vulpes).jpg) | à compléter | à compléter |
 | Intro 02 · Le pays (les Tatras) | [Vysoké Tatry panorama.jpg](https://commons.wikimedia.org/wiki/File:Vysok%C3%A9_Tatry_panorama.jpg) | à compléter | à compléter |
 | Intro 03 · La langue (Andrea, la hase) | [European Hare(js)02.jpg](https://commons.wikimedia.org/wiki/File:European_Hare(js)02.jpg) | à compléter | à compléter |
 | Intro 04 · Prononciation (la marmotte) | [M. marmota latirostris in front of the burrow (Tatra).jpg](https://commons.wikimedia.org/wiki/File:M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg) | à compléter | à compléter |
