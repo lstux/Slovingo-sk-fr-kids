@@ -17,6 +17,8 @@ name: GitHub Pages
 on:
   push:
     branches: [main, feat/ai-illustrations]
+  schedule:
+    - cron: "23 3 * * *"
   workflow_dispatch:
     inputs:
       slovingo_ref:
