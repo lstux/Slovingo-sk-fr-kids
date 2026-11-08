@@ -150,17 +150,6 @@
       ]
     },
     {
-      "id": "listen-b-la-som-sa-ale-l-ka-je-ve-mi-mil",
-      "type": "listen",
-      "l1": "J'avais peur ! Mais le renard est très gentil !",
-      "l2": "Bála som sa! Ale líška je veľmi milá!",
-      "choices_l1": [
-        "J'ai peur ! Mais le renard est très gentil !",
-        "J'avais peur ! Mais le renard est très petit !",
-        "J'avais peur ! Mais ma sœur est très gentille !"
-      ]
-    },
-    {
       "id": "listen-no-m-j-tato-je-vesel-a-mil",
       "type": "listen",
       "l1": "Oui ! Mon papa est joyeux et gentil.",
@@ -287,19 +276,59 @@
       ]
     },
     {
-      "id": "match-ach-to-je-l-ka",
+      "id": "listen-dobr-de",
+      "type": "listen",
+      "l1": "Bonjour !",
+      "l2": "Dobrý deň!",
+      "choices_l1": [
+        "Salut !",
+        "Merci !",
+        "Au revoir !"
+      ]
+    },
+    {
+      "id": "listen-aj-ja-som-sa-b-la-ale-l-ka-je-ve-mi-mil",
+      "type": "listen",
+      "l1": "Moi aussi, au début, j'avais peur ! Mais le renard est très gentil !",
+      "l2": "Aj ja som sa bála! Ale líška je veľmi milá!",
+      "choices_l1": [
+        "Moi aussi, au début, j'avais peur ! Mais le renard est très petit !",
+        "J'ai peur ! Mais le renard est très gentil !",
+        "Moi aussi, au début, j'avais peur ! Mais le renard est très joyeux !"
+      ]
+    },
+    {
+      "id": "order-moja-babka-je-star-ale-ve-mi-siln",
+      "type": "order",
+      "l1": "Ma grand-mère est âgée, mais très forte.",
+      "l2": "Moja babka je stará, ale veľmi silná.",
+      "tokens_l1": [
+        "Ma grand-mère",
+        "est âgée,",
+        "mais",
+        "très forte."
+      ],
+      "tokens_l2": [
+        "Moja babka",
+        "je stará,",
+        "ale",
+        "veľmi silná."
+      ]
+    },
+    {
+      "id": "match-dobr-de",
       "type": "match",
       "l1": [
-        "Oh ! C'est un renard !",
+        "Bonjour !",
         "J'ai peur !",
-        "J'avais peur ! Mais le renard est très gentil !",
-        "Merci, Andrea !"
+        "J'ai dix ans.",
+        "Comment est ta sœur ?"
       ],
       "l2": [
-        "Ach! To je líška!",
+        "Dobrý deň!",
         "Bojím sa!",
-        "Bála som sa! Ale líška je veľmi milá!",
-        "Ďakujem, Andrea!"
+        "Mám desať rokov.",
+        "Aká je tvoja sestra?"
       ]
     }
   ]

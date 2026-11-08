@@ -1,6 +1,6 @@
-# Série Doma (2/5) — Kde je posteľ?
+# Série Doma (2/5) — Kde je posteľ? (Où est le lit ?)
 
-@ img/Koliba_Žerucha,_Tatranská_Štrba,_Štrba,_okres_Poprad,_Prešovský_kraj_01.jpg | Intérieur douillet d'une chaumière ou d'une chata de montagne (photo : Fry72 (Karel Frydrýšek), CC BY-SA 4.0, Wikimedia Commons)
+@ img/Koliba_Žerucha,_Tatranská_Štrba,_Štrba,_okres_Poprad,_Prešovský_kraj_01.jpg | Une grande salle tout en bois, dans une maison de montagne au pied des Tatras (photo : Fry72 (Karel Frydrýšek), CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Une maison, c'est des pièces et des meubles. Aujourd'hui, tu apprends à demander où est quelque chose, et à répondre.}}
 

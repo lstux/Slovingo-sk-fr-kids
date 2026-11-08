@@ -1,6 +1,6 @@
-# Série Doma (4/5) — Sú tu dve stoličky
+# Série Doma (4/5) — Sú tu dve stoličky (Il y a deux chaises)
 
-@ img/Wooden_table_and_chairs_on_a_balcony_over_the_Mekong_at_sunrise_in_Don_Det_Si_Phan_Don_Laos.jpg | Plusieurs chaises autour d'une table (photo : Basile Morin, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Wooden_table_and_chairs_on_a_balcony_over_the_Mekong_at_sunrise_in_Don_Det_Si_Phan_Don_Laos.jpg | Une table et des chaises sur un balcon, au lever du soleil (photo : Basile Morin, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Une chaise, c'est facile. Mais deux, trois, quatre chaises ? Aujourd'hui, tu apprends à parler de plusieurs choses à la fois.}}
 

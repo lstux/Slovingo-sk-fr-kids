@@ -1,6 +1,6 @@
-# Série Zvieratá (1/5) — Zvieratá v Tatrách
+# Série Zvieratá (1/5) — Zvieratá v Tatrách (Les animaux des Tatras)
 
-@ img/20181006_Lis_rudy_Tatrzański_Park_Narodowy_1437_7472_DxO.jpg | Collage ou panorama : marmotte, chamois, ours, aigle des Tatras (photo : Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons)
+@ img/20181006_Lis_rudy_Tatrzański_Park_Narodowy_1437_7472_DxO.jpg | Un renard roux dans le parc national des Tatras (photo : Jakub Hałun, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Les Tatras sont la maison de beaucoup d'animaux. Aujourd'hui, tu apprends leurs noms, et à dire qui est quoi !}}
 

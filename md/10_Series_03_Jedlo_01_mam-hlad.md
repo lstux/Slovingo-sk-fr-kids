@@ -1,6 +1,6 @@
-# Série Jedlo (1/5) — Mám hlad!
+# Série Jedlo (1/5) — Mám hlad! (J'ai faim !)
 
-@ img/Picnic_basket_01.jpg | Pique-nique en montagne : pain, eau, pommes sur un tissu (photo : Jeremy Noble, CC BY 2.0, Wikimedia Commons)
+@ img/Picnic_basket_01.jpg | Un panier de pique-nique en osier, prêt pour la montagne (photo : Jeremy Noble, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Les balades en montagne, ça creuse ! Aujourd'hui, tu apprends à dire que tu as faim ou soif, et ce que tu manges et bois.}}
 

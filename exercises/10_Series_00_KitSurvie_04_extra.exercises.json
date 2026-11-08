@@ -19,22 +19,6 @@
       ]
     },
     {
-      "id": "qcm-hovoris-po-francuzsky",
-      "type": "qcm",
-      "l1": "Tu parles français ?",
-      "l2": "Hovoríš po francúzsky?",
-      "choices_l1": [
-        "Comment tu t'appelles ?",
-        "Ça va ?",
-        "Je ne comprends pas."
-      ],
-      "choices_l2": [
-        "Ako sa voláš?",
-        "Ako sa máš?",
-        "Nerozumiem."
-      ]
-    },
-    {
       "id": "listen-volam-sa-mato-ako-sa-mas",
       "type": "listen",
       "l1": "Je m'appelle Maťo. Comment ça va ?",
@@ -55,60 +39,6 @@
         "Pardon ! Ça va ?",
         "Non, merci ! Ça va ?"
       ]
-    },
-    {
-      "id": "listen-nie-prepac-nerozumiem",
-      "type": "listen",
-      "l1": "Non, pardon. Je ne comprends pas.",
-      "l2": "Nie, prepáč. Nerozumiem.",
-      "choices_l1": [
-        "Oui, pardon. Je ne comprends pas.",
-        "Non, merci. Je ne comprends pas.",
-        "Non, pardon. Tu parles français ?"
-      ]
-    },
-    {
-      "id": "listen-nevadi-dakujem",
-      "type": "listen",
-      "l1": "Pas de souci ! Merci !",
-      "l2": "Nevadí! Ďakujem!",
-      "choices_l1": [
-        "Pardon ! Merci !",
-        "Pas de souci ! Au revoir !",
-        "Pas de souci ! Salut !"
-      ]
-    },
-    {
-      "id": "listen-dovidenia-ahoj-andrea",
-      "type": "listen",
-      "l1": "Au revoir ! Salut, Andrea !",
-      "l2": "Dovidenia! Ahoj, Andrea!",
-      "choices_l1": [
-        "Salut ! Au revoir, Andrea !",
-        "Au revoir ! Salut, Maťo !",
-        "Merci ! Salut, Andrea !"
-      ]
-    },
-    {
-      "id": "blank-hovoris-po-francuzsky",
-      "type": "fill-blank",
-      "l1": "Tu parles français ?",
-      "l2": "Hovoríš po francúzsky?",
-      "missing_l1": "parles",
-      "missing_l2": "Hovoríš",
-      "blank_index_l1": 1,
-      "blank_index_l2": 0,
-      "choices_l1": [
-        "merci",
-        "bien",
-        "pardon"
-      ],
-      "choices_l2": [
-        "Ďakujem",
-        "Dobre",
-        "Prepáč"
-      ],
-      "show_translation": true
     },
     {
       "id": "blank-ahoj-ako-sa-volas",
@@ -148,22 +78,6 @@
       ]
     },
     {
-      "id": "order-nie-prepac-nerozumiem",
-      "type": "order",
-      "l1": "Non, pardon. Je ne comprends pas.",
-      "l2": "Nie, prepáč. Nerozumiem.",
-      "tokens_l1": [
-        "Non,",
-        "pardon.",
-        "Je ne comprends pas."
-      ],
-      "tokens_l2": [
-        "Nie,",
-        "prepáč.",
-        "Nerozumiem."
-      ]
-    },
-    {
       "id": "match-dobry-den",
       "type": "match",
       "l1": [
@@ -193,6 +107,97 @@
         "nie",
         "ja",
         "dobre"
+      ]
+    },
+    {
+      "id": "qcm-prep-nerozumiem",
+      "type": "qcm",
+      "l1": "Pardon, je ne comprends pas.",
+      "l2": "Prepáč, nerozumiem.",
+      "choices_l1": [
+        "Pardon, je m'appelle Maťo.",
+        "Non, merci.",
+        "Pas de souci !"
+      ],
+      "choices_l2": [
+        "Prepáč, volám sa Maťo.",
+        "Nie, ďakujem.",
+        "Nevadí!"
+      ]
+    },
+    {
+      "id": "listen-prep-hovor-po-franc-zsky",
+      "type": "listen",
+      "l1": "Pardon ! Tu parles français ?",
+      "l2": "Prepáč! Hovoríš po francúzsky?",
+      "choices_l1": [
+        "Pardon ! Comment tu t'appelles ?",
+        "Oui ! Tu parles français ?",
+        "Pardon, je ne comprends pas."
+      ]
+    },
+    {
+      "id": "listen-pros-m-ahoj",
+      "type": "listen",
+      "l1": "De rien ! Salut !",
+      "l2": "Prosím! Ahoj!",
+      "choices_l1": [
+        "Merci ! Salut !",
+        "Pardon ! Salut !",
+        "Oui ! Salut !"
+      ]
+    },
+    {
+      "id": "fill-blank-prep-nerozumiem",
+      "type": "fill-blank",
+      "l1": "Pardon, je ne comprends pas.",
+      "l2": "Prepáč, nerozumiem.",
+      "missing_l1": "comprends",
+      "missing_l2": "nerozumiem",
+      "blank_index_l1": 3,
+      "blank_index_l2": 1,
+      "choices_l1": [
+        "parle",
+        "m'appelle",
+        "vais"
+      ],
+      "choices_l2": [
+        "hovoríš",
+        "volám",
+        "nevadí"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-no-hovor-po-franc-zsky",
+      "type": "order",
+      "l1": "Oui ! Tu parles français ?",
+      "l2": "Áno! Hovoríš po francúzsky?",
+      "tokens_l1": [
+        "Oui !",
+        "Tu parles",
+        "français ?"
+      ],
+      "tokens_l2": [
+        "Áno!",
+        "Hovoríš",
+        "po francúzsky?"
+      ]
+    },
+    {
+      "id": "match-nevad",
+      "type": "match",
+      "l1": [
+        "pas de souci",
+        "tu parles",
+        "je ne comprends pas",
+        "(en) français"
+      ],
+      "l2": [
+        "nevadí",
+        "hovoríš",
+        "nerozumiem",
+        "po francúzsky"
       ]
     }
   ]

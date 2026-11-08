@@ -1,6 +1,6 @@
-# Rodina (extra) — Všetko o rodine
+# Rodina (extra) — Všetko o rodine (Tout sur la famille)
 
-@ img/Mlade_lisice_u_rupi.jpg | Famille d'animaux dans les Tatras (photo : Divlja Srbija, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Mlade_lisice_u_rupi.jpg | Des renardeaux blottis à l'entrée de leur terrier (photo : Divlja Srbija, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Rodina, et on mélange les mots dans de petites scènes !}}
 
@@ -42,13 +42,11 @@
 | malý / malá | petit / petite |
 | veľký / veľká | grand / grande |
 | starý / stará | âgé / âgée |
-| rýchly / rýchla | rapide |
 | veľmi | très |
 | aký / aká | comment (pour décrire) |
 | ale | mais |
 | líška | le renard (l'animal) |
 | bojím sa | j'ai peur |
-| bála som sa | j'avais peur (dit par une fille) |
 
 ---
 
@@ -75,11 +73,12 @@
 > A = et
 > kto je to = qui est-ce
 
-! 🦊 To je moja teta. Je silná a rýchla.
-> C'est ma tante. Elle est forte et rapide.
+! 🦊 To je moja teta. Je malá, ale silná.
+> C'est ma tante. Elle est petite, mais forte.
 > To je moja teta = c'est ma tante
-> Je = elle est
-> silná a rýchla = forte et rapide
+> Je malá = elle est petite
+> ale = mais
+> silná = forte
 
 ! 🐻 Máš sestru?
 > Tu as une sœur ?
@@ -97,7 +96,7 @@
 
 ### Scène 2 — Chez Babka Zuzana
 
-{{fr:Babka Zuzana pose des questions à sa petite-fille Katka. Elle adore connaître l'âge de tout le monde !}}
+{{fr:Babka Zuzana fait semblant d'avoir oublié l'âge de ses petits-enfants… juste pour taquiner Katka !}} 😄
 
 ! 🐑 Ahoj, deti! Koľko máš rokov, Katka?
 > Salut, les enfants ! Quel âge as-tu, Katka ?
@@ -140,34 +139,22 @@
 > ale = mais
 > veľmi veselý = très joyeux
 
-! 🐰 A moja susedka je silná a veľmi rýchla.
-> Et ma voisine est forte et très rapide.
+! 🐰 A moja susedka je malá, ale veľmi silná.
+> Et ma voisine est petite, mais très forte.
 > A = et
 > moja susedka = ma voisine
-> je silná = est forte
-> veľmi rýchla = très rapide
+> je malá = est petite
+> ale = mais
+> veľmi silná = très forte
 
 ---
 
-### Scène 4 — Un renard !
+### Scène 4 — Et ta famille ?
 
-{{fr:Katka voit le renard. Andrea, elle, le connaît déjà. Et toi, tu parles de ta famille !}}
+{{fr:Katka n'a plus du tout peur du renard. Elle veut tout savoir sur ta famille !}}
 
-! 🐹 Kto je to? Líška! Bojím sa!
-> Qui est-ce ? Un renard ! J'ai peur !
-> Kto je to = qui est-ce
-> Líška = un renard
-> Bojím sa = j'ai peur
-
-! 🐰 Bála som sa! Ale líška je veľmi milá.
-> J'avais peur ! Mais le renard est très gentil.
-> Bála som sa = j'avais peur
-> ale = mais
-> líška je veľmi milá = le renard est très gentil
-+ L'accord se fait avec le mot {{líška}}, qui est féminin.
-
-! 🐹 Aká je tvoja rodina?
-> Comment est ta famille ?
+! 🐹 [USER_NAME], aká je tvoja rodina?
+> [USER_NAME], comment est ta famille ?
 > Aká je = comment est
 > tvoja rodina = ta famille
 
@@ -177,3 +164,21 @@
 > je veľká = est grande
 > a = et
 > veselá = joyeuse
+
+! 🐹 A tvoja sestra? Aká je?
+> Et ta sœur ? Comment est-elle ?
+> A tvoja sestra = et ta sœur
+> Aká je = comment est-elle
+
+! 🦊 Je veľká a veľmi silná!
+> Elle est grande et très forte !
+> Je veľká = elle est grande
+> a = et
+> veľmi silná = très forte
+
+! 🐹 Aj môj brat je veľký a silný!
+> Mon frère aussi est grand et fort !
+> Aj = aussi
+> môj brat = mon frère
+> je veľký = est grand
+> a silný = et fort

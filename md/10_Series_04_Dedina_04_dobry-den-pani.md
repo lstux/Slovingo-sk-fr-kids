@@ -1,6 +1,6 @@
-# Série Dedina (4/5) — Dobrý deň, pani Ježková!
+# Série Dedina (4/5) — Dobrý deň, pani Ježková! (Bonjour, Madame Ježková !)
 
-@ img/Hedgehog_in_grass.jpg | Petit magasin de village, comptoir en bois, ambiance chaleureuse (photo : Mikejamesshaw, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Hedgehog_in_grass.jpg | Un hérisson dans l'herbe : Pani Ježková n'est pas loin ! (photo : Mikejamesshaw, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:C'est la première fois que tu parles à un adulte que tu ne connais pas : la commerçante du village. En slovaque, on change quelques mots pour être poli.}}
 

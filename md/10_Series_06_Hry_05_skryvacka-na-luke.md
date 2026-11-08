@@ -1,4 +1,4 @@
-# Série Hry (5/5) — Skrývačka na lúke
+# Série Hry (5/5) — Skrývačka na lúke (Cache-cache dans la prairie)
 
 @ img/illus_06_hry.jpg | Cache-cache dans la prairie : Andrea compte, Maťo se cache derrière le rocher, Katka derrière le buisson (illustration IA)
 
@@ -134,7 +134,7 @@ Les personnages :
 
 {{fr:Et pour fêter ça, on dit}} {{Dobrá hra}} {{fr:à tout le monde, même à ceux qui ont perdu !}}
 
-@ img/Chleb_–_flowering_meadow_below_the_summit_in_June.jpg | Prairie de montagne fleurie avec un petit arbre (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Chleb_–_flowering_meadow_below_the_summit_in_June.jpg | Une prairie de montagne pleine de fleurs, en juin (photo : Punteador, CC BY-SA 4.0, Wikimedia Commons)
 
 ---
 

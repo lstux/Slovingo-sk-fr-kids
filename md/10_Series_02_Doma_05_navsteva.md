@@ -1,4 +1,4 @@
-# Série Doma (5/5) — Návšteva
+# Série Doma (5/5) — Návšteva (La visite)
 
 @ img/illus_02_doma.jpg | Katka invite ses amis à visiter son terrier
 
@@ -122,7 +122,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ img/Alpine_Marmot_Family.jpg | Jeunes animaux devant l'entrée d'un terrier, ambiance chaleureuse (photo : EpsilonEridani, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Alpine_Marmot_Family.jpg | Deux jeunes marmottes devant leur terrier (photo : EpsilonEridani, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Quand quelqu'un t'invite chez lui, n'oublie pas de dire merci pour l'invitation, comme tu viens de le faire. Et si tu croises un vrai terrier en montagne : on regarde de loin, sans faire de bruit !}} 💛
 

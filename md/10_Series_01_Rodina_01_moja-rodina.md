@@ -1,4 +1,4 @@
-# Série Rodina (1/5) — Moja rodina
+# Série Rodina (1/5) — Moja rodina (Ma famille)
 
 @ img/Alpenmurmeltier_2.jpg | Une famille de marmottes devant leur terrier (photo : Bernard Landgraf, CC BY-SA 4.0, Wikimedia Commons)
 
@@ -52,7 +52,7 @@ Un mot qui finit par -a (mama, sestra, babka) prend {{moja}}. Pour un garçon, c
 > To je = c'est
 > môj = mon
 > tato = papa
-+ Le ô se dit « wo » : môj = « mwoï ».
++ Le ô se dit « ouo », très vite : môj = « mouoï ».
 
 ! To je môj brat.
 > C'est mon frère.

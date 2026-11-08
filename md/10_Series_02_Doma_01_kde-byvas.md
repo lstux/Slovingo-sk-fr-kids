@@ -1,6 +1,6 @@
-# Série Doma (1/5) — Kde bývaš?
+# Série Doma (1/5) — Kde bývaš? (Où habites-tu ?)
 
-@ img/Alpine_marmot_(Marmota_marmota)_in_the_mountains_at_the_entrance_to_its_burrow.JPG | Entrée d'un terrier de marmotte dans l'herbe, Tatras (photo : trldp, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Alpine_marmot_(Marmota_marmota)_in_the_mountains_at_the_entrance_to_its_burrow.JPG | Une marmotte assise devant l'entrée de son terrier (photo : trldp, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans les Tatras, chacun a sa maison : un terrier, une tanière, un nid… Aujourd'hui, tu apprends à dire où tu habites.}}
 

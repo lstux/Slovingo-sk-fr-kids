@@ -1,4 +1,4 @@
-# Série Dedina (5/5) — V obchode
+# Série Dedina (5/5) — V obchode (Au magasin)
 
 @ img/illus_04_dedina.jpg | Au magasin du village : Pani Ježková sert le renard, Andrea et Katka
 
@@ -130,7 +130,7 @@ Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 
 ## 🇸🇰 Coin slovaque
 
-@ img/Veľké_Raškovce_grocery_shop_and_village_pub_(June_2006).jpg | Vitrine d'un petit magasin de village (photo : ZemplinTemplar, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Veľké_Raškovce_grocery_shop_and_village_pub_(June_2006).jpg | Un petit magasin de village en Slovaquie (photo : ZemplinTemplar, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans un magasin, on dit}} {{Dobrý deň}} {{fr:en entrant et}} {{dovidenia}} {{fr:en sortant. Ça paraît petit, mais les commerçants adorent ça !}} 💛
 

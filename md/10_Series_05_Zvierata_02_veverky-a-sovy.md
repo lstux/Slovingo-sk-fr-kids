@@ -1,6 +1,6 @@
-# Série Zvieratá (2/5) — Dve veveričky, tri sovy
+# Série Zvieratá (2/5) — Dve veveričky, tri sovy (Deux écureuils, trois chouettes)
 
-@ img/Squirrel_posing.jpg | Écureuils dans un arbre, chouette (photo : Peter Trimming, CC BY 2.0, Wikimedia Commons)
+@ img/Squirrel_posing.jpg | Un écureuil roux qui grignote sur une souche (photo : Peter Trimming, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Un animal, c'est facile. Mais deux écureuils, trois chouettes, quatre renards ? Aujourd'hui, tu apprends à compter les animaux.}}
 

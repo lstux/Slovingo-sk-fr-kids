@@ -1,6 +1,6 @@
-# Série Rodina (2/5) — Koľko máš rokov?
+# Série Rodina (2/5) — Koľko máš rokov? (Quel âge as-tu ?)
 
-@ img/Red_fox_kits_(40215214874).jpg | Gâteau d'anniversaire avec des bougies, ou jeunes animaux en fête (photo : USFWS Headquarters, Public domain, Wikimedia Commons)
+@ img/Red_fox_kits_(40215214874).jpg | Deux jeunes renards : à ton avis, quel âge ont-ils ? (photo : USFWS Headquarters, Public domain, Wikimedia Commons)
 
 {{fr:Quel âge as-tu ? Aujourd'hui, tu apprends à dire ton âge et celui des autres.}}
 
@@ -34,6 +34,15 @@
 | ty máš | tu as |
 | on má | il a |
 | ona má | elle a |
+
+### Le petit mot peut disparaître
+
+{{fr:Petit secret : le plus souvent, les Slovaques laissent tomber le petit mot devant le verbe. La fin du verbe dit déjà qui parle !}}
+
+- {{Ja mám osem rokov.}} → {{Mám osem rokov.}} (j'ai huit ans)
+- {{Ona má deväť rokov.}} → {{Má deväť rokov.}} (elle a neuf ans)
+
+{{fr:On garde le petit mot quand on veut insister : « moi, j'ai… », « toi, tu as… ».}}
 
 ### Dire son âge
 
@@ -111,6 +120,7 @@
 > To je moja sestra = c'est ma sœur
 > Má = elle a
 > osem rokov = huit ans
++ Pas besoin de {{ona}} : on sait déjà qu'on parle de la sœur.
 
 ! To je môj brat. Má deväť rokov.
 > C'est mon frère. Il a neuf ans.

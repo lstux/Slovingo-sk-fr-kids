@@ -1,4 +1,4 @@
-# Série Rodina (3/5) — Mám brata
+# Série Rodina (3/5) — Mám brata (J'ai un frère)
 
 @ img/M.marmota_latirostris_in_Veľká_Studená_dolina_2.jpg | Marmotte debout qui guette devant son terrier (photo : Krzysztof Górecki, CC BY-SA 3.0, Wikimedia Commons)
 

@@ -1,4 +1,4 @@
-# Série Zvieratá (3/5) — Aké je zviera?
+# Série Zvieratá (3/5) — Aké je zviera? (Comment est l'animal ?)
 
 @ img/Rupicapra_rupicapra_-_Jahňaci_štít.jpg | Chamois des Tatras sur un rocher (photo : Marcin Białek, CC BY-SA 4.0, Wikimedia Commons)
 

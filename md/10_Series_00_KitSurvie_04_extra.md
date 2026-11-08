@@ -1,4 +1,4 @@
-# Kit de Survie (extra) — Všetko dokopy
+# Kit de Survie (extra) — Všetko dokopy (Tout ensemble)
 
 @ img/Nové_Štrbské_pleso_25_Slovakia_1.jpg | Le Nové Štrbské Pleso, un lac de montagne dans les Tatras
 
@@ -92,53 +92,67 @@
 
 ---
 
-### Scène 3 — Je ne comprends pas
+### Scène 3 — Pas si vite !
 
-{{fr:Tu essaies de parler français. Pas facile pour tout le monde !}}
+{{fr:Maťo est tout content de te voir : il parle beaucoup trop vite !}}
 
-! 🦊 Hovoríš po francúzsky?
-> Tu parles français ?
+! 🐻 Ahoj! Ako sa máš? Hovoríš po francúzsky?
+> Salut ! Comment ça va ? Tu parles français ?
+> Ahoj = salut
+> Ako sa máš = comment ça va
+> Hovoríš = tu parles
+> po francúzsky = (en) français
++ Maťo enchaîne tout d'un coup… Pas facile de suivre !
+
+! 🦊 Prepáč, nerozumiem.
+> Pardon, je ne comprends pas.
+> Prepáč = pardon
+> nerozumiem = je ne comprends pas
++ La phrase de secours ! Elle marche à tous les coups.
+
+! 🐻 Prepáč! Hovoríš po francúzsky?
+> Pardon ! Tu parles français ?
+> Prepáč = pardon
+> Hovoríš = tu parles
+> po francúzsky = (en) français
++ Cette fois, Maťo parle doucement.
+
+! 🦊 Áno! Hovoríš po francúzsky?
+> Oui ! Tu parles français ?
+> Áno = oui
 > Hovoríš = tu parles
 > po francúzsky = (en) français
 
-! 🐻 Nie, prepáč. Nerozumiem.
-> Non, pardon. Je ne comprends pas.
+! 🐻 Nie, prepáč!
+> Non, désolé !
 > Nie = non
 > prepáč = pardon
-> Nerozumiem = je ne comprends pas
 
-! 🐰 Aj ja nerozumiem!
-> Moi aussi, je ne comprends pas !
-> Aj ja = moi aussi
-> nerozumiem = je ne comprends pas
-
-! 🦊 Nevadí! Ďakujem!
-> Pas de souci ! Merci !
+! 🦊 Nevadí!
+> Pas de souci !
 > Nevadí = pas de souci
-> Ďakujem = merci
 
 ---
 
-### Scène 4 — Merci et au revoir
+### Scène 4 — Merci et salut
 
-{{fr:Il est temps de se dire au revoir.}}
+{{fr:Il est temps de se dire au revoir. Entre copains, on dit simplement « salut » !}}
 
 ! 🦊 Ďakujem, Maťo!
 > Merci, Maťo !
 > Ďakujem = merci
 > Maťo = Maťo
 
-! 🐻 Prosím! Dovidenia!
-> De rien ! Au revoir !
+! 🐻 Prosím! Ahoj!
+> De rien ! Salut !
 > Prosím = de rien
-> Dovidenia = au revoir
+> Ahoj = salut
 + {{Prosím}} veut dire « s'il te plaît », mais aussi « de rien » quand on répond à un merci.
 
-! 🦊 Dovidenia! Ahoj, Andrea!
-> Au revoir ! Salut, Andrea !
-> Dovidenia = au revoir
+! 🦊 Ahoj, Maťo! Ahoj, Andrea!
+> Salut, Maťo ! Salut, Andrea !
 > Ahoj = salut
-> Andrea = Andrea
++ Entre copains, {{ahoj}} sert aussi à dire au revoir. {{Dovidenia}}, on le garde pour les adultes.
 
 ! 🐰 Ahoj, [USER_NAME]!
 > Salut, [USER_NAME] !

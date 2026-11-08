@@ -1,4 +1,4 @@
-# Série Zvieratá (5/5) — Strážca parku
+# Série Zvieratá (5/5) — Strážca parku (Le gardien du parc)
 
 @ img/illus_05_zvierata.jpg | Pán Orol, le gardien du parc, explique aux enfants pourquoi on reste sur le sentier
 

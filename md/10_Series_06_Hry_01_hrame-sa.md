@@ -1,6 +1,6 @@
-# Série Hry (1/5) — Hráme sa!
+# Série Hry (1/5) — Hráme sa! (On joue !)
 
-@ img/Young_Foxes_(50015799956).jpg | Enfants qui jouent dans une prairie de montagne (photo : Zebralongwing, CC BY 2.0, Wikimedia Commons)
+@ img/Young_Foxes_(50015799956).jpg | Deux jeunes renards qui jouent ensemble (photo : Zebralongwing, CC BY 2.0, Wikimedia Commons)
 
 {{fr:Après les balades, on joue ! Aujourd'hui, tu apprends à proposer un jeu et à dire quel jeu tu veux.}}
 

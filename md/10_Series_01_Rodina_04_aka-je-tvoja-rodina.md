@@ -1,8 +1,8 @@
-# Série Rodina (4/5) — Aká je tvoja rodina?
+# Série Rodina (4/5) — Aká je tvoja rodina? (Comment est ta famille ?)
 
-@ img/Eurasian_brown_bear_(Ursus_arctos_arctos)_mother_and_cub.jpg | Ours brun dans une forêt de montagne, vu de loin (photo : Charles J. Sharp, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Eurasian_brown_bear_(Ursus_arctos_arctos)_mother_and_cub.jpg | Une maman ourse et son ourson (photo : Charles J. Sharp, CC BY-SA 4.0, Wikimedia Commons)
 
-{{fr:Comment sont les gens de ta famille ? Gentils, joyeux, forts, petits… Aujourd'hui, tu apprends à les décrire.}}
+{{fr:Comment sont les gens de ta famille ? Gentils, joyeux, grands, petits… Aujourd'hui, tu apprends à les décrire.}}
 
 ---
 
@@ -10,43 +10,30 @@
 
 | Slovenčina | Français |
 |------------|----------|
-| milý | gentil |
-| milá | gentille |
-| veselý | joyeux |
-| veselá | joyeuse |
-| silný | fort |
-| silná | forte |
-| malý | petit |
-| malá | petite |
-| veľký | grand |
-| veľká | grande |
+| milý / milá | gentil / gentille |
+| veselý / veselá | joyeux / joyeuse |
+| veľký / veľká | grand / grande |
+| malý / malá | petit / petite |
 | je | est |
-| aký / aká | comment, quel (pour décrire) |
+| aký / aká | comment (pour décrire) |
 | tvoj / tvoja | ton / ta |
 
 ---
 
 ## Aujourd'hui on apprend…
 
-### Le mot décrit, et il suit le genre
+### Le mot qui décrit suit le genre
 
-{{fr:Le petit mot « est » se dit}} {{je}}{{fr:. Et le mot qui décrit change de fin : une fin pour un garçon, une autre pour une fille ou un mot féminin. Regarde le tableau !}}
+{{fr:Le petit mot « est » se dit}} {{je}}{{fr:. Et le mot qui décrit change de fin : une fin pour un garçon, une autre pour une fille ou un mot féminin. Comme pour « mon » et « ma » !}}
 
 | Slovenčina | Français |
 |------------|----------|
 | môj brat je veselý | mon frère est joyeux |
 | môj tato je milý | mon papa est gentil |
-| moja sestra je silná | ma sœur est forte |
+| moja sestra je malá | ma sœur est petite |
 | moja mama je veľká | ma maman est grande |
 
-### Poser la question : aký ou aká ?
-
-{{fr:Pour demander « comment est… ? », le mot aussi change :}} {{aký}} {{fr:pour un mot masculin,}} {{aká}} {{fr:pour un mot féminin.}}
-
-| Slovenčina | Français |
-|------------|----------|
-| Aký je tvoj brat? | Comment est ton frère ? |
-| Aká je tvoja sestra? | Comment est ta sœur ? |
+{{fr:Pour poser la question, c'est pareil :}} {{Aký je tvoj brat?}} {{fr:mais}} {{Aká je tvoja sestra?}}
 
 ---
 
@@ -58,17 +45,23 @@
 > je = est
 > veselý = joyeux
 
-! Moja mama je silná.
-> Ma maman est forte.
+! Moja mama je milá.
+> Ma maman est gentille.
 > Moja mama = ma maman
 > je = est
-> silná = forte
+> milá = gentille
 
 ! Môj brat je malý.
 > Mon frère est petit.
 > Môj brat = mon frère
 > je = est
 > malý = petit
+
+! Moja sestra je veľká.
+> Ma sœur est grande.
+> Moja sestra = ma sœur
+> je = est
+> veľká = grande
 
 ! Môj tato je veselý a milý.
 > Mon papa est joyeux et gentil.
@@ -77,18 +70,6 @@
 > veselý = joyeux
 > a = et
 > milý = gentil
-
-! Moja sestra je veľká.
-> Ma sœur est grande.
-> Moja sestra = ma sœur
-> je = est
-> veľká = grande
-
-! Moja babka je silná.
-> Ma grand-mère est forte.
-> Moja babka = ma grand-mère
-> je = est
-> silná = forte
 
 ! Aká je tvoja babka?
 > Comment est ta grand-mère ?
@@ -111,6 +92,7 @@
 > Mám sestru = j'ai une sœur
 > Je = elle est
 > veselá = joyeuse
++ Pas besoin de {{ona}} : on sait déjà qu'on parle de la sœur.
 
 ! Ona má osem rokov. Je malá.
 > Elle a huit ans. Elle est petite.
@@ -137,13 +119,19 @@
 
 | Slovenčina | Français |
 |------------|----------|
+| silný / silná | fort / forte |
+| starý / stará | âgé / âgée |
 | veľmi | très |
-| starý / stará | vieux / vieille |
-| rýchly / rýchla | rapide |
 
 ---
 
 ## Encore quelques phrases
+
+! Moja babka je silná.
+> Ma grand-mère est forte.
+> Moja babka = ma grand-mère
+> je = est
+> silná = forte
 
 ! Môj dedko je starý. Moja babka je stará.
 > Mon grand-père est âgé. Ma grand-mère est âgée.
@@ -152,13 +140,6 @@
 > starý = âgé
 > Moja babka = ma grand-mère
 > stará = âgée
-
-! Moja kamarátka je veľmi rýchla.
-> Ma copine est très rapide.
-> Moja kamarátka = ma copine
-> je = est
-> veľmi = très
-> rýchla = rapide
 
 ! Môj tato je veľmi malý.
 > Mon papa est très petit.

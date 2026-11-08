@@ -136,14 +136,14 @@
       "l1": "j'ai peur",
       "l2": "bojím sa",
       "choices_l1": [
-        "j'avais peur (dit par une fille)",
         "je n'ai pas",
-        "qui"
+        "qui",
+        "combien"
       ],
       "choices_l2": [
-        "bála som sa",
         "nemám",
-        "kto"
+        "kto",
+        "koľko"
       ]
     },
     {
@@ -155,17 +155,6 @@
         "C'est mon oncle. Il est grand, mais très gentil.",
         "C'est mon voisin. Il est âgé, mais très gentil.",
         "C'est mon oncle. Il est âgé, mais très joyeux."
-      ]
-    },
-    {
-      "id": "listen-to-je-moja-teta-je-siln-a-r-chla",
-      "type": "listen",
-      "l1": "C'est ma tante. Elle est forte et rapide.",
-      "l2": "To je moja teta. Je silná a rýchla.",
-      "choices_l1": [
-        "C'est ma tante. Elle est forte et joyeuse.",
-        "C'est ma sœur. Elle est forte et rapide.",
-        "C'est ma tante. Elle est petite et rapide."
       ]
     },
     {
@@ -188,28 +177,6 @@
         "Il a huit ans. Il est grand et joyeux !",
         "Il a neuf ans. Il est petit et joyeux !",
         "Il a neuf ans. Il est grand et rapide !"
-      ]
-    },
-    {
-      "id": "listen-a-moja-susedka-je-siln-a-ve-mi-r-chla",
-      "type": "listen",
-      "l1": "Et ma voisine est forte et très rapide.",
-      "l2": "A moja susedka je silná a veľmi rýchla.",
-      "choices_l1": [
-        "Et mon voisin est fort et très rapide.",
-        "Et ma voisine est forte et très joyeuse.",
-        "Et ma copine est forte et très rapide."
-      ]
-    },
-    {
-      "id": "listen-bala-som-sa-ale-liska-je-velmi-mila",
-      "type": "listen",
-      "l1": "J'avais peur ! Mais le renard est très gentil.",
-      "l2": "Bála som sa! Ale líška je veľmi milá.",
-      "choices_l1": [
-        "J'ai peur ! Mais le renard est très gentil.",
-        "J'avais peur ! Mais la tante est très gentille.",
-        "J'avais peur ! Mais le renard est très petit."
       ]
     },
     {
@@ -241,27 +208,6 @@
         "malý",
         "starý",
         "silný"
-      ],
-      "show_translation": true
-    },
-    {
-      "id": "blank-a-moja-susedka-je-siln-a-ve-mi-r-chla",
-      "type": "fill-blank",
-      "l1": "Et ma voisine est forte et très rapide.",
-      "l2": "A moja susedka je silná a veľmi rýchla.",
-      "missing_l1": "voisine",
-      "missing_l2": "susedka",
-      "blank_index_l1": 2,
-      "blank_index_l2": 2,
-      "choices_l1": [
-        "sœur",
-        "tante",
-        "copine"
-      ],
-      "choices_l2": [
-        "sestra",
-        "teta",
-        "kamarátka"
       ],
       "show_translation": true
     },
@@ -328,26 +274,6 @@
       ]
     },
     {
-      "id": "order-a-moja-susedka-je-siln-a-ve-mi-r-chla",
-      "type": "order",
-      "l1": "Et ma voisine est forte et très rapide.",
-      "l2": "A moja susedka je silná a veľmi rýchla.",
-      "tokens_l1": [
-        "Et",
-        "ma voisine",
-        "est forte",
-        "et",
-        "très rapide."
-      ],
-      "tokens_l2": [
-        "A",
-        "moja susedka",
-        "je silná",
-        "a",
-        "veľmi rýchla."
-      ]
-    },
-    {
       "id": "order-mam-osem-rokov-babka",
       "type": "order",
       "l1": "J'ai huit ans, mamie !",
@@ -380,22 +306,6 @@
       ]
     },
     {
-      "id": "match-mily",
-      "type": "match",
-      "l1": [
-        "gentil / gentille",
-        "joyeux / joyeuse",
-        "âgé / âgée",
-        "rapide"
-      ],
-      "l2": [
-        "milý / milá",
-        "veselý / veselá",
-        "starý / stará",
-        "rýchly / rýchla"
-      ]
-    },
-    {
       "id": "match-mal-mal",
       "type": "match",
       "l1": [
@@ -409,6 +319,81 @@
         "veľký / veľká",
         "silný / silná",
         "veľmi"
+      ]
+    },
+    {
+      "id": "listen-to-je-moja-teta-je-mal-ale-siln",
+      "type": "listen",
+      "l1": "C'est ma tante. Elle est petite, mais forte.",
+      "l2": "To je moja teta. Je malá, ale silná.",
+      "choices_l1": [
+        "C'est ma tante. Elle est grande, mais forte.",
+        "C'est ma sœur. Elle est petite, mais forte.",
+        "C'est mon oncle. Il est petit, mais fort."
+      ]
+    },
+    {
+      "id": "listen-aj-m-j-brat-je-ve-k-a-siln",
+      "type": "listen",
+      "l1": "Mon frère aussi est grand et fort !",
+      "l2": "Aj môj brat je veľký a silný!",
+      "choices_l1": [
+        "Mon frère aussi est petit et fort !",
+        "Mon papa aussi est grand et fort !",
+        "Mon frère aussi est grand et joyeux !"
+      ]
+    },
+    {
+      "id": "fill-blank-a-moja-susedka-je-mal-ale-ve-mi-siln",
+      "type": "fill-blank",
+      "l1": "Et ma voisine est petite, mais très forte.",
+      "l2": "A moja susedka je malá, ale veľmi silná.",
+      "missing_l1": "voisine",
+      "missing_l2": "susedka",
+      "blank_index_l1": 2,
+      "blank_index_l2": 2,
+      "choices_l1": [
+        "tante",
+        "sœur",
+        "copine"
+      ],
+      "choices_l2": [
+        "teta",
+        "sestra",
+        "kamarátka"
+      ],
+      "show_translation": true
+    },
+    {
+      "id": "order-a-tvoja-sestra-ak-je",
+      "type": "order",
+      "l1": "Et ta sœur ? Comment est-elle ?",
+      "l2": "A tvoja sestra? Aká je?",
+      "tokens_l1": [
+        "Et ta sœur ?",
+        "Comment",
+        "est-elle ?"
+      ],
+      "tokens_l2": [
+        "A tvoja sestra?",
+        "Aká",
+        "je?"
+      ]
+    },
+    {
+      "id": "match-mil-mil",
+      "type": "match",
+      "l1": [
+        "gentil / gentille",
+        "joyeux / joyeuse",
+        "âgé / âgée",
+        "mais"
+      ],
+      "l2": [
+        "milý / milá",
+        "veselý / veselá",
+        "starý / stará",
+        "ale"
       ]
     }
   ]

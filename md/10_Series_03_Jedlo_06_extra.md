@@ -1,6 +1,6 @@
-# Jedlo (extra) — Všetko o jedle
+# Jedlo (extra) — Všetko o jedle (Tout sur les repas)
 
-@ img/Sery_góralskie.jpg | Grande table de repas à la chata (photo : Pawel Swiegoda (Paberu), CC BY-SA 2.5, Wikimedia Commons)
+@ img/Sery_góralskie.jpg | Des fromages fumés des montagnes, vendus au marché (photo : Pawel Swiegoda (Paberu), CC BY-SA 2.5, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Jedlo, et on mélange les mots dans de petites scènes !}}
 

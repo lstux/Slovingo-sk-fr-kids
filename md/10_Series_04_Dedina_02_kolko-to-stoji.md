@@ -1,6 +1,6 @@
-# Série Dedina (2/5) — Koľko to stojí?
+# Série Dedina (2/5) — Koľko to stojí? (Combien ça coûte ?)
 
-@ img/Slovak_euro_coins.jpg | Pièces d'euro sur un comptoir de petit magasin (photo : Wizzard, Public domain, Wikimedia Commons)
+@ img/Slovak_euro_coins.jpg | Un petit sachet de pièces d'euro slovaques (photo : Wizzard, Public domain, Wikimedia Commons)
 
 {{fr:Au magasin, il faut demander le prix et dire ce que tu veux. Aujourd'hui, tu apprends à faire tes courses.}}
 

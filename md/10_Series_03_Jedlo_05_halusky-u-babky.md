@@ -1,4 +1,4 @@
-# Série Jedlo (5/5) — Halušky u babky
+# Série Jedlo (5/5) — Halušky u babky (Des halušky chez mamie)
 
 @ img/illus_03_jedlo.jpg | À table chez Babka Zuzana : des halušky pour tout le monde, et des baies pour le renard
 

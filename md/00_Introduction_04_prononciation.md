@@ -2,7 +2,7 @@
 
 @ img/M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg | Une marmotte devant son terrier
 
-{{fr:Bonne nouvelle : en slovaque, on lit presque toujours comme c'est écrit, et il n'y a pas de lettres muettes ! Il suffit de retenir six astuces. Écoute bien, et répète à voix haute.}}
+{{fr:Bonne nouvelle : en slovaque, on lit presque toujours comme c'est écrit, et il n'y a pas de lettres muettes ! Il suffit de retenir six astuces. Écoute bien, et répète à voix haute. Pas besoin de tout retenir aujourd'hui : tu pourras revenir ici quand tu veux !}}
 
 ---
 
@@ -101,9 +101,9 @@
 
 ---
 
-{{fr:Ça peut paraître difficile, mais ne t'inquiètes pas! Un Slovaque qui lit du français a du mal lui aussi !}}
+{{fr:Ça peut paraître difficile, mais ne t'inquiète pas ! Un Slovaque qui lit du français a du mal, lui aussi. Écoute la voix slovaque essayer de parler français :}}
 
-{{Bonjour et bienvenue! Au début on a un accent bizarre, peu importe!}}
+{{Bonjour et bienvenue ! Au début, on a un accent bizarre, mais ce n'est pas grave !}} 😄
 
 ---
 

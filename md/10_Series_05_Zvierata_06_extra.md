@@ -1,6 +1,6 @@
-# Zvieratá (extra) — Všetko o zvieratách
+# Zvieratá (extra) — Všetko o zvieratách (Tout sur les animaux)
 
-@ img/Kościeliski_Potok_Dolina_Kościeliska_2023-08-22_03.jpg | Vallée des Tatras avec des animaux (photo : Agnieszka Kwiecień, Nova, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Kościeliski_Potok_Dolina_Kościeliska_2023-08-22_03.jpg | Une rivière de montagne dans une vallée des Tatras (photo : Agnieszka Kwiecień, Nova, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Zvieratá, et on mélange les mots dans de petites scènes !}}
 

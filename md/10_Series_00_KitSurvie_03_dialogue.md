@@ -1,4 +1,4 @@
-# Kit de Survie (3/3) — Prvé stretnutie
+# Kit de Survie (3/3) — Prvé stretnutie (La rencontre)
 
 @ img/illus_00_kit.jpg | Toi et Andrea, la hase, vous vous rencontrez sur un sentier des Tatras
 

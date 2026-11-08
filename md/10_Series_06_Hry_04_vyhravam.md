@@ -1,6 +1,6 @@
-# Série Hry (4/5) — Vyhrávam!
+# Série Hry (4/5) — Vyhrávam! (Je gagne !)
 
-@ img/Игры_черношапочных_сурков.jpg | Enfants qui rient pendant un jeu (photo : NadezhdaKhaustova, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Игры_черношапочных_сурков.jpg | Deux marmottes qui jouent à se chamailler (photo : NadezhdaKhaustova, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Gagner, perdre, rire, recommencer : aujourd'hui, tu apprends à réagir pendant le jeu, et à bien perdre aussi !}}
 

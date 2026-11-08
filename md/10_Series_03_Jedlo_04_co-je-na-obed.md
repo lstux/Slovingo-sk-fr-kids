@@ -1,4 +1,4 @@
-# Série Jedlo (4/5) — Čo je na obed?
+# Série Jedlo (4/5) — Čo je na obed? (Qu'y a-t-il pour le déjeuner ?)
 
 @ img/DFC_3982_A_steaming_bowl_of_homemade_vegetable_soup_garnished_with_chopped_parsley_served_with_a_slice_of_rustic_brown_bread.jpg | Bol de soupe fumante avec du pain (photo : PattayaPatrol, CC BY-SA 4.0, Wikimedia Commons)
 

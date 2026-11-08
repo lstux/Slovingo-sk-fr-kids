@@ -1,4 +1,4 @@
-# Série Hry (2/5) — Môžem sa hrať?
+# Série Hry (2/5) — Môžem sa hrať? (Je peux jouer ?)
 
 @ img/Slovak_hiking_signpost_-_intersection_just_above_Tery's_Hut_in_High_tatras.jpg | Panneau de sentier de montagne (photo : User: (WT-shared) Scharla at wts wikivoyage, Public domain, Wikimedia Commons)
 

@@ -1,4 +1,4 @@
-# Série Rodina (5/5) — U babky
+# Série Rodina (5/5) — U babky (Chez mamie)
 
 @ img/illus_01_rodina.jpg | Babka Zuzana accueille le renard devant sa cabane, avec Andrea, Katka et Maťo
 
@@ -46,13 +46,14 @@
 > Bojím sa = j'ai peur
 + Mot nouveau signalé : {{bojím sa}} = j'ai peur.
 
-! 🐰 Bála som sa! Ale líška je veľmi milá!
-> J'avais peur ! Mais le renard est très gentil !
-> Bála som sa = j'avais peur
+! 🐰 Aj ja som sa bála! Ale líška je veľmi milá!
+> Moi aussi, au début, j'avais peur ! Mais le renard est très gentil !
+> Aj ja = moi aussi
+> som sa bála = j'avais peur
 > Ale = mais
 > Líška = le renard
 > je veľmi milá = est très gentil
-+ À écouter : {{bála som sa}} = j'avais peur (c'est le passé, et Andrea est une fille, alors {{bála}}). Elle a eu un peu peur elle aussi, au début : les autres renards qu'elle avait croisés étaient beaucoup moins sympas. Normal, quand on est une hase… 😄
++ À écouter : {{som sa bála}} = j'avais peur (c'est le passé, et Andrea est une fille, alors {{bála}}). Elle a eu un peu peur elle aussi, au début : les autres renards qu'elle avait croisés étaient beaucoup moins sympas. Normal, quand on est une hase… 😄
 + On dit {{milá}} parce que {{líška}} est un mot féminin, comme {{mama}}. Ça ne dit pas si le renard est un garçon ou une fille !
 
 ! 🐹 Ahoj! Mám osem rokov.
@@ -78,12 +79,18 @@
 > to je = voici
 > moja babka = ma grand-mère
 
+! 🦊 Dobrý deň!
+> Bonjour !
+> Dobrý deň = bonjour
++ Babka Zuzana est une adulte : tu lui dis {{dobrý deň}}, c'est très poli.
+
 ! 🐑 Ahoj, deti! Ahoj, [USER_NAME]! Máš brata? Máš sestru?
 > Salut, les enfants ! Salut, [USER_NAME] ! Tu as un frère ? Tu as une sœur ?
 > deti = les enfants
 > Máš brata = tu as un frère
 > Máš sestru = tu as une sœur
 + Mot nouveau signalé : {{deti}} = les enfants.
++ Babka Zuzana te répond {{ahoj}} : avec elle, tout le monde se dit « tu », comme en famille !
 
 ! 🦊 Nemám brata, ale mám sestru.
 > Je n'ai pas de frère, mais j'ai une sœur.
@@ -127,7 +134,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-@ img/SZAŁASY_NA_POLANIE_PODKÓLNA_W_JURGOWIE,_fot._M._Klag_(MIK,_2001)_(3508450272).jpg | Pâturage de montagne avec des moutons, Tatras (photo : mik Krakow, CC BY-SA 2.0, Wikimedia Commons)
+@ img/SZAŁASY_NA_POLANIE_PODKÓLNA_W_JURGOWIE,_fot._M._Klag_(MIK,_2001)_(3508450272).jpg | Une bergerie de montagne en bois, au milieu d'un pâturage des Tatras (photo : mik Krakow, CC BY-SA 2.0, Wikimedia Commons)
 
 {{fr:Sur les hauts pâturages slovaques, il y a des bergeries de montagne : les}} {{salaše}}{{fr:. Les bergers y font du fromage de brebis !}} 🧀
 
@@ -150,8 +157,9 @@
 > ale = mais
 > má sestru = elle a une sœur
 
-! Bojím sa, ale líška je milá.
-> J'ai peur, mais le renard est gentil.
-> Bojím sa = j'ai peur
+! Moja babka je stará, ale veľmi silná.
+> Ma grand-mère est âgée, mais très forte.
+> Moja babka = ma grand-mère
+> je stará = est âgée
 > ale = mais
-> líška je milá = le renard est gentil
+> veľmi silná = très forte

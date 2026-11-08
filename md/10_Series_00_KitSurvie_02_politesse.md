@@ -1,6 +1,6 @@
-# Kit de Survie (2/3) — Prosím a prepáč
+# Kit de Survie (2/3) — Prosím a prepáč (S'il te plaît et pardon)
 
-@ img/Flowers_Štrbské_Pleso_25_Slovakia_4.jpg | Les prés fleuris près du Štrbské Pleso, là où Babka Zuzana aime brouter
+@ img/Flowers_Štrbské_Pleso_25_Slovakia_4.jpg | Une cabane en bois au bord d'un pré, près du Štrbské Pleso : Babka Zuzana n'habite pas loin !
 
 {{fr:Les mots qui ouvrent toutes les portes : s'il te plaît, pardon, oui, non !}}
 

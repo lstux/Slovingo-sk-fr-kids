@@ -1,6 +1,6 @@
-# Dedina (extra) — Všetko o dedine
+# Dedina (extra) — Všetko o dedine (Tout sur le village)
 
-@ img/Belianske_Tatry_oct_2022.jpg | Panorama d'un village au pied des Tatras (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Belianske_Tatry_oct_2022.jpg | Forêts et prairies au pied des Tatras, en automne (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Dedina, et on mélange les mots dans de petites scènes !}}
 

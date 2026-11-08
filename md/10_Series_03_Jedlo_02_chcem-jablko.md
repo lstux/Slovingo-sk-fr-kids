@@ -1,6 +1,6 @@
-# Série Jedlo (2/5) — Chcem jablko
+# Série Jedlo (2/5) — Chcem jablko (Je veux une pomme)
 
-@ img/DFC_2197_A_colorful_assortment_of_fresh_fruits_and_vegetables_-_apples_mango_dragon_fruit_kiwis_limes_bananas_and_more_-_arranged_on_a_wooden_crate.jpg | Pomme, poire, carotte, pot de miel, noix (photo : PattayaPatrol, CC BY-SA 4.0, Wikimedia Commons)
+@ img/DFC_2197_A_colorful_assortment_of_fresh_fruits_and_vegetables_-_apples_mango_dragon_fruit_kiwis_limes_bananas_and_more_-_arranged_on_a_wooden_crate.jpg | Des pommes, des carottes et plein d'autres fruits sur un étal (photo : PattayaPatrol, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Chacun a ses goûts : les lièvres aiment les carottes, les ours adorent le miel… Aujourd'hui, tu apprends à dire ce que tu veux.}}
 

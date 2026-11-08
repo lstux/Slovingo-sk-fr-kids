@@ -1,6 +1,6 @@
-# Série Dedina (3/5) — Poď sem!
+# Série Dedina (3/5) — Poď sem! (Viens ici !)
 
-@ img/01_005a_Ždiar,_Blockhaus.jpg | Ruelle de village de montagne avec des enfants qui courent (photo : Falk2, CC BY-SA 4.0, Wikimedia Commons)
+@ img/01_005a_Ždiar,_Blockhaus.jpg | Une rue de Ždiar, un village de montagne aux maisons en bois (photo : Falk2, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Dans le village, on se dit : « viens ! », « regarde ! », « attends ! ». Aujourd'hui, tu apprends à donner de petits ordres gentils à tes amis.}}
 

@@ -17,7 +17,7 @@ Une fois les images des fiches téléchargées dans `img/` (`src/fetch_images.py
 | Intro 04 · Prononciation (la marmotte) | [M. marmota latirostris in front of the burrow (Tatra).jpg](https://commons.wikimedia.org/wiki/File:M._marmota_latirostris_in_front_of_the_burrow_(Tatra).jpg) | Tomasz Zwijacz Kozica | CC BY-SA 3.0 |
 | Intro 05 · Comptage (les moutons) | [Amoo click.jpg](https://commons.wikimedia.org/wiki/File:Amoo_click.jpg) | Amoo khan | CC BY-SA 4.0 |
 | Kit 01 · Salutations (le sentier) | [Biele pleso, NPR Belianske Tatry 727.jpg](https://commons.wikimedia.org/wiki/File:Biele_pleso,_NPR_Belianske_Tatry_727.jpg) | Katarína Senajová | CC BY-SA 4.0 |
-| Kit 02 · Politesse (Babka Zuzana, les prés fleuris) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | Jozef Kotulič | CC BY-SA 4.0 |
+| Kit 02 · Politesse (la cabane près du Štrbské Pleso) | [Flowers Štrbské Pleso 25 Slovakia 4.jpg](https://commons.wikimedia.org/wiki/File:Flowers_%C5%A0trbsk%C3%A9_Pleso_25_Slovakia_4.jpg) | Jozef Kotulič | CC BY-SA 4.0 |
 | Kit 03 · Coin slovaque (le chamois) | [20170401 kozica Kończysty Wierch 5522.jpg](https://commons.wikimedia.org/wiki/File:20170401_kozica_Ko%C5%84czysty_Wierch_5522.jpg) | Jakub Hałun | CC BY-SA 4.0 |
 | Kit 03 · Dialogue (illustration IA) | `img/illus_00_kit.jpg` | Illustration générée avec Google Gemini le 1er novembre 2026, d'après la photo ci-dessus de Jakub Hałun (Wikimedia Commons) | CC BY-SA 4.0 (œuvre dérivée) |
 | Kit 04 · Extra (le lac) | [Nové Štrbské pleso 25 Slovakia 1.jpg](https://commons.wikimedia.org/wiki/File:Nov%C3%A9_%C5%A0trbsk%C3%A9_pleso_25_Slovakia_1.jpg) | Jozef Kotulič | CC BY-SA 4.0 |

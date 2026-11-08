@@ -1,6 +1,6 @@
-# Série Doma (3/5) — Čo je na stole?
+# Série Doma (3/5) — Čo je na stole? (Qu'y a-t-il sur la table ?)
 
-@ img/Lamp_at_Dubay_Creek,_Al_Seef.jpg | Table en bois avec un livre et une lampe (photo : KpokeJlJla, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Lamp_at_Dubay_Creek,_Al_Seef.jpg | Des lanternes rouges accrochées au mur (photo : KpokeJlJla, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Qu'est-ce qu'il y a sur la table ? Aujourd'hui, tu apprends à dire ce qui est où.}}
 

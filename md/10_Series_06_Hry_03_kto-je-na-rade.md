@@ -1,6 +1,6 @@
-# Série Hry (3/5) — Kto je na rade?
+# Série Hry (3/5) — Kto je na rade? (À qui le tour ?)
 
-@ img/Acacia_heterophylla_1.JPG | Enfant qui compte les yeux fermés contre un arbre (photo : B.navez, CC BY-SA 3.0, Wikimedia Commons)
+@ img/Acacia_heterophylla_1.JPG | Un grand arbre tout seul : parfait pour compter, les yeux fermés ! (photo : B.navez, CC BY-SA 3.0, Wikimedia Commons)
 
 {{fr:À qui le tour ? Qui compte ? Qui cherche ? Aujourd'hui, tu apprends tout pour bien jouer à cache-cache.}}
 

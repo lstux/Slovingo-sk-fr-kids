@@ -1,6 +1,6 @@
-# Doma (extra) — Všetko o domove
+# Doma (extra) — Všetko o domove (Tout sur la maison)
 
-@ img/Belianske_Tatry.jpg | Prairie de montagne avec plusieurs terriers (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
+@ img/Belianske_Tatry.jpg | Les Belianske Tatry, la partie est des Tatras (photo : Michalsmr, CC BY-SA 4.0, Wikimedia Commons)
 
 {{fr:Pas de mot nouveau ici. On réunit toute la série Doma, et on mélange les mots dans de petites scènes !}}
 
