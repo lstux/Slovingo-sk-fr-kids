@@ -78,6 +78,8 @@
   },
   "ui": {
     "read_story": "📖 Lire toute l'histoire",
+    "review_button": "🔁 Révision",
+    "reset_review_mistakes": "🧹 Oublier mes questions ratées ({m})",
     "home": "Carte",
     "exercises": "Exercices",
     "sheet": "Fiche",
