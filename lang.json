@@ -2,15 +2,42 @@
   "map": {
     "direction": "up",
     "positions": {
-      "intro": [65.3, 4.2],
-      "series-kitsurvie": [30.3, 14.8],
-      "series-rodina": [63.2, 23.3],
-      "series-doma": [20.9, 35.5],
-      "series-jedlo": [57.1, 42.2],
-      "series-dedina": [39.7, 49],
-      "series-zvierata": [17.9, 61.2],
-      "series-hry": [60.6, 65.3],
-      "final-exam": [54.7, 80.5]
+      "intro": [
+        65.3,
+        4.2
+      ],
+      "series-kitsurvie": [
+        30.3,
+        14.8
+      ],
+      "series-rodina": [
+        63.2,
+        23.3
+      ],
+      "series-doma": [
+        20.9,
+        35.5
+      ],
+      "series-jedlo": [
+        57.1,
+        42.2
+      ],
+      "series-dedina": [
+        39.7,
+        49
+      ],
+      "series-zvierata": [
+        17.9,
+        61.2
+      ],
+      "series-hry": [
+        60.6,
+        65.3
+      ],
+      "final-exam": [
+        54.7,
+        80.5
+      ]
     }
   },
   "target_lang": {
@@ -62,14 +89,32 @@
     "jedlo": "Jedlo",
     "dedina": "Dedina",
     "zvierata": "Zvieratá",
-    "hry": "Hry"
+    "hry": "Hry",
+    "pocasie": "Počasie",
+    "skola": "Škola",
+    "mesto": "Mesto",
+    "doprava": "Doprava",
+    "zvierata_svet": "Zvieratá – svet",
+    "ovocie_zelenina": "Ovocie a zelenina",
+    "oblecenie": "Oblečenie",
+    "telo": "Telo",
+    "pocity": "Pocity",
+    "priroda": "Príroda",
+    "sport": "Šport",
+    "volny_cas": "Voľný čas",
+    "farby_tvary": "Farby a tvary",
+    "cas_kalendar": "Čas a kalendár",
+    "cestovanie": "Cestovanie"
   },
   "story": {
     "title": "L'histoire en entier",
     "subtitle": "Celý príbeh",
     "intro": "Tous les dialogues du cours, les uns après les autres, avec leurs traductions. Touche une bulle pour écouter, et le bouton « Écouter » pour lire un chapitre en entier !",
     "user_name": "Gab",
-    "headings": ["Le dialogue", "Scène *"],
+    "headings": [
+      "Le dialogue",
+      "Scène *"
+    ],
     "chapter_label": "Kapitola",
     "show_translations": "Afficher les traductions",
     "hide_translations": "Masquer les traductions",
@@ -92,7 +137,7 @@
     "voice_other": "Autres voix",
     "change_course": "Changer de cours",
     "playback_speed": "Vitesse de lecture",
-    "playback_speed_native": "Vitesse de lecture",
+    "playback_speed_native": "Vitesse de lecture ({lang})",
     "slow_playback_speed": "Lecture lente",
     "of_normal_speed": "de la vitesse normale",
     "settings_audio": "Son",
@@ -188,7 +233,6 @@
     "exercise_field_distractors_l2": "Distracteurs ({target_lang_code})",
     "voice_native": "Voix ({lang})",
     "celebration_effects": "Effets de fête avec le score final (confettis, feux d'artifice)",
-    "playback_speed_native": "Vitesse de lecture ({lang})",
     "map_title": "Carte de l'aventure",
     "map_start": "Commencer",
     "map_continue": "Continuer",
@@ -211,34 +255,88 @@
     "backup_export": "📥 Exporter les réglages et la progression (JSON)",
     "backup_import": "📤 Importer une sauvegarde (JSON)"
   },
-  "greeting": {"t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !"},
+  "greeting": {
+    "t": "Ahoj, [USER_NAME]!",
+    "n": "Salut, [USER_NAME] !"
+  },
   "cheers": {
     "perfect": [
-      {"t": "Výborne!", "n": "Excellent !"},
-      {"t": "Úžasné!", "n": "Incroyable !"},
-      {"t": "Bomba!", "n": "Génial !"},
-      {"t": "Sto percent!", "n": "Cent pour cent !"},
-      {"t": "To je pre teba ľahké?!", "n": "C'est trop facile pour toi ?!"}
+      {
+        "t": "Výborne!",
+        "n": "Excellent !"
+      },
+      {
+        "t": "Úžasné!",
+        "n": "Incroyable !"
+      },
+      {
+        "t": "Bomba!",
+        "n": "Génial !"
+      },
+      {
+        "t": "Sto percent!",
+        "n": "Cent pour cent !"
+      },
+      {
+        "t": "To je pre teba ľahké?!",
+        "n": "C'est trop facile pour toi ?!"
+      }
     ],
     "great": [
-      {"t": "Skvelé!", "n": "Super !"},
-      {"t": "Takmer dokonalé!", "n": "Presque parfait !"},
-      {"t": "Veľmi dobre!", "n": "Très bien !"}
+      {
+        "t": "Skvelé!",
+        "n": "Super !"
+      },
+      {
+        "t": "Takmer dokonalé!",
+        "n": "Presque parfait !"
+      },
+      {
+        "t": "Veľmi dobre!",
+        "n": "Très bien !"
+      }
     ],
     "good": [
-      {"t": "Dobrá práca!", "n": "Beau travail !"},
-      {"t": "Pekne!", "n": "Joli !"},
-      {"t": "Ide ti to!", "n": "Ça marche bien pour toi !"}
+      {
+        "t": "Dobrá práca!",
+        "n": "Beau travail !"
+      },
+      {
+        "t": "Pekne!",
+        "n": "Joli !"
+      },
+      {
+        "t": "Ide ti to!",
+        "n": "Ça marche bien pour toi !"
+      }
     ],
     "ok": [
-      {"t": "Nie je to zlé!", "n": "Pas mal !"},
-      {"t": "Pokračuj!", "n": "Continue !"},
-      {"t": "Zlepšuješ sa!", "n": "Tu progresses !"}
+      {
+        "t": "Nie je to zlé!",
+        "n": "Pas mal !"
+      },
+      {
+        "t": "Pokračuj!",
+        "n": "Continue !"
+      },
+      {
+        "t": "Zlepšuješ sa!",
+        "n": "Tu progresses !"
+      }
     ],
     "retry": [
-      {"t": "Skús znova!", "n": "Essaie encore !"},
-      {"t": "Nevzdávaj sa!", "n": "Ne lâche pas !"},
-      {"t": "Cvičenie robí majstra!", "n": "C'est en s'entraînant qu'on progresse !"}
+      {
+        "t": "Skús znova!",
+        "n": "Essaie encore !"
+      },
+      {
+        "t": "Nevzdávaj sa!",
+        "n": "Ne lâche pas !"
+      },
+      {
+        "t": "Cvičenie robí majstra!",
+        "n": "C'est en s'entraînant qu'on progresse !"
+      }
     ]
   },
   "generator": {
@@ -282,6 +380,21 @@
     "jedlo": "food",
     "dedina": "city",
     "zvierata": "animals",
-    "hry": "games"
+    "hry": "games",
+    "pocasie": "weather",
+    "skola": "school",
+    "mesto": "city",
+    "doprava": "transport",
+    "zvierata_svet": "animals",
+    "ovocie_zelenina": "food",
+    "oblecenie": "clothes",
+    "telo": "body",
+    "pocity": "emotions",
+    "priroda": "nature",
+    "sport": "sport",
+    "volny_cas": "leisure",
+    "farby_tvary": "colors",
+    "cas_kalendar": "time",
+    "cestovanie": "travel"
   }
 }
