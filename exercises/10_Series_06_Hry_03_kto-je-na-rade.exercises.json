@@ -190,12 +190,12 @@
     {
       "id": "listen-u-idem-h-ada",
       "type": "listen",
-      "l1": "Ça y est, je viens chercher !",
+      "l1": "Ça y est, je vais chercher !",
       "l2": "Už idem hľadať!",
       "choices_l1": [
-        "Je vais chercher.",
-        "Ça y est, je viens compter !",
-        "Ça y est, tu viens chercher !"
+        "Ça y est, je vais compter !",
+        "Ça y est, tu vas chercher !",
+        "Ça y est, je ne vais pas chercher !"
       ]
     },
     {

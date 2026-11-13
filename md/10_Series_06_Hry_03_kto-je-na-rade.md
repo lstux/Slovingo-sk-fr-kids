@@ -121,7 +121,7 @@
 ## Encore quelques phrases
 
 ! Už idem hľadať!
-> Ça y est, je viens chercher !
+> Ça y est, je vais chercher !
 > Už = ça y est
 > idem = je vais
 > hľadať = chercher

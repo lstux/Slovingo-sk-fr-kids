@@ -51,14 +51,12 @@ Pas de mot nouveau : tout ce qu'il te faut, tu l'as déjà vu dans la série !
 > Prosím si = je voudrais
 > chlieb = du pain
 
-! 🦔 Ach! Líška! Chlieb ? A chceš bobule?
+! 🦔 Ach! Líška! Chlieb? A chceš bobule?
 > Oh ! Un renard ! Du pain ? Et tu veux des baies ?
 > Líška = un renard
 > Chceš = tu veux
 > bobule = des baies
 > Chlieb = pain
-> stojí = coûte
-> dve eurá = deux euros
 + Pani Ježková est une adulte : elle peut te tutoyer. Toi, tu la vouvoies !
 
 ! 🦊 Áno, prosím! Koľko to stojí?

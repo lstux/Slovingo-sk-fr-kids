@@ -82,7 +82,7 @@
 ! 🦊 Dobrý deň!
 > Bonjour !
 > Dobrý deň = bonjour
-+ Babka Zuzana est une adulte : tu lui dis {{dobrý deň}}, c'est très poli.
++ Babka Zuzana est une adulte que tu rencontres pour la première fois : tu la salues avec {{dobrý deň}}, c'est très poli.
 
 ! 🐑 Ahoj, deti! Ahoj, [USER_NAME]! Máš brata? Máš sestru?
 > Salut, les enfants ! Salut, [USER_NAME] ! Tu as un frère ? Tu as une sœur ?
@@ -90,7 +90,7 @@
 > Máš brata = tu as un frère
 > Máš sestru = tu as une sœur
 + Mot nouveau signalé : {{deti}} = les enfants.
-+ Babka Zuzana te répond {{ahoj}} : avec elle, tout le monde se dit « tu », comme en famille !
++ Babka Zuzana te répond {{ahoj}} : elle te tutoie, comme les grands-mères tutoient les enfants. Tu peux aussi la tutoyer dès que vous vous connaissez !
 
 ! 🦊 Nemám brata, ale mám sestru.
 > Je n'ai pas de frère, mais j'ai une sœur.

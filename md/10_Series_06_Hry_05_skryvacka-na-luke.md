@@ -94,7 +94,7 @@ Les personnages :
 > Si veľký = tu es grand
 > a = et
 > strom je malý = l'arbre est petit
-+ Mot nouveau signalé : {{strom}} = l'arbre.
++ Mot nouveau signalé : {{strom}} = l'arbre. Pour dire « dans l'arbre », on dit {{na strome}}, comme {{na stole}} (sur la table) : le mot change un peu après {{na}}.
 
 ! 🐻 Ha, ha! Ešte raz!
 > Ha, ha ! Encore une fois !

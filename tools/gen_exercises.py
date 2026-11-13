@@ -19,6 +19,7 @@ FROZEN = {
     "10_Series_01_Rodina_06_extra",
     "10_Series_02_Doma_06_extra",
     "10_Series_03_Jedlo_06_extra",
+    "10_Series_04_Dedina_05_v-obchode",
     "10_Series_04_Dedina_06_extra",
     "10_Series_05_Zvierata_05_strazca-parku",
     "10_Series_05_Zvierata_06_extra",
@@ -139,20 +140,20 @@ s = Sheet("10_Series_00_KitSurvie_01_salutations")
 s.qcm("salut (bonjour ou au revoir)", "ahoj", ["merci", "bien", "pain"], ["ďakujem", "dobre", "chlieb"])
 s.qcm("bonjour", "dobrý deň", ["merci", "bien", "ça va ?"], ["ďakujem", "dobre", "ako sa máš"])
 s.qcm("au revoir", "dovidenia", ["merci", "bien", "thé"], ["ďakujem", "dobre", "čaj"])
-s.qcm("ça va ?", "ako sa máš", ["merci", "bien", "pain"], ["ďakujem", "dobre", "chlieb"])
+s.qcm("comment ça va ?", "ako sa máš", ["merci", "bien", "pain"], ["ďakujem", "dobre", "chlieb"])
 s.qcm("bien", "dobre", ["merci", "ça va ?", "thé"], ["ďakujem", "ako sa máš", "čaj"])
 s.qcm("merci", "ďakujem", ["bien", "ça va ?", "oui"], ["dobre", "ako sa máš", "áno"])
 s.listen("Salut !", "Ahoj!", ["Merci !", "Bien !", "Ça va ?"])
 s.listen("Bonjour !", "Dobrý deň!", ["Merci !", "Bien !", "Ça va ?"])
 s.listen("Au revoir !", "Dovidenia!", ["Merci !", "Ça va ?", "Oui !"])
-s.listen("Ça va ?", "Ako sa máš?", ["Merci !", "Bien !", "Bonjour !"])
+s.listen("Comment ça va ?", "Ako sa máš?", ["Merci !", "Bien !", "Bonjour !"])
 s.listen("Bien, merci !", "Dobre, ďakujem!", ["Oui, merci !", "Bien, pardon !", "Non, merci !"])
-s.listen("Salut ! Ça va ?", "Ahoj! Ako sa máš?", ["Salut ! Merci !", "Bonjour ! Bien !", "Au revoir ! Ça va ?"])
+s.listen("Salut ! Comment ça va ?", "Ahoj! Ako sa máš?", ["Salut ! Merci !", "Bonjour ! Bien !", "Au revoir ! Ça va ?"])
 s.blank("Bien, merci !", "Dobre, ďakujem!", "merci", 1, "ďakujem", 1, ["bonjour", "salut", "oui"], ["dobrý", "ahoj", "áno"])
-s.blank("Salut ! Ça va ?", "Ahoj! Ako sa máš?", "Salut", 0, "Ahoj", 0, ["Bien", "Merci", "Oui"], ["Dobre", "Ďakujem", "Áno"])
-s.order("Salut ! Ça va ?", "Ahoj! Ako sa máš?", ["Salut !", "Ça", "va ?"], ["Ahoj!", "Ako sa", "máš?"])
+s.blank("Salut ! Comment ça va ?", "Ahoj! Ako sa máš?", "Salut", 0, "Ahoj", 0, ["Bien", "Merci", "Oui"], ["Dobre", "Ďakujem", "Áno"])
+s.order("Salut ! Comment ça va ?", "Ahoj! Ako sa máš?", ["Salut !", "Comment", "ça va ?"], ["Ahoj!", "Ako sa", "máš?"])
 s.match(["salut (bonjour ou au revoir)", "bonjour", "au revoir", "merci"], ["ahoj", "dobrý deň", "dovidenia", "ďakujem"])
-s.match(["Ça va ?", "Bien, merci !", "Au revoir !", "Bonjour !"], ["Ako sa máš?", "Dobre, ďakujem!", "Dovidenia!", "Dobrý deň!"])
+s.match(["Comment ça va ?", "Bien, merci !", "Au revoir !", "Bonjour !"], ["Ako sa máš?", "Dobre, ďakujem!", "Dovidenia!", "Dobrý deň!"])
 s.write()
 
 # ---------------------------------------------------------------- Kit 2
@@ -1091,7 +1092,7 @@ s.listen("Me voici !", "Tu som!", ["Où es-tu ?", "Je vais chercher !", "Encore 
 s.listen("Je t'ai trouvé(e) !", "Mám ťa!", ["Je ne te vois pas !", "Me voici !", "Tu me cherches !"])
 s.listen("On joue à cache-cache. C'est à qui ?", "Hráme sa na skrývačku. Kto je na rade?", ["On joue au chat. C'est à qui ?", "On joue à cache-cache. C'est mon tour.", "Je joue à cache-cache. C'est à qui ?"])
 s.listen("Où es-tu, Maťo ? Je t'ai trouvé !", "Kde si, Maťo? Mám ťa!", ["Où es-tu, Katka ? Je t'ai trouvée !", "Où es-tu, Maťo ? Me voici !", "Où vas-tu, Maťo ? Je t'ai trouvé !"])
-s.listen("Ça y est, je viens chercher !", "Už idem hľadať!", ["Je vais chercher.", "Ça y est, je viens compter !", "Ça y est, tu viens chercher !"])
+s.listen("Ça y est, je vais chercher !", "Už idem hľadať!", ["Ça y est, je vais compter !", "Ça y est, tu vas chercher !", "Ça y est, je ne vais pas chercher !"])
 s.ab("Je compte : un, deux, trois !", "Počítam: jeden, dva, tri!", "trois", "tri", ["deux", "quatre", "huit"], ["dva", "štyri", "osem"])
 s.order("Maintenant, c'est le tour de Katka.", "Teraz je na rade Katka.", ["Maintenant,", "c'est le tour", "de Katka."], ["Teraz", "je na rade", "Katka."])
 s.order("Je compte : un, deux, trois !", "Počítam: jeden, dva, tri!", ["Je compte :", "un, deux,", "trois !"], ["Počítam:", "jeden, dva,", "tri!"])

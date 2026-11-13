@@ -20,7 +20,7 @@ L'app s'appelle **Zajko**, « petit lapin » en slovaque : c'est le surnom d'And
 
 ## Le monde
 
-Tout le cours se passe dans les **Tatras**, les hautes montagnes de Slovaquie. Les personnages sont des animaux qui parlent et vivent dans des terriers, des tanières et des nids. Toi, tu viens d'arriver dans la montagne et tu apprends le slovaque avec tes nouveaux voisins. Au fil des fiches, un petit message revient : **protéger la nature** (rester sur le sentier, ne pas nourrir les animaux, remporter ses déchets).
+Tout le cours se passe dans les **Tatras**, les hautes montagnes de Slovaquie. Les personnages sont des animaux qui parlent et vivent dans des terriers, des tanières et des nids. Toi, tu viens d'arriver dans la montagne et tu apprends le slovaque avec tes nouveaux voisins. Au fil des fiches, un petit message revient : **protéger la nature** (rester sur le sentier, ne pas nourrir les animaux, emporter ses déchets).
 
 ## Les personnages
 

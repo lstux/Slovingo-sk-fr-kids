@@ -1,6 +1,6 @@
 # Crédits des images
 
-Toutes les images viennent de [Wikimedia Commons](https://commons.wikimedia.org/).
+Les photographies viennent de [Wikimedia Commons](https://commons.wikimedia.org/). Certaines illustrations ont été générées d'après des photos Commons : elles sont repérées « illustration IA » dans le tableau, avec la photo de référence.
 Pour l'instant, les fiches pointent vers les fichiers Commons (adresses `Special:FilePath`).
 Une fois les images des fiches téléchargées dans `img/` (`src/fetch_images.py` du moteur), les références deviennent locales : ce fichier reste la source des crédits. Les images de style se téléchargent avec `tools/fetch_style_images.sh`.
 

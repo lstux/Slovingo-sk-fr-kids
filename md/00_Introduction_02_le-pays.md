@@ -18,7 +18,7 @@
 
 ## 🇸🇰 Coin slovaque
 
-{{fr:En Slovaquie, il y a de hautes montagnes qui s'appellent les Tatras. En slovaque, on dit}} {{Tatry}}{{fr:. On y trouve des sentiers, des lacs et, tout en haut, des marmottes ! C'est là que se passe ton aventure. Les Tatras slovaques forment un parc national : on y protège les animaux et les plantes.}} En slovaque, une marmotte : un {{svišť}}.
+{{fr:En Slovaquie, il y a de hautes montagnes qui s'appellent les Tatras. En slovaque, on dit}} {{Tatry}}{{fr:. On y trouve des sentiers, des lacs et, tout en haut, des marmottes ! C'est là que se passe ton aventure. Dans les Tatras slovaques, il y a un grand parc national : le TANAP. On y protège les animaux et les plantes.}} En slovaque, une marmotte : un {{svišť}}.
 
 **Le sais-tu ?** {{fr:Quand on entre chez quelqu'un en Slovaquie, on enlève ses chaussures et on met des chaussons.}} Les chaussons : les {{papuče}}. 🥿
 
