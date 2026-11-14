@@ -122,6 +122,7 @@
     "back": "Retour au cours"
   },
   "ui": {
+    "tts_error": "La voix n'a pas pu être lue ({error}).",
     "sheet_not_found": "Fiche introuvable : {id}",
     "read_story": "📖 Lire toute l'histoire",
     "review_button": "🔁 Révision",
