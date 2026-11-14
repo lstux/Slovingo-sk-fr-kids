@@ -257,6 +257,35 @@
     "backup_export": "📥 Exporter les réglages et la progression (JSON)",
     "backup_import": "📤 Importer une sauvegarde (JSON)"
   },
+  "mascots": {
+    "map": "duo",
+    "greetings": {
+      "morning": [
+        { "t": "Dobré ráno, [USER_NAME]!", "n": "Bonjour, [USER_NAME] !" },
+        { "t": "Dobré ráno! Poďme sa učiť!", "n": "Bonjour ! Allons apprendre !" },
+        { "t": "Slniečko už svieti!", "n": "Le petit soleil brille déjà !" }
+      ],
+      "day": [
+        { "t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !" },
+        { "t": "Poď, ideme na výlet!", "n": "Viens, on part en balade !" },
+        { "t": "Čo dnes objavíme?", "n": "Qu'est-ce qu'on va découvrir aujourd'hui ?" }
+      ],
+      "evening": [
+        { "t": "Dobrý večer, [USER_NAME]!", "n": "Bonsoir, [USER_NAME] !" },
+        { "t": "Ešte jedno cvičenie pred spaním?", "n": "Encore un exercice avant de dormir ?" }
+      ],
+      "night": [
+        { "t": "Ešte nespíš?", "n": "Tu ne dors pas encore ?" },
+        { "t": "Dobrú noc… ale najprv jedno cvičenie!", "n": "Bonne nuit… mais d'abord un exercice !" }
+      ],
+      "any": [
+        { "t": "Ahoj, [USER_NAME]!", "n": "Salut, [USER_NAME] !" },
+        { "t": "Vitaj späť!", "n": "Bon retour !" },
+        { "t": "Rada ťa vidím!", "n": "Contente de te voir !", "who": "hare" },
+        { "t": "Hej! Kam dnes ideme?", "n": "Hé ! On va où aujourd'hui ?", "who": "fox" }
+      ]
+    }
+  },
   "greeting": {
     "t": "Ahoj, [USER_NAME]!",
     "n": "Salut, [USER_NAME] !"
