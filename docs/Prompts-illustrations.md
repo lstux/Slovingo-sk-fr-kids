@@ -6,7 +6,7 @@ Une illustration par série, pour la **fiche 05** (le dialogue, le moment fort),
 
 ## Méthode
 
-1. **Planche des héros** : dans Gemini, joindre `esp32/zajko-quest/art/characters/fox-reference.png`, puis `andrea-reference.png`, puis `docs/illustrations/planche-heros.jpg` (tous trois dans le repo friends), et coller le prompt « Planche des héros ». Garder la meilleure : `docs/illustrations/planche-heros.jpg` (dans ce repo, ✅ faite le 1er novembre). Même chose pour « Planche des seconds rôles » (✅ faite le 1er novembre : `docs/illustrations/planche-seconds-roles.jpg`, refaite à partir de celle de friends, dans le style des héros kids).
+1. **Planche des héros** : ✅ **refaite le 14 novembre avec ChatGPT**, en « rajeunissant » la planche des héros de friends (joindre `docs/illustrations/planche-heros.jpg` du repo friends et coller le prompt « Planche des héros »). Elle remplace celle faite avec Gemini, dont le style ne collait plus à friends : `docs/illustrations/planche-heros.jpg` (dans ce repo). **Elle sert de référence pour tout ce qui suit** (portraits des mascottes, scènes). Même chose pour « Planche des seconds rôles » (✅ faite le 1er novembre : `docs/illustrations/planche-seconds-roles.jpg`, refaite à partir de celle de friends, dans le style des héros kids).
 2. **Chaque scène** : nouvelle conversation, joindre **la planche des héros** (et celle des seconds rôles si la scène en contient un) + **la photo de référence** du lieu (lien Commons donné : télécharger l'image depuis la page), coller le prompt de la scène. Chaque prompt est complet : rien d'autre à ajouter.
 3. Si un personnage dérive (couleurs, vêtements, taille), le redemander dans la même conversation : « Keep the characters exactly as in the attached model sheet. »
 4. **Format** : paysage 16/9. Déposer l'image dans `img/illus_<NN>_<lieu>.jpg` (le nom est donné pour chaque scène). Je la réduis à 1280 px de large et l'intègre.
@@ -26,7 +26,7 @@ Une illustration par série, pour la **fiche 05** (le dialogue, le moment fort),
 | | Personnage | Description à garder |
 |---|---|---|
 | 🦊 | Le renard (toi) | renardeau roux, 10 ans, garçon ; sweat à capuche bleu roi, sac à dos aux bretelles jaunes, jean bleu marine, baskets blanches |
-| 🐰 | Andrea | **hase** (un vrai lièvre, pas une lapine), 10 ans ; pelage brun-gris moucheté, bande blanche visible du front au museau, très longues oreilles à pointe noire à l'intérieur rose, **oreille gauche pliée vers le bas**, pas de cils, longues pattes arrière fines ; T-shirt vert menthe, sacoche jaune en bandoulière, short en jean, baskets rouges |
+| 🐰 | Andrea | **hase** (un vrai lièvre, pas une lapine), 10 ans ; pelage brun-gris moucheté, bande blanche visible du front au museau, très longues oreilles dressées à pointe noire à l'intérieur rose (**les deux oreilles complètes** ; l'oreille gauche pliée de l'ancienne version est abandonnée, pour rester cohérente avec friends), pas de cils, longues pattes arrière fines ; T-shirt vert menthe, sacoche jaune en bandoulière, short en jean, baskets rouges |
 | 🐻 | Maťo | ourson brun, 9 ans, grand pour son âge, doux ; chemise à carreaux vert et brun ouverte sur un T-shirt gris, short cargo |
 | 🐹 | Katka | marmotte des Alpes, 8 ans, petite (à l'épaule du renard) ; pelage gris-brun, petites oreilles rondes, face large et plate, incisives visibles, queue courte et touffue **unie** (sans bandes) ; sweat violet, écouteurs autour du cou |
 | 🐑 | Babka Zuzana | brebis âgée, laine blanche, petites lunettes rondes ; costume traditionnel : foulard rouge à fleurs, gilet noir brodé, chemise blanche brodée, tablier blanc, jupe rouge |
@@ -35,21 +35,21 @@ Une illustration par série, pour la **fiche 05** (le dialogue, le moment fort),
 
 Le renard n'a pas de prénom écrit dans les prompts : dans le cours, c'est « toi ».
 
-**Andrea, hase et pas lapine** : c'est la correction qu'il a fallu faire sur ChatGPT (première version trop proche d'un lapin de dessin animé). Les prompts la décrivent donc dès le départ avec les oreilles longues à pointe noire (la gauche pliée), les pattes arrière longues, le pelage moucheté, la bande blanche et le visage un peu anguleux. Elle a aussi été éloignée d'une lapine de dessin animé très connue : pas de cils, yeux ronds noisette, oreille pliée.
+**Andrea, hase et pas lapine** : c'est la correction qu'il a fallu faire sur ChatGPT (première version trop proche d'un lapin de dessin animé). Les prompts la décrivent donc dès le départ avec les oreilles longues à pointe noire (les deux dressées), les pattes arrière longues, le pelage moucheté, la bande blanche et le visage un peu anguleux. Elle a aussi été éloignée d'une lapine de dessin animé très connue : pas de cils, yeux ronds noisette, bande blanche, pelage moucheté.
 
 ---
 
 ## Planche des héros
 
-**À joindre** : `fox-reference.png`, `andrea-reference.png`, puis `planche-heros.jpg` (celle de friends).
+**À joindre** : `planche-heros.jpg` **du repo friends** (les héros ados à rajeunir).
 
 ```
 Character model sheet for a friendly animated film for children, on a plain light background. Four young animal characters standing side by side at the same scale, each shown front view and three-quarter view, full body, with a few facial expressions (smiling, surprised, shy). They are friends living in the Tatra mountains of Slovakia.
 
-The attached images show these same characters as older teenagers. Keep the same species, colours, clothes and recognisable look, but redraw them as clearly YOUNGER children (8 to 10 years old): rounder heads, bigger eyes, shorter limbs, softer shapes, gentle friendly expressions.
+The attached image shows the two main characters, the fox and Andrea, as older teenagers. Keep the same species, colours, clothes and recognisable look, but redraw them as clearly YOUNGER children (8 to 10 years old): rounder heads, bigger eyes, shorter limbs, softer shapes, gentle friendly expressions.
 
-1. A 10-year-old red fox boy (bright orange fur, black ear tips, white muzzle and chest, white tail tip, curious lively eyes), wearing a royal-blue hoodie, a backpack with yellow straps, navy jeans and white sneakers. Use the first attached image as the design reference.
-2. Andrea, a 10-year-old hare girl — a real hare, not a rabbit and not like any existing cartoon bunny: warm brown-grey speckled fur (more brown than grey), a clearly visible white blaze from forehead to muzzle, small round hazel eyes with NO eyelashes, a slightly longer narrower muzzle, very long ears with black tips and pink insides where her LEFT ear is folded down at the middle (the right ear stands upright), long slender hind legs, a warm, friendly and a bit playful look, wearing a mint-green T-shirt, a yellow cross-body bag, denim shorts and red sneakers. Use the second attached image as the design reference.
+1. A 10-year-old red fox boy (bright orange fur, black ear tips, white muzzle and chest, white tail tip, curious lively eyes), wearing a royal-blue hoodie, a backpack with yellow straps, navy jeans and white sneakers. Use the fox on the attached sheet as the design reference.
+2. Andrea, a 10-year-old hare girl — a real hare, not a rabbit and not like any existing cartoon bunny: warm brown-grey speckled fur (more brown than grey), a clearly visible white blaze from forehead to muzzle, small round hazel eyes with NO eyelashes, a slightly longer narrower muzzle, very long upright ears with black tips and pink insides (BOTH ears always complete and fully visible, also on the head close-ups), long slender hind legs, a warm, friendly and a bit playful look, wearing a mint-green T-shirt, a yellow cross-body bag, denim shorts and red sneakers. Use Andrea on the attached sheet as the design reference.
 3. Maťo, a 9-year-old brown bear cub, taller and broader than the others, gentle and calm, wearing an open green-and-brown checked shirt over a grey T-shirt and cargo shorts.
 4. Katka, an 8-year-old alpine marmot girl, small and quick (small round ears close to the head, grey-brown fur, a broad flat face, visible front teeth, a SHORT BUSHY tail in the same plain grey-brown colour, with no stripes), cheerful and direct, wearing a purple hoodie with earbuds around her neck.
 
@@ -61,7 +61,7 @@ Style: Classic 2D hand-drawn animated-film style (not 3D, not pixel art): clean 
 Si Andrea sort en lapine, dans la même conversation :
 
 ```
-Great, keep everything but make this change: Andrea is a hare, not a rabbit — longer ears with black tips, her left ear folded down, longer hind legs, speckled grey-brown fur, a visible white blaze, no eyelashes, so she looks less like a cartoon bunny. And Katka's tail is plain grey-brown, short and bushy, with no stripes.
+Great, keep everything but make this change: Andrea is a hare, not a rabbit — longer upright ears with black tips (both ears always fully visible, also on the close-ups), longer hind legs, speckled grey-brown fur, a visible white blaze, no eyelashes, so she looks less like a cartoon bunny. And Katka's tail is plain grey-brown, short and bushy, with no stripes.
 ```
 
 ## Planche des seconds rôles
