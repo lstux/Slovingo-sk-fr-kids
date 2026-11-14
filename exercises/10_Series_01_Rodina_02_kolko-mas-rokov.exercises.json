@@ -230,12 +230,15 @@
       "tokens_l1": [
         "Quel",
         "âge",
-        "as-tu ?"
+        "as-tu",
+        "?",
+        "neuf"
       ],
       "tokens_l2": [
         "Koľko",
         "máš",
-        "rokov?"
+        "rokov?",
+        "deväť"
       ]
     },
     {

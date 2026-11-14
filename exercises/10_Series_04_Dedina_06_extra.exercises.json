@@ -150,12 +150,16 @@
       "tokens_l1": [
         "Le pain",
         "coûte",
-        "deux euros."
+        "deux",
+        "euros.",
+        "la"
       ],
       "tokens_l2": [
         "Chlieb",
         "stojí",
-        "dve eurá."
+        "dve",
+        "eurá.",
+        "hlad"
       ]
     },
     {
@@ -165,13 +169,18 @@
       "l2": "Mlieko je lacné. Jedno euro.",
       "tokens_l1": [
         "Le lait",
-        "n'est pas cher.",
-        "Un euro."
+        "n'est",
+        "pas",
+        "cher.",
+        "Un euro.",
+        "pain"
       ],
       "tokens_l2": [
         "Mlieko",
         "je lacné.",
-        "Jedno euro."
+        "Jedno",
+        "euro.",
+        "dve"
       ]
     },
     {

@@ -243,14 +243,18 @@
       "l1": "Mon frère est joyeux.",
       "l2": "Môj brat je veselý.",
       "tokens_l1": [
-        "Mon frère",
+        "Mon",
+        "frère",
         "est",
-        "joyeux."
+        "joyeux.",
+        "petite"
       ],
       "tokens_l2": [
-        "Môj brat",
+        "Môj",
+        "brat",
         "je",
-        "veselý."
+        "veselý.",
+        "malá"
       ]
     },
     {
@@ -261,12 +265,17 @@
       "tokens_l1": [
         "Comment",
         "est",
-        "ta grand-mère ?"
+        "ta",
+        "grand-mère",
+        "?",
+        "petite"
       ],
       "tokens_l2": [
         "Aká",
         "je",
-        "tvoja babka?"
+        "tvoja",
+        "babka?",
+        "malá"
       ]
     },
     {
@@ -275,14 +284,22 @@
       "l1": "Tu as un frère ? Comment est-il ?",
       "l2": "Máš brata? Aký je?",
       "tokens_l1": [
-        "Tu as un frère ?",
+        "Tu",
+        "as",
+        "un",
+        "frère",
+        "?",
         "Comment",
-        "est-il ?"
+        "est-il",
+        "?",
+        "petite"
       ],
       "tokens_l2": [
-        "Máš brata?",
+        "Máš",
+        "brata?",
         "Aký",
-        "je?"
+        "je?",
+        "malá"
       ]
     },
     {

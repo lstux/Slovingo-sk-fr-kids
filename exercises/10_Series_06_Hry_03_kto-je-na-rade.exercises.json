@@ -226,13 +226,19 @@
       "l2": "Teraz je na rade Katka.",
       "tokens_l1": [
         "Maintenant,",
-        "c'est le tour",
-        "de Katka."
+        "c'est",
+        "le",
+        "tour",
+        "de Katka.",
+        "t'ai"
       ],
       "tokens_l2": [
         "Teraz",
-        "je na rade",
-        "Katka."
+        "je",
+        "na",
+        "rade",
+        "Katka.",
+        "ťa"
       ]
     },
     {
@@ -241,14 +247,22 @@
       "l1": "Je compte : un, deux, trois !",
       "l2": "Počítam: jeden, dva, tri!",
       "tokens_l1": [
-        "Je compte :",
+        "Je",
+        "compte",
+        ":",
         "un, deux,",
-        "trois !"
+        "trois",
+        "!",
+        "joue",
+        "à"
       ],
       "tokens_l2": [
         "Počítam:",
-        "jeden, dva,",
-        "tri!"
+        "jeden,",
+        "dva,",
+        "tri!",
+        "rade",
+        "skrývačku"
       ]
     },
     {
@@ -258,15 +272,20 @@
       "l2": "Kde si, Maťo? Mám ťa!",
       "tokens_l1": [
         "Où es-tu,",
-        "Maťo ?",
+        "Maťo",
+        "?",
         "Je t'ai",
-        "trouvé !"
+        "trouvé",
+        "!",
+        "cache-cache"
       ],
       "tokens_l2": [
-        "Kde si,",
+        "Kde",
+        "si,",
         "Maťo?",
         "Mám",
-        "ťa!"
+        "ťa!",
+        "rade"
       ]
     },
     {

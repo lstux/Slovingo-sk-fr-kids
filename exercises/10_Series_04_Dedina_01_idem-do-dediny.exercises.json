@@ -306,12 +306,16 @@
       "tokens_l1": [
         "Maťo",
         "va",
-        "à la boulangerie."
+        "à",
+        "la",
+        "boulangerie.",
+        "village"
       ],
       "tokens_l2": [
         "Maťo",
         "ide",
-        "do pekárne."
+        "do pekárne.",
+        "dediny"
       ]
     },
     {
@@ -323,15 +327,21 @@
         "Je vais",
         "au village,",
         "mais",
-        "elle rentre",
-        "à la maison."
+        "elle",
+        "rentre",
+        "à",
+        "la",
+        "maison.",
+        "va"
       ],
       "tokens_l2": [
         "Idem",
         "do dediny,",
         "ale",
-        "ona ide",
-        "domov."
+        "ona",
+        "ide",
+        "domov.",
+        "mesta"
       ]
     },
     {

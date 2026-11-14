@@ -368,16 +368,25 @@
       "l1": "Je ne veux pas de miel, mais je veux des noix.",
       "l2": "Nechcem med, ale chcem orechy.",
       "tokens_l1": [
-        "Je ne veux pas",
+        "Je",
+        "ne",
+        "veux",
+        "pas",
         "de miel,",
         "mais",
-        "je veux des noix."
+        "je",
+        "veux",
+        "des",
+        "noix.",
+        "veut"
       ],
       "tokens_l2": [
         "Nechcem",
         "med,",
         "ale",
-        "chcem orechy."
+        "chcem",
+        "orechy.",
+        "mrkvu"
       ]
     },
     {

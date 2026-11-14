@@ -266,14 +266,20 @@
       "l1": "Les bébés animaux sont dans le terrier.",
       "l2": "Mláďatá sú v nore.",
       "tokens_l1": [
-        "Les bébés animaux",
+        "Les",
+        "bébés",
+        "animaux",
         "sont",
-        "dans le terrier."
+        "dans",
+        "le",
+        "terrier.",
+        "écureuil"
       ],
       "tokens_l2": [
         "Mláďatá",
         "sú",
-        "v nore."
+        "v nore.",
+        "veverička"
       ]
     },
     {
@@ -284,12 +290,19 @@
       "tokens_l1": [
         "Où",
         "sont",
-        "les bébés animaux ?"
+        "les",
+        "bébés",
+        "animaux",
+        "?",
+        "un",
+        "écureuil"
       ],
       "tokens_l2": [
         "Kde",
         "sú",
-        "mláďatá?"
+        "mláďatá?",
+        "je",
+        "veverička"
       ]
     },
     {

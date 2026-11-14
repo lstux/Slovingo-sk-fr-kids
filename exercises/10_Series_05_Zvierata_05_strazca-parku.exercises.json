@@ -205,12 +205,18 @@
       "tokens_l1": [
         "Bonjour,",
         "Monsieur",
-        "Orol !"
+        "Orol",
+        "!",
+        "pas",
+        "ne"
       ],
       "tokens_l2": [
-        "Dobrý deň,",
+        "Dobrý",
+        "deň,",
         "pán",
-        "Orol!"
+        "Orol!",
+        "prosím",
+        "nekrmte"
       ]
     },
     {
@@ -221,14 +227,19 @@
       "tokens_l1": [
         "Les enfants,",
         "restez",
-        "sur le sentier,",
-        "s'il vous plaît."
+        "sur",
+        "le",
+        "sentier,",
+        "s'il",
+        "vous",
+        "plaît."
       ],
       "tokens_l2": [
         "Deti,",
         "choďte",
         "po chodníku,",
-        "prosím."
+        "prosím.",
+        "pán"
       ]
     },
     {

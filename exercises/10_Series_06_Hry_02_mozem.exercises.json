@@ -269,12 +269,17 @@
       "tokens_l1": [
         "Je peux",
         "jouer",
-        "avec le ballon ?"
+        "avec",
+        "le",
+        "ballon",
+        "?",
+        "au"
       ],
       "tokens_l2": [
         "Môžem",
         "sa hrať",
-        "s loptou?"
+        "s loptou?",
+        "do"
       ]
     },
     {
@@ -285,12 +290,16 @@
       "tokens_l1": [
         "Je peux",
         "aller",
-        "au village ?"
+        "au",
+        "village",
+        "?",
+        "jouer"
       ],
       "tokens_l2": [
         "Môžem",
         "ísť",
-        "do dediny?"
+        "do dediny?",
+        "hrať"
       ]
     },
     {
@@ -299,14 +308,19 @@
       "l1": "On ne peut pas jouer ici.",
       "l2": "Tu sa nemôžeme hrať.",
       "tokens_l1": [
-        "On ne peut pas",
+        "On",
+        "ne",
+        "peut",
+        "pas",
         "jouer",
-        "ici."
+        "ici.",
+        "peux"
       ],
       "tokens_l2": [
         "Tu",
         "sa nemôžeme",
-        "hrať."
+        "hrať.",
+        "dediny"
       ]
     },
     {

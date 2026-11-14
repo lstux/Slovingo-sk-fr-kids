@@ -263,14 +263,20 @@
         "est",
         "grande",
         "et",
-        "joyeuse !"
+        "joyeuse",
+        "!",
+        "mamie",
+        "huit"
       ],
       "tokens_l2": [
-        "Moja rodina",
+        "Moja",
+        "rodina",
         "je",
         "veľká",
         "a",
-        "veselá!"
+        "veselá!",
+        "babka",
+        "rokov"
       ]
     },
     {
@@ -280,13 +286,20 @@
       "l2": "Mám osem rokov, babka!",
       "tokens_l1": [
         "J'ai",
-        "huit ans,",
-        "mamie !"
+        "huit",
+        "ans,",
+        "mamie",
+        "!",
+        "ma",
+        "est"
       ],
       "tokens_l2": [
         "Mám",
-        "osem rokov,",
-        "babka!"
+        "osem",
+        "rokov,",
+        "babka!",
+        "silná",
+        "malá"
       ]
     },
     {
@@ -370,14 +383,22 @@
       "l1": "Et ta sœur ? Comment est-elle ?",
       "l2": "A tvoja sestra? Aká je?",
       "tokens_l1": [
-        "Et ta sœur ?",
+        "Et",
+        "ta",
+        "sœur",
+        "?",
         "Comment",
-        "est-elle ?"
+        "est-elle",
+        "?",
+        "huit"
       ],
       "tokens_l2": [
-        "A tvoja sestra?",
+        "A",
+        "tvoja",
+        "sestra?",
         "Aká",
-        "je?"
+        "je?",
+        "babka"
       ]
     },
     {

@@ -290,16 +290,20 @@
       "l1": "J'ai faim, mais je mange lentement.",
       "l2": "Mám hlad, ale jem pomaly.",
       "tokens_l1": [
-        "J'ai faim,",
+        "J'ai",
+        "faim,",
         "mais",
         "je mange",
-        "lentement."
+        "lentement.",
+        "de"
       ],
       "tokens_l2": [
-        "Mám hlad,",
+        "Mám",
+        "hlad,",
         "ale",
         "jem",
-        "pomaly."
+        "pomaly.",
+        "vodu"
       ]
     },
     {
@@ -308,14 +312,18 @@
       "l1": "J'ai soif. Je bois de l'eau.",
       "l2": "Mám smäd. Pijem vodu.",
       "tokens_l1": [
-        "J'ai soif.",
+        "J'ai",
+        "soif.",
         "Je bois",
-        "de l'eau."
+        "de l'eau.",
+        "faim"
       ],
       "tokens_l2": [
-        "Mám smäd.",
+        "Mám",
+        "smäd.",
         "Pijem",
-        "vodu."
+        "vodu.",
+        "hlad"
       ]
     },
     {

@@ -283,15 +283,19 @@
       "l2": "Medveď je väčší ako svišť.",
       "tokens_l1": [
         "L'ours",
-        "est plus grand",
+        "est",
+        "plus",
+        "grand",
         "que",
-        "la marmotte."
+        "la marmotte.",
+        "petit"
       ],
       "tokens_l2": [
         "Medveď",
         "je väčší",
         "ako",
-        "svišť."
+        "svišť.",
+        "najmenší"
       ]
     },
     {
@@ -301,15 +305,19 @@
       "l2": "Zajac je rýchlejší ako medveď.",
       "tokens_l1": [
         "Le lièvre",
-        "est plus rapide",
+        "est",
+        "plus",
+        "rapide",
         "que",
-        "l'ours."
+        "l'ours.",
+        "petit"
       ],
       "tokens_l2": [
         "Zajac",
         "je rýchlejší",
         "ako",
-        "medveď."
+        "medveď.",
+        "najmenší"
       ]
     },
     {
@@ -320,12 +328,19 @@
       "tokens_l1": [
         "Qui",
         "est",
-        "le plus rapide ?"
+        "le",
+        "plus",
+        "rapide",
+        "?",
+        "grand",
+        "des"
       ],
       "tokens_l2": [
         "Kto",
         "je",
-        "rýchlejší?"
+        "rýchlejší?",
+        "v",
+        "najväčší"
       ]
     },
     {
@@ -335,15 +350,19 @@
       "l2": "Orol je rýchlejší ako kamzík.",
       "tokens_l1": [
         "L'aigle",
-        "est plus rapide",
+        "est",
+        "plus",
+        "rapide",
         "que",
-        "le chamois."
+        "le chamois.",
+        "petit"
       ],
       "tokens_l2": [
         "Orol",
         "je rýchlejší",
         "ako",
-        "kamzík."
+        "kamzík.",
+        "najmenší"
       ]
     },
     {

@@ -128,13 +128,23 @@
       "l2": "Hráme sa na lúke, nie tu!",
       "tokens_l1": [
         "On joue",
-        "dans la prairie,",
-        "pas ici !"
+        "dans",
+        "la",
+        "prairie,",
+        "pas",
+        "ici",
+        "!",
+        "vais",
+        "chercher"
       ],
       "tokens_l2": [
-        "Hráme sa",
+        "Hráme",
+        "sa",
         "na lúke,",
-        "nie tu!"
+        "nie",
+        "tu!",
+        "hľadať",
+        "si"
       ]
     },
     {

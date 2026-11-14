@@ -157,16 +157,25 @@
       "l1": "J'aime la poire, mais je n'aime pas la carotte.",
       "l2": "Chutí mi hruška, ale nechutí mi mrkva.",
       "tokens_l1": [
-        "J'aime la poire,",
+        "J'aime",
+        "la",
+        "poire,",
         "mais",
-        "je n'aime pas",
-        "la carotte."
+        "je",
+        "n'aime",
+        "pas",
+        "la carotte.",
+        "lait"
       ],
       "tokens_l2": [
-        "Chutí mi hruška,",
+        "Chutí",
+        "mi",
+        "hruška,",
         "ale",
-        "nechutí mi",
-        "mrkva."
+        "nechutí",
+        "mi",
+        "mrkva.",
+        "mlieko"
       ]
     },
     {

@@ -305,12 +305,16 @@
       "tokens_l1": [
         "Le lit",
         "est",
-        "dans la chambre."
+        "dans",
+        "la",
+        "chambre.",
+        "ici"
       ],
       "tokens_l2": [
         "Posteľ",
         "je",
-        "v izbe."
+        "v izbe.",
+        "tu"
       ]
     },
     {
@@ -321,12 +325,18 @@
       "tokens_l1": [
         "La table",
         "est",
-        "dans la cuisine."
+        "dans",
+        "la",
+        "cuisine.",
+        "fenêtre",
+        "ici"
       ],
       "tokens_l2": [
         "Stôl",
         "je",
-        "v kuchyni."
+        "v kuchyni.",
+        "okno",
+        "tu"
       ]
     },
     {
@@ -336,15 +346,23 @@
       "l2": "Kde je okno? Okno je tu.",
       "tokens_l1": [
         "Où est",
-        "la fenêtre ?",
+        "la",
+        "fenêtre",
+        "?",
         "La fenêtre",
-        "est ici."
+        "est",
+        "ici.",
+        "dans",
+        "lit"
       ],
       "tokens_l2": [
-        "Kde je",
+        "Kde",
+        "je",
         "okno?",
         "Okno",
-        "je tu."
+        "je tu.",
+        "v",
+        "izbe"
       ]
     },
     {

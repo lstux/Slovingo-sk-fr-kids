@@ -212,13 +212,17 @@
       "l1": "Salut ! Comment ça va ?",
       "l2": "Ahoj! Ako sa máš?",
       "tokens_l1": [
-        "Salut !",
+        "Salut",
+        "!",
         "Comment",
-        "ça va ?"
+        "ça",
+        "va",
+        "?"
       ],
       "tokens_l2": [
         "Ahoj!",
-        "Ako sa",
+        "Ako",
+        "sa",
         "máš?"
       ]
     },

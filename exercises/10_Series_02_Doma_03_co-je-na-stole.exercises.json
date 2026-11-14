@@ -255,14 +255,22 @@
       "l1": "Sur la table, il y a un livre.",
       "l2": "Na stole je kniha.",
       "tokens_l1": [
-        "Sur la table,",
-        "il y a",
-        "un livre."
+        "Sur",
+        "la",
+        "table,",
+        "il",
+        "y",
+        "a",
+        "un livre.",
+        "dans",
+        "lampe"
       ],
       "tokens_l2": [
         "Na stole",
         "je",
-        "kniha."
+        "kniha.",
+        "izbe",
+        "v"
       ]
     },
     {
@@ -273,12 +281,18 @@
       "tokens_l1": [
         "La lampe",
         "est",
-        "dans la chambre."
+        "dans",
+        "la",
+        "chambre.",
+        "mon",
+        "sur"
       ],
       "tokens_l2": [
         "Lampa",
         "je",
-        "v izbe."
+        "v izbe.",
+        "kniha",
+        "moja"
       ]
     },
     {
@@ -288,13 +302,22 @@
       "l2": "Čo je na stole?",
       "tokens_l1": [
         "Qu'est-ce",
-        "qu'il y a",
-        "sur la table ?"
+        "qu'il",
+        "y",
+        "a",
+        "sur",
+        "la",
+        "table",
+        "?",
+        "chambre",
+        "est"
       ],
       "tokens_l2": [
         "Čo",
         "je",
-        "na stole?"
+        "na stole?",
+        "v",
+        "izbe"
       ]
     },
     {
@@ -303,16 +326,26 @@
       "l1": "Dans la cuisine, il y a une table et une chaise.",
       "l2": "V kuchyni je stôl a stolička.",
       "tokens_l1": [
-        "Dans la cuisine,",
-        "il y a",
+        "Dans",
+        "la",
+        "cuisine,",
+        "il",
+        "y",
+        "a",
         "une table",
-        "et une chaise."
+        "et",
+        "une",
+        "chaise.",
+        "livre",
+        "sur"
       ],
       "tokens_l2": [
         "V kuchyni",
         "je",
         "stôl",
-        "a stolička."
+        "a stolička.",
+        "kniha",
+        "na"
       ]
     },
     {

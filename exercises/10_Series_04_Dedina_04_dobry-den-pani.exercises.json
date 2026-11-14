@@ -247,12 +247,19 @@
       "tokens_l1": [
         "Merci,",
         "au revoir,",
-        "Madame Ježková !"
+        "Madame",
+        "Ježková",
+        "!",
+        "avez",
+        "ça"
       ],
       "tokens_l2": [
         "Ďakujem,",
         "dovidenia,",
-        "pani Ježková!"
+        "pani",
+        "Ježková!",
+        "stojí",
+        "deň"
       ]
     },
     {
@@ -263,12 +270,16 @@
       "tokens_l1": [
         "Bonjour,",
         "Madame",
-        "Ježková !"
+        "Ježková",
+        "!",
+        "pain"
       ],
       "tokens_l2": [
-        "Dobrý deň,",
+        "Dobrý",
+        "deň,",
         "pani",
-        "Ježková!"
+        "Ježková!",
+        "a"
       ]
     },
     {
@@ -277,14 +288,20 @@
       "l1": "Madame Ježková, vous avez du fromage ?",
       "l2": "Pani Ježková, máte syr?",
       "tokens_l1": [
-        "Madame Ježková,",
-        "vous avez",
-        "du fromage ?"
+        "Madame",
+        "Ježková,",
+        "vous",
+        "avez",
+        "du",
+        "fromage",
+        "?"
       ],
       "tokens_l2": [
-        "Pani Ježková,",
+        "Pani",
+        "Ježková,",
         "máte",
-        "syr?"
+        "syr?",
+        "deň"
       ]
     },
     {

@@ -285,12 +285,15 @@
       "tokens_l1": [
         "Viens",
         "au",
-        "magasin !"
+        "magasin",
+        "!",
+        "la"
       ],
       "tokens_l2": [
         "Poď",
         "do",
-        "obchodu!"
+        "obchodu!",
+        "pekárne"
       ]
     },
     {
@@ -301,12 +304,15 @@
       "tokens_l1": [
         "Va",
         "à la",
-        "boulangerie !"
+        "boulangerie",
+        "!",
+        "c'est"
       ],
       "tokens_l2": [
         "Choď",
         "do",
-        "pekárne!"
+        "pekárne!",
+        "je"
       ]
     },
     {
@@ -316,13 +322,20 @@
       "l2": "Pozri, Maťo ide do pekárne!",
       "tokens_l1": [
         "Regarde,",
-        "Maťo va",
-        "à la boulangerie !"
+        "Maťo",
+        "va",
+        "à",
+        "la",
+        "boulangerie",
+        "!",
+        "ici"
       ],
       "tokens_l2": [
         "Pozri,",
-        "Maťo ide",
-        "do pekárne!"
+        "Maťo",
+        "ide",
+        "do pekárne!",
+        "sem"
       ]
     },
     {

@@ -334,16 +334,25 @@
       "l1": "Voici ma maman. Et voici mon papa.",
       "l2": "To je moja mama. A to je môj tato.",
       "tokens_l1": [
-        "Voici ma maman.",
+        "Voici",
+        "ma",
+        "maman.",
         "Et",
         "voici",
-        "mon papa."
+        "mon",
+        "papa.",
+        "grand-mère"
       ],
       "tokens_l2": [
-        "To je moja mama.",
+        "To",
+        "je",
+        "moja",
+        "mama.",
         "A",
         "to je",
-        "môj tato."
+        "môj",
+        "tato.",
+        "babka"
       ]
     },
     {

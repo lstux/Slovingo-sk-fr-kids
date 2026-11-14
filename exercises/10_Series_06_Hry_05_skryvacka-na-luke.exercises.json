@@ -207,12 +207,17 @@
       "tokens_l1": [
         "Où",
         "es-tu,",
-        "Katka ?"
+        "Katka",
+        "?",
+        "peux",
+        "aussi"
       ],
       "tokens_l2": [
         "Kde",
         "si,",
-        "Katka?"
+        "Katka?",
+        "ja",
+        "sa"
       ]
     },
     {
@@ -221,14 +226,20 @@
       "l1": "Pas de souci ! C'est amusant !",
       "l2": "Nevadí! To je zábava!",
       "tokens_l1": [
-        "Pas de souci !",
+        "Pas",
+        "de",
+        "souci",
+        "!",
         "C'est",
-        "amusant !"
+        "amusant",
+        "!",
+        "peux"
       ],
       "tokens_l2": [
         "Nevadí!",
         "To je",
-        "zábava!"
+        "zábava!",
+        "hrať"
       ]
     },
     {

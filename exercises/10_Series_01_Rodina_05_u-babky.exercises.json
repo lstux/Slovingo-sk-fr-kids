@@ -231,12 +231,18 @@
       "tokens_l1": [
         "Oh !",
         "C'est",
-        "un renard !"
+        "un",
+        "renard",
+        "!",
+        "ans",
+        "huit"
       ],
       "tokens_l2": [
         "Ach!",
         "To je",
-        "líška!"
+        "líška!",
+        "rokov",
+        "osem"
       ]
     },
     {
@@ -245,16 +251,25 @@
       "l1": "Je n'ai pas de frère, mais j'ai une sœur.",
       "l2": "Nemám brata, ale mám sestru.",
       "tokens_l1": [
-        "Je n'ai pas",
+        "Je",
+        "n'ai",
+        "pas",
         "de frère,",
         "mais",
-        "j'ai une sœur."
+        "j'ai",
+        "une",
+        "sœur.",
+        "voici",
+        "ma"
       ],
       "tokens_l2": [
         "Nemám",
         "brata,",
         "ale",
-        "mám sestru."
+        "mám",
+        "sestru.",
+        "babka",
+        "je"
       ]
     },
     {
@@ -263,16 +278,25 @@
       "l1": "Oui ! Mon papa est joyeux et gentil.",
       "l2": "Áno! Môj tato je veselý a milý.",
       "tokens_l1": [
-        "Oui !",
-        "Mon papa",
+        "Oui",
+        "!",
+        "Mon",
+        "papa",
         "est",
-        "joyeux et gentil."
+        "joyeux",
+        "et",
+        "gentil.",
+        "huit"
       ],
       "tokens_l2": [
         "Áno!",
-        "Môj tato",
+        "Môj",
+        "tato",
         "je",
-        "veselý a milý."
+        "veselý",
+        "a",
+        "milý.",
+        "osem"
       ]
     },
     {
@@ -304,15 +328,23 @@
       "l2": "Moja babka je stará, ale veľmi silná.",
       "tokens_l1": [
         "Ma grand-mère",
-        "est âgée,",
+        "est",
+        "âgée,",
         "mais",
-        "très forte."
+        "très",
+        "forte.",
+        "ans",
+        "huit"
       ],
       "tokens_l2": [
-        "Moja babka",
+        "Moja",
+        "babka",
         "je stará,",
         "ale",
-        "veľmi silná."
+        "veľmi",
+        "silná.",
+        "osem",
+        "rokov"
       ]
     },
     {

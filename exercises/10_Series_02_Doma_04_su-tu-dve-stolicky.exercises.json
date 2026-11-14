@@ -305,12 +305,16 @@
       "tokens_l1": [
         "Les livres",
         "sont",
-        "sur la table."
+        "sur",
+        "la",
+        "table.",
+        "est"
       ],
       "tokens_l2": [
         "Knihy",
         "sú",
-        "na stole."
+        "na stole.",
+        "tam"
       ]
     },
     {
@@ -321,12 +325,16 @@
       "tokens_l1": [
         "Où",
         "sont",
-        "les livres ?"
+        "les",
+        "livres",
+        "?",
+        "là-bas"
       ],
       "tokens_l2": [
         "Kde",
         "sú",
-        "knihy?"
+        "knihy?",
+        "tam"
       ]
     },
     {

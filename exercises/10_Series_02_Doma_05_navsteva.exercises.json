@@ -198,15 +198,20 @@
       "l2": "Kuchyňa je tam. Tu je moja izba.",
       "tokens_l1": [
         "La cuisine",
-        "est là-bas.",
-        "Ici, c'est",
-        "ma chambre."
+        "est",
+        "là-bas.",
+        "Ici,",
+        "c'est",
+        "ma chambre.",
+        "terrier"
       ],
       "tokens_l2": [
         "Kuchyňa",
         "je tam.",
         "Tu je",
-        "moja izba."
+        "moja",
+        "izba.",
+        "nore"
       ]
     },
     {
@@ -217,12 +222,16 @@
       "tokens_l1": [
         "Où",
         "est",
-        "le lit ?"
+        "le",
+        "lit",
+        "?",
+        "aussi"
       ],
       "tokens_l2": [
         "Kde",
         "je",
-        "posteľ?"
+        "posteľ?",
+        "v"
       ]
     },
     {
@@ -232,15 +241,30 @@
       "l2": "Posteľ je v izbe. Na posteli je hračka.",
       "tokens_l1": [
         "Le lit",
-        "est dans la chambre.",
-        "Sur le lit,",
-        "il y a un jouet."
+        "est",
+        "dans",
+        "la",
+        "chambre.",
+        "Sur",
+        "le",
+        "lit,",
+        "il",
+        "y",
+        "a",
+        "un",
+        "jouet.",
+        "où",
+        "habites-tu"
       ],
       "tokens_l2": [
         "Posteľ",
-        "je v izbe.",
+        "je",
+        "v",
+        "izbe.",
         "Na posteli",
-        "je hračka."
+        "je hračka.",
+        "kde",
+        "bývaš"
       ]
     },
     {

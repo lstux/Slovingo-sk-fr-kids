@@ -327,12 +327,19 @@
       "tokens_l1": [
         "Le lièvre",
         "a",
-        "de longues oreilles."
+        "de",
+        "longues",
+        "oreilles.",
+        "rapide",
+        "renard"
       ],
       "tokens_l2": [
         "Zajac",
         "má",
-        "dlhé uši."
+        "dlhé",
+        "uši.",
+        "je",
+        "rýchla"
       ]
     },
     {
@@ -343,12 +350,17 @@
       "tokens_l1": [
         "L'aigle",
         "a",
-        "de grandes ailes."
+        "de",
+        "grandes",
+        "ailes.",
+        "est"
       ],
       "tokens_l2": [
         "Orol",
         "má",
-        "veľké krídla."
+        "veľké",
+        "krídla.",
+        "je"
       ]
     },
     {
@@ -373,16 +385,25 @@
       "l1": "L'ours est grand, mais il est aussi rapide !",
       "l2": "Medveď je veľký, ale aj rýchly!",
       "tokens_l1": [
-        "L'ours est grand,",
-        "mais il est",
+        "L'ours",
+        "est",
+        "grand,",
+        "mais",
+        "il",
+        "est",
         "aussi",
-        "rapide !"
+        "rapide",
+        "!",
+        "renard"
       ],
       "tokens_l2": [
-        "Medveď je veľký,",
+        "Medveď",
+        "je",
+        "veľký,",
         "ale",
         "aj",
-        "rýchly!"
+        "rýchly!",
+        "má"
       ]
     },
     {

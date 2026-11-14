@@ -304,13 +304,20 @@
       "l2": "Čo je na obed?",
       "tokens_l1": [
         "Qu'est-ce",
-        "qu'il y a",
-        "pour le déjeuner ?"
+        "qu'il",
+        "y",
+        "a",
+        "pour",
+        "le",
+        "déjeuner",
+        "?",
+        "je"
       ],
       "tokens_l2": [
         "Čo",
         "je",
-        "na obed?"
+        "na obed?",
+        "med"
       ]
     },
     {
@@ -319,14 +326,22 @@
       "l1": "Pour le déjeuner, je mange de la soupe.",
       "l2": "Na obed jem polievku.",
       "tokens_l1": [
-        "Pour le déjeuner,",
+        "Pour",
+        "le",
+        "déjeuner,",
         "je mange",
-        "de la soupe."
+        "de",
+        "la",
+        "soupe.",
+        "bonne",
+        "est"
       ],
       "tokens_l2": [
         "Na obed",
         "jem",
-        "polievku."
+        "polievku.",
+        "je",
+        "dobrá"
       ]
     },
     {
@@ -351,14 +366,18 @@
       "l1": "Pour le petit-déjeuner, je bois du thé.",
       "l2": "Na raňajky pijem čaj.",
       "tokens_l1": [
-        "Pour le petit-déjeuner,",
+        "Pour",
+        "le",
+        "petit-déjeuner,",
         "je bois",
-        "du thé."
+        "du thé.",
+        "est"
       ],
       "tokens_l2": [
         "Na raňajky",
         "pijem",
-        "čaj."
+        "čaj.",
+        "dobrá"
       ]
     },
     {

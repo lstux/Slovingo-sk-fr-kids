@@ -230,12 +230,15 @@
       "tokens_l1": [
         "Comment",
         "tu",
-        "t'appelles ?"
+        "t'appelles",
+        "?",
+        "français"
       ],
       "tokens_l2": [
         "Ako",
         "sa",
-        "voláš?"
+        "voláš?",
+        "po"
       ]
     },
     {
@@ -246,12 +249,15 @@
       "tokens_l1": [
         "Tu",
         "parles",
-        "français ?"
+        "français",
+        "?",
+        "m'appelle"
       ],
       "tokens_l2": [
         "Hovoríš",
         "po",
-        "francúzsky?"
+        "francúzsky?",
+        "sa"
       ]
     },
     {
@@ -260,14 +266,22 @@
       "l1": "Pas de souci ! Salut, [USER_NAME] !",
       "l2": "Nevadí! Ahoj, [USER_NAME]!",
       "tokens_l1": [
-        "Pas de souci !",
+        "Pas",
+        "de",
+        "souci",
+        "!",
         "Salut,",
-        "[USER_NAME] !"
+        "[USER_NAME]",
+        "!",
+        "tu",
+        "t'appelles"
       ],
       "tokens_l2": [
         "Nevadí!",
         "Ahoj,",
-        "[USER_NAME]!"
+        "[USER_NAME]!",
+        "sa",
+        "voláš"
       ]
     },
     {

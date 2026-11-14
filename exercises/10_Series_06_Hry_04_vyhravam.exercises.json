@@ -195,12 +195,17 @@
       "tokens_l1": [
         "Je perds,",
         "mais",
-        "pas de souci !"
+        "pas",
+        "de",
+        "souci",
+        "!",
+        "gagne"
       ],
       "tokens_l2": [
         "Prehrávam,",
         "ale",
-        "nevadí!"
+        "nevadí!",
+        "a"
       ]
     },
     {
@@ -209,16 +214,28 @@
       "l1": "Moi, je gagne et toi, tu perds. Encore une fois ?",
       "l2": "Ja vyhrávam a ty prehrávaš. Ešte raz?",
       "tokens_l1": [
-        "Moi, je gagne",
+        "Moi,",
+        "je",
+        "gagne",
         "et",
-        "toi, tu perds.",
-        "Encore une fois ?"
+        "toi,",
+        "tu",
+        "perds.",
+        "Encore",
+        "une",
+        "fois",
+        "?",
+        "joyeux",
+        "il"
       ],
       "tokens_l2": [
         "Ja vyhrávam",
         "a",
         "ty prehrávaš.",
-        "Ešte raz?"
+        "Ešte",
+        "raz?",
+        "ale",
+        "je"
       ]
     },
     {
@@ -227,14 +244,22 @@
       "l1": "Maťo perd, mais il est joyeux.",
       "l2": "Maťo prehráva, ale je veselý.",
       "tokens_l1": [
-        "Maťo perd,",
+        "Maťo",
+        "perd,",
         "mais",
-        "il est joyeux."
+        "il",
+        "est",
+        "joyeux.",
+        "je",
+        "tu"
       ],
       "tokens_l2": [
-        "Maťo prehráva,",
+        "Maťo",
+        "prehráva,",
         "ale",
-        "je veselý."
+        "je veselý.",
+        "a",
+        "vyhrávam"
       ]
     },
     {

@@ -137,18 +137,24 @@
       "l1": "Moi, je suis une marmotte et Maťo est un ours.",
       "l2": "Ja som svišť a Maťo je medveď.",
       "tokens_l1": [
-        "Moi, je suis",
+        "Moi,",
+        "je",
+        "suis",
         "une marmotte",
         "et",
-        "Maťo est",
-        "un ours."
+        "Maťo",
+        "est",
+        "un ours.",
+        "animaux"
       ],
       "tokens_l2": [
         "Ja som",
         "svišť",
         "a",
-        "Maťo je",
-        "medveď."
+        "Maťo",
+        "je",
+        "medveď.",
+        "nore"
       ]
     },
     {
@@ -158,17 +164,31 @@
       "l2": "Zajac má dlhé uši, ale medveď má malé uši.",
       "tokens_l1": [
         "Le lièvre",
-        "a de longues oreilles,",
+        "a",
+        "de",
+        "longues",
+        "oreilles,",
         "mais",
         "l'ours",
-        "a de petites oreilles."
+        "a",
+        "de",
+        "petites",
+        "oreilles.",
+        "animaux",
+        "les"
       ],
       "tokens_l2": [
         "Zajac",
-        "má dlhé uši,",
+        "má",
+        "dlhé",
+        "uši,",
         "ale",
         "medveď",
-        "má malé uši."
+        "má",
+        "malé",
+        "uši.",
+        "v",
+        "nore"
       ]
     },
     {

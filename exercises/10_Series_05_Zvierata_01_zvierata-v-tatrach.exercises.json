@@ -405,14 +405,20 @@
       "l1": "Dans les Tatras, il y a un lynx.",
       "l2": "V Tatrách je rys.",
       "tokens_l1": [
-        "Dans les Tatras,",
-        "il y a",
-        "un lynx."
+        "Dans",
+        "les",
+        "Tatras,",
+        "il",
+        "y",
+        "a",
+        "un lynx.",
+        "renard"
       ],
       "tokens_l2": [
         "V Tatrách",
         "je",
-        "rys."
+        "rys.",
+        "líška"
       ]
     },
     {

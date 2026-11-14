@@ -173,12 +173,17 @@
       "tokens_l1": [
         "Merci,",
         "au revoir,",
-        "Madame Ježková !"
+        "Madame",
+        "Ježková",
+        "!",
+        "veux"
       ],
       "tokens_l2": [
         "Ďakujem,",
         "dovidenia,",
-        "pani Ježková!"
+        "pani",
+        "Ježková!",
+        "chceš"
       ]
     },
     {
@@ -187,14 +192,22 @@
       "l1": "Cinq euros ? C'est cher !",
       "l2": "Päť eur? To je drahé!",
       "tokens_l1": [
-        "Cinq euros ?",
+        "Cinq",
+        "euros",
+        "?",
         "C'est",
-        "cher !"
+        "cher",
+        "!",
+        "veux",
+        "baies"
       ],
       "tokens_l2": [
-        "Päť eur?",
+        "Päť",
+        "eur?",
         "To je",
-        "drahé!"
+        "drahé!",
+        "chceš",
+        "bobule"
       ]
     },
     {

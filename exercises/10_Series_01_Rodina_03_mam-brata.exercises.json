@@ -275,14 +275,24 @@
       "l1": "Qui est-ce ? C'est mon voisin.",
       "l2": "Kto je to? To je môj sused.",
       "tokens_l1": [
-        "Qui est-ce ?",
+        "Qui",
+        "est-ce",
+        "?",
         "C'est",
-        "mon voisin."
+        "mon",
+        "voisin.",
+        "de",
+        "grand-père"
       ],
       "tokens_l2": [
-        "Kto je to?",
+        "Kto",
+        "je",
+        "to?",
         "To je",
-        "môj sused."
+        "môj",
+        "sused.",
+        "babku",
+        "dedka"
       ]
     },
     {
@@ -291,16 +301,26 @@
       "l1": "C'est mon oncle. Et c'est ma tante.",
       "l2": "To je môj strýko. A to je moja teta.",
       "tokens_l1": [
-        "C'est mon oncle.",
+        "C'est",
+        "mon",
+        "oncle.",
         "Et",
         "c'est",
-        "ma tante."
+        "ma tante.",
+        "j'ai",
+        "une"
       ],
       "tokens_l2": [
-        "To je môj strýko.",
+        "To",
+        "je",
+        "môj",
+        "strýko.",
         "A",
         "to je",
-        "moja teta."
+        "moja",
+        "teta.",
+        "ale",
+        "babku"
       ]
     },
     {

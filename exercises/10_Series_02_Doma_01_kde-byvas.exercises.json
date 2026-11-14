@@ -337,12 +337,16 @@
       "tokens_l1": [
         "Katka",
         "habite",
-        "dans un terrier."
+        "dans",
+        "un",
+        "terrier.",
+        "tanière"
       ],
       "tokens_l2": [
         "Katka",
         "býva",
-        "v nore."
+        "v nore.",
+        "brlohu"
       ]
     },
     {
@@ -353,12 +357,16 @@
       "tokens_l1": [
         "Maťo",
         "habite",
-        "dans une tanière."
+        "dans",
+        "une",
+        "tanière.",
+        "maison"
       ],
       "tokens_l2": [
         "Maťo",
         "býva",
-        "v brlohu."
+        "v brlohu.",
+        "dome"
       ]
     },
     {

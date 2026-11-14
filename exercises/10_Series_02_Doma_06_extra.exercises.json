@@ -141,14 +141,23 @@
         "est",
         "là-bas",
         "et",
-        "la fenêtre est ici."
+        "la",
+        "fenêtre",
+        "est",
+        "ici.",
+        "chaud",
+        "fait"
       ],
       "tokens_l2": [
         "Dvere",
         "sú",
         "tam",
         "a",
-        "okno je tu."
+        "okno",
+        "je",
+        "tu.",
+        "teplo",
+        "v"
       ]
     },
     {
@@ -157,14 +166,20 @@
       "l1": "Mon lit est dans la chambre.",
       "l2": "Moja posteľ je v izbe.",
       "tokens_l1": [
-        "Mon lit",
+        "Mon",
+        "lit",
         "est",
-        "dans la chambre."
+        "dans",
+        "la",
+        "chambre.",
+        "le"
       ],
       "tokens_l2": [
-        "Moja posteľ",
+        "Moja",
+        "posteľ",
         "je",
-        "v izbe."
+        "v izbe.",
+        "hračky"
       ]
     },
     {

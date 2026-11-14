@@ -299,15 +299,22 @@
       "l2": "Jablko je kyslé, ale chutí mi.",
       "tokens_l1": [
         "La pomme",
-        "est acide,",
+        "est",
+        "acide,",
         "mais",
-        "j'aime ça."
+        "j'aime",
+        "ça.",
+        "aimes",
+        "le"
       ],
       "tokens_l2": [
         "Jablko",
         "je kyslé,",
         "ale",
-        "chutí mi."
+        "chutí",
+        "mi.",
+        "med",
+        "ti"
       ]
     },
     {

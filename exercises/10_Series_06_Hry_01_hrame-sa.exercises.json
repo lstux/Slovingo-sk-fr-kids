@@ -232,12 +232,15 @@
       "tokens_l1": [
         "On joue",
         "à",
-        "cache-cache."
+        "cache-cache.",
+        "le"
       ],
       "tokens_l2": [
-        "Hráme sa",
+        "Hráme",
+        "sa",
         "na",
-        "skrývačku."
+        "skrývačku.",
+        "loptou"
       ]
     },
     {
@@ -248,12 +251,15 @@
       "tokens_l1": [
         "On joue",
         "au",
-        "chat."
+        "chat.",
+        "ballon"
       ],
       "tokens_l2": [
-        "Hráme sa",
+        "Hráme",
+        "sa",
         "na",
-        "naháňačku."
+        "naháňačku.",
+        "loptou"
       ]
     },
     {
@@ -264,12 +270,17 @@
       "tokens_l1": [
         "On joue",
         "avec",
-        "le ballon."
+        "le ballon.",
+        "à",
+        "pas"
       ],
       "tokens_l2": [
-        "Hráme sa",
+        "Hráme",
+        "sa",
         "s",
-        "loptou."
+        "loptou.",
+        "naháňačku",
+        "skrývačku"
       ]
     },
     {
@@ -280,12 +291,17 @@
       "tokens_l1": [
         "On",
         "joue",
-        "ensemble !"
+        "ensemble",
+        "!",
+        "chat",
+        "à"
       ],
       "tokens_l2": [
         "Hráme",
         "sa",
-        "spolu!"
+        "spolu!",
+        "naháňačku",
+        "nie"
       ]
     },
     {

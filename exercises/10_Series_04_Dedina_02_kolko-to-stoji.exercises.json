@@ -290,12 +290,16 @@
       "tokens_l1": [
         "Le pain",
         "coûte",
-        "deux euros."
+        "deux",
+        "euros.",
+        "pas"
       ],
       "tokens_l2": [
         "Chlieb",
         "stojí",
-        "dve eurá."
+        "dve",
+        "eurá.",
+        "to"
       ]
     },
     {
@@ -306,12 +310,17 @@
       "tokens_l1": [
         "Le lait",
         "coûte",
-        "un euro."
+        "un euro.",
+        "n'est",
+        "pas"
       ],
       "tokens_l2": [
         "Mlieko",
         "stojí",
-        "jedno euro."
+        "jedno",
+        "euro.",
+        "to",
+        "lacné"
       ]
     },
     {
@@ -323,13 +332,18 @@
         "Je voudrais",
         "une pomme.",
         "Combien",
-        "ça coûte ?"
+        "ça",
+        "coûte",
+        "?",
+        "deux"
       ],
       "tokens_l2": [
-        "Prosím si",
+        "Prosím",
+        "si",
         "jablko.",
         "Koľko",
-        "to stojí?"
+        "to stojí?",
+        "eurá"
       ]
     },
     {
