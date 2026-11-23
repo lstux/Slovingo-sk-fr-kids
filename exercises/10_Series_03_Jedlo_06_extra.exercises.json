@@ -141,14 +141,16 @@
         "du thé",
         "et",
         "je mange",
-        "une pomme."
+        "une pomme.",
+        "pas"
       ],
       "tokens_l2": [
         "Pijem",
         "čaj",
         "a",
         "jem",
-        "jablko."
+        "jablko.",
+        "nechutí"
       ]
     },
     {

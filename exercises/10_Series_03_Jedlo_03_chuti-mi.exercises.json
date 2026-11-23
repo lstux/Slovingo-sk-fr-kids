@@ -268,12 +268,16 @@
       "tokens_l1": [
         "Le miel",
         "est",
-        "sucré."
+        "sucré.",
+        "pomme",
+        "cette"
       ],
       "tokens_l2": [
         "Med",
         "je",
-        "sladký."
+        "sladký.",
+        "jablko",
+        "mi"
       ]
     },
     {
@@ -284,12 +288,14 @@
       "tokens_l1": [
         "Le citron",
         "est",
-        "acide."
+        "acide.",
+        "cette"
       ],
       "tokens_l2": [
         "Citrón",
         "je",
-        "kyslý."
+        "kyslý.",
+        "jablko"
       ]
     },
     {

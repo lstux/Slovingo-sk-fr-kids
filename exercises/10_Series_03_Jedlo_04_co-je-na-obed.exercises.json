@@ -352,12 +352,14 @@
       "tokens_l1": [
         "La soupe",
         "est",
-        "bonne."
+        "bonne.",
+        "de"
       ],
       "tokens_l2": [
         "Polievka",
         "je",
-        "dobrá."
+        "dobrá.",
+        "obed"
       ]
     },
     {

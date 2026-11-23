@@ -304,12 +304,16 @@
       "tokens_l1": [
         "C'est",
         "ma",
-        "sœur."
+        "sœur.",
+        "papa",
+        "mon"
       ],
       "tokens_l2": [
         "To je",
         "moja",
-        "sestra."
+        "sestra.",
+        "tato",
+        "brat"
       ]
     },
     {
@@ -320,12 +324,16 @@
       "tokens_l1": [
         "C'est",
         "mon",
-        "frère."
+        "frère.",
+        "sœur",
+        "papa"
       ],
       "tokens_l2": [
         "To je",
         "môj",
-        "brat."
+        "brat.",
+        "sestra",
+        "tato"
       ]
     },
     {

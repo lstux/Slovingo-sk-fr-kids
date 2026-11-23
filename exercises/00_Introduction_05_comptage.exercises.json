@@ -209,12 +209,14 @@
         "Un,",
         "deux,",
         "trois",
-        "!"
+        "!",
+        "doigts"
       ],
       "tokens_l2": [
         "Jeden,",
         "dva,",
-        "tri!"
+        "tri!",
+        "prstov"
       ]
     },
     {

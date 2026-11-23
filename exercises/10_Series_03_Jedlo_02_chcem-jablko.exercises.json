@@ -338,12 +338,16 @@
       "tokens_l1": [
         "Andrea",
         "veut",
-        "une carotte."
+        "une carotte.",
+        "veux",
+        "des"
       ],
       "tokens_l2": [
         "Andrea",
         "chce",
-        "mrkvu."
+        "mrkvu.",
+        "bobule",
+        "jablko"
       ]
     },
     {
@@ -354,12 +358,16 @@
       "tokens_l1": [
         "Maťo",
         "veut",
-        "du miel."
+        "du miel.",
+        "des",
+        "veux"
       ],
       "tokens_l2": [
         "Maťo",
         "chce",
-        "med."
+        "med.",
+        "bobule",
+        "jablko"
       ]
     },
     {

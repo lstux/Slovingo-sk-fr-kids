@@ -375,12 +375,16 @@
       "tokens_l1": [
         "Katka",
         "est",
-        "une marmotte."
+        "une marmotte.",
+        "un",
+        "renard"
       ],
       "tokens_l2": [
         "Katka",
         "je",
-        "svišť."
+        "svišť.",
+        "som",
+        "líška"
       ]
     },
     {
@@ -391,12 +395,16 @@
       "tokens_l1": [
         "Maťo",
         "est",
-        "un ours."
+        "un ours.",
+        "suis",
+        "je"
       ],
       "tokens_l2": [
         "Maťo",
         "je",
-        "medveď."
+        "medveď.",
+        "som",
+        "líška"
       ]
     },
     {
@@ -429,12 +437,16 @@
       "tokens_l1": [
         "Toi,",
         "tu es",
-        "une hase."
+        "une hase.",
+        "un",
+        "renard"
       ],
       "tokens_l2": [
         "Ty",
         "si",
-        "zajačica."
+        "zajačica.",
+        "som",
+        "líška"
       ]
     },
     {

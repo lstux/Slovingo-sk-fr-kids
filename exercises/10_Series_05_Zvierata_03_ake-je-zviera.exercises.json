@@ -371,12 +371,14 @@
       "tokens_l1": [
         "La chouette",
         "est",
-        "silencieuse."
+        "silencieuse.",
+        "a"
       ],
       "tokens_l2": [
         "Sova",
         "je",
-        "tichá."
+        "tichá.",
+        "má"
       ]
     },
     {

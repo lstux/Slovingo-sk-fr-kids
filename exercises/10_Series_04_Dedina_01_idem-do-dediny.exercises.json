@@ -290,12 +290,14 @@
       "tokens_l1": [
         "Katka",
         "va",
-        "au magasin."
+        "au magasin.",
+        "maison"
       ],
       "tokens_l2": [
         "Katka",
         "ide",
-        "do obchodu."
+        "do obchodu.",
+        "domov"
       ]
     },
     {

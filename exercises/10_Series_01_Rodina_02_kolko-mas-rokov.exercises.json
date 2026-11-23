@@ -249,12 +249,16 @@
       "tokens_l1": [
         "J'ai",
         "huit",
-        "ans."
+        "ans.",
+        "âge",
+        "as-tu"
       ],
       "tokens_l2": [
         "Mám",
         "osem",
-        "rokov."
+        "rokov.",
+        "máš",
+        "desať"
       ]
     },
     {
@@ -266,13 +270,15 @@
         "Elle",
         "a",
         "neuf",
-        "ans."
+        "ans.",
+        "as-tu"
       ],
       "tokens_l2": [
         "Ona",
         "má",
         "deväť",
-        "rokov."
+        "rokov.",
+        "máš"
       ]
     },
     {
