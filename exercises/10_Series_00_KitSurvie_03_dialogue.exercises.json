@@ -230,8 +230,7 @@
       "tokens_l1": [
         "Comment",
         "tu",
-        "t'appelles",
-        "?",
+        "t'appelles ?",
         "français"
       ],
       "tokens_l2": [
@@ -249,8 +248,7 @@
       "tokens_l1": [
         "Tu",
         "parles",
-        "français",
-        "?",
+        "français ?",
         "m'appelle"
       ],
       "tokens_l2": [
@@ -268,11 +266,9 @@
       "tokens_l1": [
         "Pas",
         "de",
-        "souci",
-        "!",
+        "souci !",
         "Salut,",
-        "[USER_NAME]",
-        "!",
+        "[USER_NAME] !",
         "tu",
         "t'appelles"
       ],

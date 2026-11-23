@@ -285,8 +285,7 @@
       "tokens_l1": [
         "Viens",
         "au",
-        "magasin",
-        "!",
+        "magasin !",
         "la"
       ],
       "tokens_l2": [
@@ -304,8 +303,7 @@
       "tokens_l1": [
         "Va",
         "à la",
-        "boulangerie",
-        "!",
+        "boulangerie !",
         "c'est"
       ],
       "tokens_l2": [
@@ -326,8 +324,7 @@
         "va",
         "à",
         "la",
-        "boulangerie",
-        "!",
+        "boulangerie !",
         "ici"
       ],
       "tokens_l2": [

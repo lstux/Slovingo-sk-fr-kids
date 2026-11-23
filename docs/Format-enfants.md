@@ -210,7 +210,7 @@ Les exercices générés automatiquement sont pensés pour des adultes. Pour les
 - **Même forme** : un mot contre des mots, une phrase contre des phrases de longueur proche
 - **Distracteurs utiles** : ils ciblent les vraies confusions d'un francophone (*dva* / *dve*, *dedo* / *deň*, *tri* / *tie*)
 - **Textes à trous** : `"show_translation": true`, ponctuation autour du trou
-- **Remettre en ordre** : au moins 3 étiquettes de chaque côté
+- **Remettre en ordre** : au moins 3 étiquettes de chaque côté, la ponctuation collée à son mot, et **1 ou 2 mots parasites** à la fin, jamais aucun (mots isolés de la fiche, sinon de la série ou du cours). `python3 src/order_tokens.py --lang-dir ../Slovingo-sk-fr-kids --parasites 1-2 --apply` (repo Slovingo) les ajoute là où il en manque
 - **Prénom** : `[USER_NAME]` n'est jamais un trou ni une réponse
 - **Les 5 types** quand la fiche s'y prête ; l'écoute 🔊 est le plus utilisé
 - Chaque exercice reprend mot pour mot une paire de la fiche. Après une modification de fiche, relancer `python3 src/sync_exercises.py --lang-dir ../slovingo-sk-fr-children` (repo Slovingo)

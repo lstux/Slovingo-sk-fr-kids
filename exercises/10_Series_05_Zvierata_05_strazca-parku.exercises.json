@@ -205,8 +205,7 @@
       "tokens_l1": [
         "Bonjour,",
         "Monsieur",
-        "Orol",
-        "!",
+        "Orol !",
         "pas",
         "ne"
       ],
@@ -449,8 +448,7 @@
       "tokens_l1": [
         "D'accord,",
         "Monsieur",
-        "Orol",
-        "!",
+        "Orol !",
         "Ne",
         "nourrissez",
         "pas",
@@ -458,8 +456,7 @@
         "animaux,",
         "s'il",
         "vous",
-        "plaît",
-        "!"
+        "plaît !"
       ],
       "tokens_l2": [
         "Dobre,",
@@ -477,18 +474,15 @@
       "l2": "Nie, nie! Nekrmte zvieratá!",
       "tokens_l1": [
         "Non,",
-        "non",
-        "!",
+        "non !",
         "Ne",
         "nourrissez",
         "pas",
         "les",
-        "animaux",
-        "!",
+        "animaux !",
         "D'accord,",
         "Monsieur",
-        "Orol",
-        "!"
+        "Orol !"
       ],
       "tokens_l2": [
         "Nie,",
@@ -512,14 +506,12 @@
         "le",
         "sentier.",
         "Non,",
-        "non",
-        "!",
+        "non !",
         "Ne",
         "nourrissez",
         "pas",
         "les",
-        "animaux",
-        "!"
+        "animaux !"
       ],
       "tokens_l2": [
         "Idem",
@@ -537,19 +529,16 @@
       "l1": "Pourquoi ? Ici, il y a un terrier !",
       "l2": "Prečo? Tu je nora!",
       "tokens_l1": [
-        "Pourquoi",
-        "?",
+        "Pourquoi ?",
         "Ici,",
         "il",
         "y",
         "a",
         "un",
-        "terrier",
-        "!",
+        "terrier !",
         "Bonjour,",
         "les",
-        "enfants",
-        "!",
+        "enfants !",
         "Je",
         "suis",
         "Monsieur",
@@ -582,12 +571,10 @@
         "animaux,",
         "s'il",
         "vous",
-        "plaît",
-        "!",
+        "plaît !",
         "Bonjour,",
         "les",
-        "enfants",
-        "!",
+        "enfants !",
         "Je",
         "suis",
         "Monsieur",

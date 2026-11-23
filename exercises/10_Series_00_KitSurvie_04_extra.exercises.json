@@ -67,12 +67,10 @@
       "l1": "Salut ! Comment tu t'appelles ?",
       "l2": "Ahoj! Ako sa voláš?",
       "tokens_l1": [
-        "Salut",
-        "!",
+        "Salut !",
         "Comment",
         "tu",
-        "t'appelles",
-        "?",
+        "t'appelles ?",
         "parles"
       ],
       "tokens_l2": [
@@ -179,11 +177,9 @@
       "l1": "Oui ! Tu parles français ?",
       "l2": "Áno! Hovoríš po francúzsky?",
       "tokens_l1": [
-        "Oui",
-        "!",
+        "Oui !",
         "Tu parles",
-        "français",
-        "?",
+        "français ?",
         "t'appelles"
       ],
       "tokens_l2": [

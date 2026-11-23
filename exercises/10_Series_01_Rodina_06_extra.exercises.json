@@ -263,8 +263,7 @@
         "est",
         "grande",
         "et",
-        "joyeuse",
-        "!",
+        "joyeuse !",
         "mamie",
         "huit"
       ],
@@ -288,8 +287,7 @@
         "J'ai",
         "huit",
         "ans,",
-        "mamie",
-        "!",
+        "mamie !",
         "ma",
         "est"
       ],
@@ -385,11 +383,9 @@
       "tokens_l1": [
         "Et",
         "ta",
-        "sœur",
-        "?",
+        "sœur ?",
         "Comment",
-        "est-elle",
-        "?",
+        "est-elle ?",
         "huit"
       ],
       "tokens_l2": [

@@ -176,12 +176,10 @@
       "l1": "Oui ! Les baies sont sucrées !",
       "l2": "Áno! Bobule sú sladké!",
       "tokens_l1": [
-        "Oui",
-        "!",
+        "Oui !",
         "Les baies",
         "sont",
-        "sucrées",
-        "!",
+        "sucrées !",
         "voulez",
         "des"
       ],
@@ -200,11 +198,9 @@
       "l1": "Mmm ! C'est délicieux !",
       "l2": "Mmm! Je to výborné!",
       "tokens_l1": [
-        "Mmm",
-        "!",
+        "Mmm !",
         "C'est",
-        "délicieux",
-        "!",
+        "délicieux !",
         "halušky",
         "les"
       ],
@@ -224,8 +220,7 @@
       "tokens_l1": [
         "Oui,",
         "j'ai",
-        "faim",
-        "!",
+        "faim !",
         "les",
         "enfants"
       ],

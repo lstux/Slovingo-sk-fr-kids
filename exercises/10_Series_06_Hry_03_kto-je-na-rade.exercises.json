@@ -248,11 +248,9 @@
       "l2": "Počítam: jeden, dva, tri!",
       "tokens_l1": [
         "Je",
-        "compte",
-        ":",
+        "compte :",
         "un, deux,",
-        "trois",
-        "!",
+        "trois !",
         "joue",
         "à"
       ],
@@ -272,11 +270,9 @@
       "l2": "Kde si, Maťo? Mám ťa!",
       "tokens_l1": [
         "Où es-tu,",
-        "Maťo",
-        "?",
+        "Maťo ?",
         "Je t'ai",
-        "trouvé",
-        "!",
+        "trouvé !",
         "cache-cache"
       ],
       "tokens_l2": [
